@@ -26,8 +26,8 @@ author: rafid
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 # Replace with for deployemnet'https://suss.caves.org.au'
-url: 'https://rafidmorshedi.github.io/suss-website-redesign'
-baseurl: ''
+url: 'https://rafidmorshedi.github.io'
+baseurl: '/suss-website-redesign'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
