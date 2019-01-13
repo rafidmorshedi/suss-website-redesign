@@ -25,8 +25,8 @@ credits: '<p>Created with &hearts; by <a href="https://github.com/rafidmorshedi"
 author: rafid
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-#
-url: 'https://suss.caves.org.au'
+# Replace with for deployemnet'https://suss.caves.org.au'
+url: 'https://rafidmorshedi.github.io/suss-website-redesign'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
