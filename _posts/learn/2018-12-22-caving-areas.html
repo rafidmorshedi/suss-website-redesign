@@ -1,0 +1,40 @@
+---
+layout: page
+title: "Caving Areas"
+subheadline: "Places you can expect to visit"
+teaser: "SUSS visits caving areas all over NSW and regularly runs trips to Tasmania and New Zealand. There's plenty to explore, come and join the adventure."
+header:
+    image: nz_header_1.jpg
+    background-color: "#262930"
+    caption: This is a caption for the header image with link
+    caption_url: https://unsplash.com/
+image:
+    thumb:  homepage_typography-thumb.jpg
+    homepage: homepage_typography.jpg
+    caption: Image by Antonio
+    caption_url: "http://www.aisleone.net/"
+tags:
+    - design
+categories:
+    - learn
+#header: no
+show_meta: false
+---
+
+{% for cavingarea in site.data.cavingareas %}
+    <h2>{{cavingarea.name}}</h2>
+    <h3>How to get there</h3>
+    {{cavingarea.getting_there}}
+    <h3>Location</h3>
+    {{cavingarea.location}}
+    <h3>Condition Underground</h3>
+    {{cavingarea.conditions_underground}}
+    <h3>Facilities</h3>
+    {{cavingarea.facilities}}
+
+    <h3>Costs</h3>
+    {{cavingarea.costs}}
+
+    <h3>What to bring</h3>
+    {{cavingarea.what_to_bring}}
+{% endfor %}

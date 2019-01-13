@@ -1,0 +1,7 @@
+# Contains the details of the publications for sale on the SUSS website
+- name: SUSS Map library
+  year: 2008
+  description: "The entire SUSS map library, scanned or digitised and organised by area."
+  member_price: 10
+  nonmember_price: 10
+  thumbnail: 

@@ -1,0 +1,25 @@
+- position: President
+  name: Jordan Fenech
+  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
+  email: jordypfenech@gmail.com
+  image: '/images/comm-jordan.png'
+- position: Vice President
+  name: Lily Guo
+  role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
+  email: zguo4653@uni.sydney.edu.au
+  image: '/images/comm-lilly.png'
+- position: Gear Officer
+  name: Katie Keophilaphet
+  role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
+  email: kkeophilaphet@gmail.com
+  image: '/images/comm-katie.png'
+- position: Club Secretary
+  name: Yan Yu
+  role_desc: "The secretary is responsible for submitting permit requests at the direction of the Trip Organiser."
+  email: yayu5614@uni.sydney.edu.au
+  image: '/images/comm-yan.png'
+- position: Treasurer
+  name: Charmaine
+  role_desc: "The treasurer manages the society finances and membership fees."
+  email: psmpsw@gmail.com
+  image: '/images/comm-charmaine.png'

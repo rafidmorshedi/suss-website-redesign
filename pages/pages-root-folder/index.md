@@ -6,22 +6,21 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: kubla_header.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Join a trip"
+  url: '/triplist/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'Come caving with SUSS! Want to try something really different? Then go underground with SUSS – we guarantee you experiences you will never forget!. All trips are beginner friendly unless stated otherwise. We run monthly caving trips to Jenolan and Wombeyan and regularly run caving trips further afield such as New Zealand and Tasmania.'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "New to caving?"
+  url: '/learn/'
+  text: 'Never been caving before? All of our trips are beginner friendly unless stated otherwise. Trips are catered to all abilities and members can borrow equipment for free from the club. Caving is a great way to do something different with your weekend; you will explore new places, meet new people and learn a lot of new skills. If you are lucky you may even go where no person has ever gone before.'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  title: "About Us"
+  url: '/about/'
   image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: 'SUSS is the oldest caving club on mainland Australia - <a href="/tojoin/">join us</a>. We have an extensive collection of caving literature and a number of caving publications available for purchase. Are you a member of another caving club. Learn more about our collections here. Get in touch with the <a href="/about/committee.html">commmitee</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,8 +32,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /tojoin/
+  text: Join us now ›
   style: alert
 permalink: /index.html
 #
@@ -44,9 +43,9 @@ permalink: /index.html
 homepage: true
 ---
 
-<div id="videoModal" class="reveal-modal large" data-reveal="">
+<!-- <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
-</div>
+</div> -->
