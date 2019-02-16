@@ -1,11 +1,12 @@
 ---
-layout: page-fullwidth
+layout: page
 show_meta: false
 title: "Trip List"
 subheadline: #"Sign up now"
 teaser: "All upcoming trips are listed here. Email the trip leader to sign up."
 header:
    image_fullwidth: "cooleman_header_1.jpg"
+   caption: 'SUSS cavers looking out over the Cooleman Plain.'
 permalink: "/triplist/"
 ---
 <!-- To Do convert this to auto genarage from a yaml file -->
