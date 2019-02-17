@@ -60,7 +60,7 @@ Trip Organiser: Jordan (jordypfenech@gmail.com)
 Trip Organiser: Rafid (rafid.morshedi@gmail.com )
 
 **16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
-Trip Organiser: Rafid Phil (Philip.Maynard@uts.edu.au )
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au )
 
 ### Jenolan Trip Dates 2019
 
