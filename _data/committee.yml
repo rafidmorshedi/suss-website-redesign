@@ -2,24 +2,70 @@
   name: Jordan Fenech
   role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
   email: jordypfenech@gmail.com
-  image: '/images/comm-jordan.png'
+  image: '/images/comm-jordan.jpg'
+
 - position: Vice President
   name: Lily Guo
   role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
   email: zguo4653@uni.sydney.edu.au
-  image: '/images/comm-lilly.png'
+  image: '/images/comm-lily.jpg'
+
 - position: Gear Officer
   name: Katie Keophilaphet
   role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
   email: kkeophilaphet@gmail.com
-  image: '/images/comm-katie.png'
+  image: '/images/comm-katie.jpg'
+
 - position: Club Secretary
   name: Yan Yu
   role_desc: "The secretary is responsible for submitting permit requests at the direction of the Trip Organiser."
   email: yayu5614@uni.sydney.edu.au
-  image: '/images/comm-yan.png'
+  image: '/images/comm-yan.jpg'
+
 - position: Treasurer
   name: Charmaine
   role_desc: "The treasurer manages the society finances and membership fees."
   email: psmpsw@gmail.com
-  image: '/images/comm-charmaine.png'
+  image: '/images/comm-charmaine.jpg'
+
+- position: Safety Officer
+  name: Jordan Fenech
+  role_desc: "The safety officer is responsible for monitoring and managing the safety of club members."
+  email: jordypfenech@gmail.com
+  image: '/images/comm-jordan2.jpg'
+
+- position: BULL Editor
+  name: Phil Maynard
+  role_desc: "The editor is responsible for continuing the SUSS bulletins which are a record of the clubs caving exploits, including cave maps, discoveries and photos."
+  email: Philip.Maynard@uts.edu.au
+  image: '/images/comm-phil.jpg'
+
+- position: Social Media Officer
+  name: Stephanie Murphy
+  role_desc: "The Social Media Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
+  email: steph.whitaker@hotmail.co.uk
+  image: '/images/comm-steph.jpg'
+
+- position: Minutes Secretary
+  name: Rafid Morshedi
+  role_desc: "The minutes secretary records the minutes and actions from society meetings."
+  email: rafid.morshedi@gmail.com
+  image: '/images/comm-rafid.jpg'
+
+- position: Dive Representative
+  name: Greg Ryan
+  role_desc: "Represents the diving community of the club."
+  email: gjryan@gmail.com
+  image: '/images/comm-greg.jpg'
+
+- position: Librarian
+  name: Rafid Morshedi
+  role_desc: "The librarian is in charge of the vast SUSS caving library and archives."
+  email: rafid.morshedi@gmail.com
+  image: '/images/comm-rafid2.jpg'
+
+- position: ASF Councillor
+  name: Emily Butcher
+  role_desc: "The ASF councilor shall deal with all matters pertaining to the society's relationship with the Australian Speleological Federation Incorporated."
+  email: emilyrbutcher@outlook.com
+  image: '/images/comm-embutcher.jpg'

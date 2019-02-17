@@ -5,9 +5,9 @@ subheadline: #"Reading Experience"
 meta_teaser: #"Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
 teaser: "Tired of horizontal caving? Ready to take your vertical skills to the next level."
 header:
-    image: nz_header_1.jpg
+    image: P1200049.jpg
     background-color: "#262930"
-    caption: This is a caption for the header image with link
+    caption: SUSS often runs canyoning trips in the Blue Mountains in summer.
     caption_url: https://unsplash.com/
 image:
     thumb:  homepage_typography-thumb.jpg

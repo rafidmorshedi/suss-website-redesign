@@ -3,38 +3,34 @@ layout: page
 title: "Caving Areas"
 subheadline: "Places you can expect to visit"
 teaser: "SUSS visits caving areas all over NSW and regularly runs trips to Tasmania and New Zealand. There's plenty to explore, come and join the adventure."
-header:
-    image: nz_header_1.jpg
-    background-color: "#262930"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
-image:
-    thumb:  homepage_typography-thumb.jpg
-    homepage: homepage_typography.jpg
-    caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
+#header:
+#    image: aziz-acharki-209259-unsplash.jpg
+#    background-color: "#262930"
+#    caption: The go to caving trips throughout NSW, and occasionally run international trips.
+#    caption_url: https://unsplash.com/
 tags:
     - design
 categories:
     - learn
-#header: no
 show_meta: false
 ---
 
 {% for cavingarea in site.data.cavingareas %}
+    <p>
     <h2>{{cavingarea.name}}</h2>
+    <h3>About</h3>
+    {{cavingarea.about | markdownify}}
     <h3>How to get there</h3>
-    {{cavingarea.getting_there}}
+    {{cavingarea.getting_there | markdownify}}
     <h3>Location</h3>
-    {{cavingarea.location}}
+    {{cavingarea.location | markdownify}}
     <h3>Condition Underground</h3>
-    {{cavingarea.conditions_underground}}
+    {{cavingarea.conditions_underground | markdownify}}
     <h3>Facilities</h3>
-    {{cavingarea.facilities}}
-
+    {{cavingarea.facilities | markdownify}}
     <h3>Costs</h3>
-    {{cavingarea.costs}}
-
+    {{cavingarea.costs | markdownify}}
     <h3>What to bring</h3>
-    {{cavingarea.what_to_bring}}
+    {{cavingarea.what_to_bring | markdownify}}
+    </p>
 {% endfor %}

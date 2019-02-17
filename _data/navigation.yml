@@ -77,8 +77,8 @@
   dropdown:
   - title: "Committee"
     url: "/about/committee/"
-  # - title: "Roadmap"
-  #   url: "/roadmap/"
+  - title: "Publications"
+    url: "/about/publications/"
 
 # - title: About
 #   url: "/about/"

@@ -1,12 +1,13 @@
 ---
 layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
+title: "About SUSS"
+#subheadline: "How to use Feeling Responsive"
+#teaser: "The documentation is a work in progress..."
 permalink: "/about/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "cooleman_camping.jpg"
 ---
+
 Come caving with SUSS! Sydney University's only truly underground society!
 
 Want to try something really different? Then go underground with SUSS – we guarantee you experiences you'll never forget!

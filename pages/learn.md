@@ -4,7 +4,8 @@ show_meta: false
 title: "New to Caving?"
 subheadline: "Layouts of Feeling Responsive"
 header:
-   image_fullwidth: "nz_header_1.jpg"
+   image_fullwidth: "nz_john_oxley_1_header.jpg"
+   caption: 'We run regular trips to New Zealand. Photo by John Oxley.'
 permalink: "/learn/"
 ---
 

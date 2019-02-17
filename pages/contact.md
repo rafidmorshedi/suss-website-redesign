@@ -2,11 +2,15 @@
 layout: page
 title: "Contact"
 meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+subheadline: "Got questions? Feel free to reach out."
+#teaser: "Need to get in touch?"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+There are many ways to get in touch with the club. If your query is related to a particular trip please reach out to the trip leader named on the [trip list]({{ site.url }}{{ site.baseurl }}/triplist/). Otherwise our contact details are below:
 
- [1]: http://www.wufoo.com/
+- Got a quick question? Message the [Facebook page](http://www.facebook.com/suss.caves)
+- General Enquiries: suss-enquiry@caves.org.au
+- Want to interact with other members and see latest expedition updates? Join the [Facebook Group](https://www.facebook.com/groups/4999123669/)
+- Have questions for specific parts of the clup? Reach out to the relevant [committe member]({{ site.url }}{{ site.baseurl }}/about/committee/)
+- Snail mail: Mail address: PO Box 3318, Redfern NSW 2016

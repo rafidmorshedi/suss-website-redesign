@@ -1,10 +1,11 @@
 ---
 layout: page-fullwidth
 title: "Join Us"
-subheadline: #"ToDo-List &amp; Ideas"
+subheadline: 'Explore. Get fit. Meet adventurous folk. An experience like no other.'
 teaser: "Anyone can become a member of the club. We do not require membership for you to attend club trips, however, two conditions do apply."
 header:
-   image_fullwidth: "camping_header.jpg"
+   image_fullwidth: "vintage_wombeyan_camp.jpg"
+   caption: 'Cavers from the early 20th century camping at Wombeyan Caves.'
 permalink: "/tojoin/"
 ---
 

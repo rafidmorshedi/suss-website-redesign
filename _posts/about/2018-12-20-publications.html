@@ -1,38 +1,33 @@
 ---
 layout: page-fullwidth
-title: "Committee"
+title: "Publications"
 subheadline: #"Reading Experience"
 meta_teaser: #"Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
-teaser: "Meet the team who run SUSS."
+teaser: "Need to enrich your caving library?"
 header:
-    image: homepage_typography.jpg
-    background-color: "#262930"
-    caption: This is a caption for the header image with link
+    image_fullwidth: stanislav-kondratiev-671841-unsplash.jpg
+    background-color: #"#262930"
+    caption: Photo by Stanislav Kondratiev on Unsplash
     caption_url: https://unsplash.com/
-image:
-    thumb:  homepage_typography-thumb.jpg
-    homepage: homepage_typography.jpg
-    caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
 categories:
     - about
 ---
 
-The Committee are in charge of running the club and are elected each year at the AGM. They volunteer their time to make sure there are regular trips, that gear is available, handle the finances and record our speleological activities.
+The Society has various books, maps and Bulletins available for sale. Please contact the <a href="{{ site.url }}{{ site.baseurl }}/about/committee/">committee</a> for purchases, or come to a general meeting and pick them up.
 
 <br>
 <br>
 
-{% for role in site.data.committee %}
+{% for publication in site.data.publications %}
 
   <br>
   <div class="row align-top">
-    <div class="small-3 columns"><img style="display:inline;" src="{{role.image}}"></div>
+    <div class="small-3 columns"><img style="display:inline;" src="{{publication.thumbnail}}"></div>
     <div class="small-9 columns align-top">
-      <h2>{{role.position}}</h2>
-      <b>{{role.name}}</b><br>
-      {{role.role_desc}}<br>
-      {{role.email}}
+      <h4>{{publication.name}} ({{publication.year}})</h4>
+      <i>{{publication.description | markdownify}}</i>
+      <b>Member Price:</b> ${{publication.member_price}}<br>
+      <b>Non-Member Price:</b> ${{publication.nonmember_price}}
     </div>
   </div>
 
