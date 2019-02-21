@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: #"Members Section"
 title: "Members Area"
 teaser: "Learn more about how the club operates and delve into our archives."
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+    image_fullwidth: "vintage_wombeyan_camp.jpg"
+    caption: 'Cavers from the early 20th century camping at Wombeyan Caves.'
 permalink: "/members/"
 ---
 <ul>
