@@ -67,3 +67,7 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
  [8]: http://phlow.github.io/simplicity/
  [9]: #
  [10]: #
+
+ # RM notes
+ - Used [this tutorial](https://oncletom.io/2016/travis-ssh-deploy/) for deployment
+ - Server location is also encrypted by Travis

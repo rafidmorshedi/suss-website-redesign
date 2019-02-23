@@ -5,7 +5,7 @@ title: "Members Area"
 teaser: "Learn more about how the club operates and delve into our archives."
 header:
     image_fullwidth: "vintage_wombeyan_camp.jpg"
-    caption: 'Cavers from the early 20th century camping at Wombeyan Caves.'
+    caption: 'Cavers from the early 1900s century camping at Wombeyan Caves.'
 permalink: "/members/"
 ---
 <ul>

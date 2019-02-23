@@ -1,33 +1,29 @@
 language: ruby
 rvm:
-  - 2.4.1
-
+- 2.4.1
 before_script:
- - chmod +x ./_scripts/cibuild # or do this locally and commit
-
-# Assume bundler is being used, therefore
-# the `install` step will run `bundle install` by default.
-script: ./_scripts/cibuild
-
-# branch whitelist, only for GitHub Pages
-#branches:
-#  only:
-#  - gh-pages     # test the gh-pages branch
-#  - /pages-(.*)/ # test every branch which starts with "pages-"
-
+- chmod +x ./_scripts/cibuild
+script: "./_scripts/cibuild"
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
-
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - secure: FAbal2iJ0z6KYP6gMAl82RIFZhOTas+6zSkzxdQnkbnW0lm5GIzAxtXqAD01bYbxUdsLeGiaomlE6K1Wz2RdKE3AzKm19A09jREmmqnEpxpgz9kvG+bAJOGILiScdRKv7cySu9DvmtXk5OuTd6W4hTokksNWoq8ri1YmSKyvPTjCeEO8nIW25YcnD10SsT8FfLm0ATb8WMllD45cuh4xOGglPeraHBZhpLJmLj2Dki96syklvxtPuJqw+XeaWeLP/MSPdaBT4mPk9N63Gte2A0ISGetss2xu4e7J3l2o/ESbiik8ZpEO4tktm3J0vLhE/d9s8JHf4XxhkMWzData4fkk0DHDLlMDl+Yphu8WQsFG1DxZ90FZCnv5QXh5ja9s5BNu8P39ZhWPo7GnpHNV9Qk88pwpS/DwN/onogXGPi+5U/xr17ZA/tMnKbfudg4tCIuYaHJbQr8E1OOqSOSypyAkf+HFIjy3z6OUjFVFdCGzp3gaEdoh88ZL1EHmrbDWxxlUwBGIVm/efsyoagF2YkG0h/+2PShLMaoJZhmrPDUhwydQfYpUhYPL5T+2qMcfoj042MVzNEiz5am7FoUp2++8tubIZO4QVoxyd6dBDT0xQqmlOGUsOl/N7Vg0oYx/2e4VQSHWNT9c3ELWZXr2vu935nM3E4UvXnH/cj4ecOg=
+  - secure: Y88wPxgG/YCJMnL5ZT6nvabrZN6fJLKoHwkklBaaePfqycKzVaWH3JPiZePPp0fx5gztXmYd/ihn3QFyHTgYU8T2uW3TPeSPCCx2hLzcNseftFkndomqFvVlp9NmjM5H3urRV5tNDE/Ek48Sx3PAHt5paRW7iAa8dfliF9qMbS0MENjwFCEJWMIcjQQdIheFhNFVz6e73bogSttSE6fMkiF29TRZVNln2cPKBc6pEOpINPp/b4YOIaLUqmgT6HaezM5WiAdSj/fnJeLaAkHFBlW2CpYZdPf2Lu8LrUbIReI7MAr5aDNG2fhuCpQ/m35PJ2+uWYLYTpeHZcgOtm3EPJZTioWuIHLvrXosGu90aDjViQjTNlQtEdKrY+4qYcSe42AhizIH94c7OcRBxpHHGzVhh0QD/CarWf31AX+UNfzFAu1VlbelwsfEDgOkpH61pkeJcOeKiM3BXTNb2jbmIuSqs4smViOkr5/G6cSMY1lNvC9lrmXfN0H9GQlBlrkZHA0hV+eMv/z711X/+UW16M2Ktksp92rqH7krFgO/suVF096twVAIaOF4a05liWoePLiiVcgWZdmox5LyxA/OjizmmL4t2MTbd1WhRagwffNg3KdENuGQw/llAHnPg45nbhjWvj2aYfeUBAfBy71ddHBm5uubjeGeDXJnZ+ooe9A=
 addons:
   apt:
     packages:
     - libcurl4-openssl-dev
-
-sudo: false # route your build to the container-based infrastructure for a faster build
-
-cache: bundler # caching bundler gem packages will speed up build
-
-# Optional: disable email notifications about the outcome of your builds
-#notifications:
-#  email: true
+sudo: false
+cache: bundler
+before_deploy:
+- openssl aes-256-cbc -K $encrypted_0a6446eb3ae3_key -iv $encrypted_0a6446eb3ae3_iv
+  -in deploy_rsa.enc -out /tmp/deploy_rsa -d
+- eval "$(ssh-agent -s)"
+- chmod 600 /tmp/deploy_rsa
+- ssh-add /tmp/deploy_rsa
+deploy:
+  provider: script
+  skip_cleanup: true
+  script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site/ ${user}@${domain}:/home/suss/public_html/
+  on:
+    branch: master
