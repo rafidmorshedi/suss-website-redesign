@@ -7,6 +7,7 @@
 layout: frontpage
 header:
   image_fullwidth: img_480068-1-26.jpg
+  caption: 'Railway Tunnel, Mammoth Cave, Jenolan. Photo: Pete Baxter'
 widget1:
   title: "Join a trip"
   url: '/triplist/'

@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Contact"
 meta_title: "Contact and use our contact form"
 subheadline: "Got questions? Feel free to reach out."
+header:
+    image_fullwidth: "P4010158.jpg"
+    caption: "Walking out of Murray cave. Photo: Rafid Morshedi"
 #teaser: "Need to get in touch?"
 permalink: "/contact/"
 ---

@@ -6,6 +6,7 @@ title: "About SUSS"
 permalink: "/about/"
 header:
    image_fullwidth: "cooleman_camping.jpg"
+   caption: "Relaxing after a hard day of caving. Photo: Rafid Morshedi"
 ---
 
 Come caving with SUSS! Sydney University's only truly underground society!

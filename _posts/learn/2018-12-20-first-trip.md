@@ -4,6 +4,9 @@ title: "Your first trip"
 subheadline: #"Reading Experience"
 meta_teaser: #"Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
 teaser: "So you have signed up for your first trip, congratulations. Now you need to pack and find our what you gotten youself into."
+header:
+    image_fullwidth: "ciara_endzone.jpg"
+    caption: "We have discovered some amzing places. Become part of the story. Photo: Rafd Morshedi"
 categories:
     - learn
 ---
