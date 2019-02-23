@@ -3,12 +3,14 @@ rvm:
 - 2.4.1
 before_script:
 - chmod +x ./_scripts/cibuild
-script: "./_scripts/cibuild"
+script:
+- "./_scripts/cibuild"
+- openssl aes-256-cbc -K $encrypted_0a6446eb3ae3_key -iv $encrypted_0a6446eb3ae3_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
-  - secure: FAbal2iJ0z6KYP6gMAl82RIFZhOTas+6zSkzxdQnkbnW0lm5GIzAxtXqAD01bYbxUdsLeGiaomlE6K1Wz2RdKE3AzKm19A09jREmmqnEpxpgz9kvG+bAJOGILiScdRKv7cySu9DvmtXk5OuTd6W4hTokksNWoq8ri1YmSKyvPTjCeEO8nIW25YcnD10SsT8FfLm0ATb8WMllD45cuh4xOGglPeraHBZhpLJmLj2Dki96syklvxtPuJqw+XeaWeLP/MSPdaBT4mPk9N63Gte2A0ISGetss2xu4e7J3l2o/ESbiik8ZpEO4tktm3J0vLhE/d9s8JHf4XxhkMWzData4fkk0DHDLlMDl+Yphu8WQsFG1DxZ90FZCnv5QXh5ja9s5BNu8P39ZhWPo7GnpHNV9Qk88pwpS/DwN/onogXGPi+5U/xr17ZA/tMnKbfudg4tCIuYaHJbQr8E1OOqSOSypyAkf+HFIjy3z6OUjFVFdCGzp3gaEdoh88ZL1EHmrbDWxxlUwBGIVm/efsyoagF2YkG0h/+2PShLMaoJZhmrPDUhwydQfYpUhYPL5T+2qMcfoj042MVzNEiz5am7FoUp2++8tubIZO4QVoxyd6dBDT0xQqmlOGUsOl/N7Vg0oYx/2e4VQSHWNT9c3ELWZXr2vu935nM3E4UvXnH/cj4ecOg=
   - secure: Y88wPxgG/YCJMnL5ZT6nvabrZN6fJLKoHwkklBaaePfqycKzVaWH3JPiZePPp0fx5gztXmYd/ihn3QFyHTgYU8T2uW3TPeSPCCx2hLzcNseftFkndomqFvVlp9NmjM5H3urRV5tNDE/Ek48Sx3PAHt5paRW7iAa8dfliF9qMbS0MENjwFCEJWMIcjQQdIheFhNFVz6e73bogSttSE6fMkiF29TRZVNln2cPKBc6pEOpINPp/b4YOIaLUqmgT6HaezM5WiAdSj/fnJeLaAkHFBlW2CpYZdPf2Lu8LrUbIReI7MAr5aDNG2fhuCpQ/m35PJ2+uWYLYTpeHZcgOtm3EPJZTioWuIHLvrXosGu90aDjViQjTNlQtEdKrY+4qYcSe42AhizIH94c7OcRBxpHHGzVhh0QD/CarWf31AX+UNfzFAu1VlbelwsfEDgOkpH61pkeJcOeKiM3BXTNb2jbmIuSqs4smViOkr5/G6cSMY1lNvC9lrmXfN0H9GQlBlrkZHA0hV+eMv/z711X/+UW16M2Ktksp92rqH7krFgO/suVF096twVAIaOF4a05liWoePLiiVcgWZdmox5LyxA/OjizmmL4t2MTbd1WhRagwffNg3KdENuGQw/llAHnPg45nbhjWvj2aYfeUBAfBy71ddHBm5uubjeGeDXJnZ+ooe9A=
+  - secure: LMvB5XZycRQfEnmSEvXomhA+q1o8kQ0j+8gkn3EkhLYCsPNOQse+G8WJHfRLdbPxlo+j7xoNwPOqWVF4IzBM6iqyD14D77WBOQwf+YgLQYa7o5wAQ6ES3ehXAkTYb8ooH91WxIeQmDakwCx9yGjox4F1+L2aH0OMQA6E50bMVeN3AEJDr+OptKqUAZk0W26a3IPixMPX2YWFSodqtRgIpuZWlqiMjh7E9WgXL7Vdha0PTTZh9lKNbL8iKJdyd2vdWJKfmsKfdh3O1LvAFPHaM741omSeFhsyePbHah03H89fJlCbi0jZkch9oZcl47hR62J+oN9PoMCLhaqP/4sZRbKmLmJsuKIRdK/3XFFsKReNmkJUTZB2w+fYHGCvFjE39DNxW5JnPtoqcCBlUl88Q9EKrOEka0LCzvBLDZREo30CBM1UKi/trXapcv10yZg0BwqLMA1KDoYb+SpXv2dWODa14O6kYuzuWDbgp/Cm39vC0zhWcFZ5e+VYw75dVZrbtywD7kBN8zhZBebHe3v/Wtuql4FydFSeVLXS+Q3KST+8mlOTPAn44bnj288Y0ic0xNZggoTLDeliWug5sFlvP7fr04UrDX5OysdHW9M1A62kB33znzOlK+VdLwr2Zvjc6RRxUC/YEUlE2OGEPtI4ATfPBJA+Nv9sssvMlyG4CSg=
 addons:
   apt:
     packages:
@@ -16,8 +18,6 @@ addons:
 sudo: false
 cache: bundler
 before_deploy:
-- openssl aes-256-cbc -K $encrypted_0a6446eb3ae3_key -iv $encrypted_0a6446eb3ae3_iv
-  -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_rsa
