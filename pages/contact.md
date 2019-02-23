@@ -16,4 +16,4 @@ There are many ways to get in touch with the club. If your query is related to a
 - General Enquiries: suss-enquiry@caves.org.au
 - Want to interact with other members and see latest expedition updates? Join the [Facebook Group](https://www.facebook.com/groups/4999123669/)
 - Have questions for specific parts of the clup? Reach out to the relevant [committe member]({{ site.url }}{{ site.baseurl }}/about/committee/)
-- Snail mail: Mail address: PO Box 3318, Redfern NSW 2016
+- Snail mail address: PO Box 3318, Redfern NSW 2016
