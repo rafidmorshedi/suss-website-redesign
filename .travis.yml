@@ -28,4 +28,4 @@ deploy:
     branch: master
 before_install:
 - openssl aes-256-cbc -K $encrypted_56521efdd71b_key -iv $encrypted_56521efdd71b_iv
-  -in deploy_rsa.enc -out deploy_rsa -d
+  -in deploy_rsa.enc -out /tmp/deploy_rsa -d
