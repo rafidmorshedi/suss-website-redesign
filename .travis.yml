@@ -5,7 +5,6 @@ before_script:
 - chmod +x ./_scripts/cibuild
 script:
 - "./_scripts/cibuild"
-- openssl aes-256-cbc -K $encrypted_0a6446eb3ae3_key -iv $encrypted_0a6446eb3ae3_iv -in deploy_rsa.enc -out /tmp/deploy_rsa -d
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
@@ -27,3 +26,6 @@ deploy:
   script: rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/_site/ ${user}@${domain}:/home/suss/public_html/
   on:
     branch: master
+before_install:
+- openssl aes-256-cbc -K $encrypted_56521efdd71b_key -iv $encrypted_56521efdd71b_iv
+  -in deploy_rsa.enc -out deploy_rsa -d
