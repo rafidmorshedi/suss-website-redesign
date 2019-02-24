@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll'
+gem 'jekyll-liquify'
 #gem 'html-proofer'
 
 group :jekyll_plugins do

@@ -2,35 +2,38 @@
 layout: page
 title: "Caving Areas"
 subheadline: "Places you can expect to visit"
-teaser: "SUSS visits caving areas all over NSW and regularly runs trips to Tasmania and New Zealand. There's plenty to explore, come and join the adventure."
+teaser: "There's plenty to explore, come and join the adventure."
 #header:
-#    image: aziz-acharki-209259-unsplash.jpg
-#    background-color: "#262930"
-#    caption: The go to caving trips throughout NSW, and occasionally run international trips.
-#    caption_url: https://unsplash.com/
+# image: aziz-acharki-209259-unsplash.jpg
+# background-color: "#262930"
+# caption: The go to caving trips throughout NSW, and occasionally run international trips.
+# caption_url: https://unsplash.com/
 tags:
-    - design
+- design
 categories:
-    - learn
+- learn
 show_meta: false
 ---
+<p>
+  SUSS visits caving areas all over NSW and regularly runs trips to Tasmania and New Zealand.
 
-{% for cavingarea in site.data.cavingareas %}
-    <p>
-    <h2>{{cavingarea.name}}</h2>
-    <h3>About</h3>
-    {{cavingarea.about | markdownify}}
-    <h3>How to get there</h3>
-    {{cavingarea.getting_there | markdownify}}
-    <h3>Location</h3>
-    {{cavingarea.location | markdownify}}
-    <h3>Condition Underground</h3>
-    {{cavingarea.conditions_underground | markdownify}}
-    <h3>Facilities</h3>
-    {{cavingarea.facilities | markdownify}}
-    <h3>Costs</h3>
-    {{cavingarea.costs | markdownify}}
-    <h3>What to bring</h3>
-    {{cavingarea.what_to_bring | markdownify}}
-    </p>
+  Below is a list of some of the areas we visit regularly along with what to expect on a typical trip to these areas.
+</p>
+
+{% for cavingarea in site.cavingareas %}
+
+  <div class="row align-top">
+    <div class="small-3 columns">
+      <a href="{{ cavingarea.url }}">
+        <img style="display:inline;" alt="{{cavingarea.cavingarea_image_caption}}" src="{{cavingarea.cavingarea_image}}">
+      </a>
+    </div>
+    <div class="small-9 columns align-top">
+      <h4><a href="{{ cavingarea.url }}">{{ cavingarea.name }}</a></h4>
+      {{cavingarea.short_about}}
+    </div>
+  </div>
+
+  <br>
+
 {% endfor %}
