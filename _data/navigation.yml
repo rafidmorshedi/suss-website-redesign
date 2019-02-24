@@ -51,6 +51,8 @@
     url: "/members/cave-diving/"
   - title: "Miscellaneous"
     url: "/members/miscellaneous/"
+  - title: "Survey Data"
+    url: "https://suss.caves.org.au/cave/"
 
 # - title: "Header Styles"
 #   url: "/headers/"
