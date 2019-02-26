@@ -53,7 +53,7 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 **2nd -3rd Jenolan**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
-**9th or 10th Sydney Sea Cave**  
+**9th Sydney Sea Cave**  
 Trip Organiser: Jordan (jordypfenech@gmail.com)
 
 **16th or 17th Vertical Training Day**  
