@@ -62,6 +62,9 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 **16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
+**30th -31st Wombeyan**  
+Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
+
 ## April Trips
 
 **6th - 7th Jenolan**  
