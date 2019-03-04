@@ -81,7 +81,7 @@ Trip Organiser: Tina (tinawillmore@gmail.com)
 -   November 2-3
 -   December 7-15
 
-### Wombeyan Trip Dates 2019 TBA
+### Wombeyan Trip Dates 2019
 
 -   Mar 30-31
 -   May 4-5
