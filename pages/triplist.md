@@ -53,7 +53,7 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 **2nd -3rd Jenolan**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
-**9th or 10th Sydney Sea Cave**  
+**9th Sydney Sea Cave**  
 Trip Organiser: Jordan (jordypfenech@gmail.com)
 
 **16th or 17th Vertical Training Day**  
@@ -61,6 +61,9 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 **16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
+**30th -31st Wombeyan**  
+Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
 
 ## April Trips
 
@@ -78,7 +81,7 @@ Trip Organiser: Tina (tinawillmore@gmail.com)
 -   November 2-3
 -   December 7-15
 
-### Wombeyan Trip Dates 2019 TBA
+### Wombeyan Trip Dates 2019
 
 -   Mar 30-31
 -   May 4-5
