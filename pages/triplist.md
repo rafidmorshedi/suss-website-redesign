@@ -62,6 +62,9 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 **16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
+**23rd -24th Gear Audit**  
+Trip Organiser: Katie (kkeophilaphet@gmail.com)
+
 **30th -31st Wombeyan**  
 Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
 
@@ -69,6 +72,43 @@ Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
 
 **6th - 7th Jenolan**  
 Trip Organiser: Tina (tinawillmore@gmail.com)
+
+**13th - 14th Tuglow**  
+Trip Organiser: Keir (keirvt@optusnet.com.au)
+
+**19th - 25th Cooleman**  
+Trip Organiser: Coops (cooperi4@bigpond.com)
+
+**23th - 28th Yarrangobilly (Joint NUCC/SUSS Trip)**  
+Trip Organiser: Lachlan (lachlan.d.bailey@gmail.com)
+
+## May Trips
+
+**4th - 5th Wombeyan**  
+Trip Organiser: TBA
+
+**9th Annual General Meeting**  
+Time to vote in a new committee.  
+Pizza and bar tab at the Forest Lodge afterwards  
+Time: 7:30 pm  
+Location: TBA  
+
+**11th - 12th Jenolan**  
+Trip Organiser: Charmaine (psmpsw@gmail.com)
+
+**18th - 19th Malatia Walls (vertical experience required)**  
+Trip Organiser: TBA
+
+**25th - 26th Wombeyan**  
+Trip Organiser: Lily (lil233.lg@gmail.com)
+
+## June Trips
+
+**1st - 2nd Jenolan (40th anniversary Spider trip)**  
+Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
+
+**8th - 9th TBA**  
+Trip Organiser: TBA
 
 ### Jenolan Trip Dates 2019
 
