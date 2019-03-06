@@ -91,7 +91,7 @@ Trip Organiser: TBA
 Time to vote in a new committee.  
 Pizza and bar tab at the Forest Lodge afterwards  
 Time: 7:30 pm  
-Location: TBA  
+Location: Common Room, Holme Building, University of Sydney
 
 **11th - 12th Jenolan**  
 Trip Organiser: Charmaine (psmpsw@gmail.com)
