@@ -108,7 +108,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
 
 **8th - 9th TBA**  
-Trip Organiser: TBA
+Trip Organiser: TBC
 
 ### Jenolan Trip Dates 2019
 
