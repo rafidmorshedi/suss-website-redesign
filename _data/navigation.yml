@@ -81,6 +81,8 @@
     url: "/about/committee/"
   - title: "Publications"
     url: "/about/publications/"
+  - title: "Links"
+    url: "/about/links/"
 
 # - title: About
 #   url: "/about/"
