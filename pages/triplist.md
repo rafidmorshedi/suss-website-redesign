@@ -31,30 +31,7 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## February
-
-**2nd - 3rd Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au )
-
-**9th -10th  Empty Weekend - Have an idea for this weekend? Contact Jordan**  
-Trip Organiser: You? (jordypfenech@gmail.com)
-
-**16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
-Trip Organiser: Jordan (jordypfenech@gmail.com)
-
-**18th -20th Welcome Week (O Week) If you can volunteer please contact Jordan**  
-Trip Organiser: Jordan (jordypfenech@gmail.com)
-
-**23-24th Wombeyan**  
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
 ## March Trips
-
-**2nd -3rd Jenolan**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-**9th Sydney Sea Cave**  
-Trip Organiser: Jordan (jordypfenech@gmail.com)
 
 **16th or 17th Vertical Training Day**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
