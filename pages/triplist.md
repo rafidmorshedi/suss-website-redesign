@@ -42,13 +42,13 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 **23rd -24th Gear Audit**  
 Trip Organiser: Katie (kkeophilaphet@gmail.com)
 
-**30th -31st Wombeyan**  
+**30th -31st Wombeyan (TRIP FULL)**  
 Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
 
 ## April Trips
 
 **6th - 7th Jenolan**  
-Trip Organiser: Tina (tinawillmore@gmail.com)
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **13th - 14th Tuglow**  
 Trip Organiser: Keir (keirvt@optusnet.com.au)
