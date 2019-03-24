@@ -33,14 +33,8 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## March Trips
 
-**16th or 17th Vertical Training Day**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
 **16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
-**23rd -24th Gear Audit**  
-Trip Organiser: Katie (kkeophilaphet@gmail.com)
 
 **30th -31st Wombeyan (TRIP FULL)**  
 Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
