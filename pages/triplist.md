@@ -76,10 +76,16 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 ## June Trips
 
 **1st - 2nd Jenolan (40th anniversary Spider trip)**  
-Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
+Trip Organiser: TBA
 
 **8th - 9th TBA**  
 Trip Organiser: TBC
+
+## October Trips
+
+**19th -20th Surveying Course at Wombeyan Caves**  
+A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)  
+Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
 
 ### Jenolan Trip Dates 2019
 
