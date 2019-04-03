@@ -75,7 +75,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## June Trips
 
-**1st - 2nd Jenolan (40th anniversary Spider trip)**  
+**1st - 2nd Jenolan**  
 Trip Organiser: TBA
 
 **8th - 9th TBA**  
