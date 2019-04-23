@@ -65,7 +65,7 @@ Time: 7:30 pm
 Location: Common Room, Holme Building, University of Sydney
 
 **11th - 12th Jenolan**  
-Trip Organiser: Charmaine (psmpsw@gmail.com)
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **18th - 19th Malatia Walls (vertical experience required)**  
 Trip Organiser: TBA
