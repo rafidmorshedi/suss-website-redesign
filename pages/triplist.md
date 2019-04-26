@@ -76,7 +76,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 ## June Trips
 
 **1st - 2nd Jenolan**  
-Trip Organiser: TBA
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **8th - 9th TBA**  
 Trip Organiser: TBC
