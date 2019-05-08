@@ -31,60 +31,40 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## March Trips
-
-**16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
-**30th -31st Wombeyan (TRIP FULL)**  
-Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
-
-## April Trips
-
-**6th - 7th Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-**13th - 14th Tuglow**  
-Trip Organiser: Keir (keirvt@optusnet.com.au)
-
-**19th - 25th Cooleman**  
-Trip Organiser: Coops (cooperi4@bigpond.com)
-
-**23th - 28th Yarrangobilly (Joint NUCC/SUSS Trip)**  
-Trip Organiser: Lachlan (lachlan.d.bailey@gmail.com)
-
 ## May Trips
 
-**4th - 5th Wombeyan**  
-Trip Organiser: TBA
-
-**9th Annual General Meeting**  
-Time to vote in a new committee.  
-Pizza and bar tab at the Forest Lodge afterwards  
-Time: 7:30 pm  
+**9th Annual General Meeting**
+Time to vote in a new committee.
+Pizza and bar tab at the Forest Lodge afterwards
+Time: 7:30 pm
 Location: Common Room, Holme Building, University of Sydney
 
-**11th - 12th Jenolan**  
+**11th - 12th Jenolan**
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**18th - 19th Malatia Walls (vertical experience required)**  
+**18th - 19th Malatia Walls (vertical experience required)**
 Trip Organiser: TBA
 
-**25th - 26th Wombeyan**  
+**25th - 26th Wombeyan**
 Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## June Trips
 
-**1st - 2nd Jenolan**  
+**1st - 2nd Jenolan**
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**8th - 9th TBA**  
+**8th - 10th Wee Jasper**
 Trip Organiser: TBC
+
+## July Trips
+
+**6th - 14th Jenolan weeklong**
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 ## October Trips
 
-**19th -20th Surveying Course at Wombeyan Caves**  
-A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)  
+**19th - 20th Surveying Course at Wombeyan Caves**
+A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)
 Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
 
 ### Jenolan Trip Dates 2019
