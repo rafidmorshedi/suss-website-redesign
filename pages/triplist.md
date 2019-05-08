@@ -33,37 +33,37 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## May Trips
 
-**9th Annual General Meeting**
+**9th Annual General Meeting**  
 Time to vote in a new committee.
 Pizza and bar tab at the Forest Lodge afterwards
 Time: 7:30 pm
 Location: Common Room, Holme Building, University of Sydney
 
-**11th - 12th Jenolan**
+**11th - 12th Jenolan**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**18th - 19th Malatia Walls (vertical experience required)**
+**18th - 19th Malatia Walls (vertical experience required)**  
 Trip Organiser: TBA
 
-**25th - 26th Wombeyan**
+**25th - 26th Wombeyan**  
 Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## June Trips
 
-**1st - 2nd Jenolan**
+**1st - 2nd Jenolan**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**8th - 10th Wee Jasper**
-Trip Organiser: TBC
+**8th - 10th Wee Jasper**  
+Trip Organiser: Glen (glenellis2011@hotmail.com)
 
 ## July Trips
 
-**6th - 14th Jenolan weeklong**
+**6th - 14th Jenolan weeklong**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 ## October Trips
 
-**19th - 20th Surveying Course at Wombeyan Caves**
+**19th - 20th Surveying Course at Wombeyan Caves**  
 A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)
 Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
 
