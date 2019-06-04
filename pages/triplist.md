@@ -31,23 +31,6 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## May Trips
-
-**9th Annual General Meeting**  
-Time to vote in a new committee.
-Pizza and bar tab at the Forest Lodge afterwards
-Time: 7:30 pm
-Location: Common Room, Holme Building, University of Sydney
-
-**11th - 12th Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-**18th - 19th Malatia Walls (vertical experience required)**  
-Trip Organiser: TBA
-
-**25th - 26th Wombeyan**  
-Trip Organiser: Lily (lil233.lg@gmail.com)
-
 ## June Trips
 
 **1st - 2nd Jenolan**  
@@ -56,9 +39,46 @@ Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 **8th - 10th Wee Jasper**  
 Trip Organiser: Glen (glenellis2011@hotmail.com)
 
+**15th - 16th Free Weekend - have an idea for a trip? Get in touch**  
+
+**20th Bouldering - 9 Degrees**  
+Trip Organiser: Charmaine (psmpsw@gmail.com)
+
+**29th - 30th Wombeyan**  
+Trip Organiser: TBC
+
 ## July Trips
 
 **6th - 14th Jenolan weeklong**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+**20th or 21st Vertical Training - exact day to be confirmed**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+**27th or 28th Wombeyan**  
+Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
+
+## August Trips
+
+**3rd - 4th Free Weekend - have an idea for a trip? Get in touch**  
+
+**20th or 21st Vertical Training - exact day to be confirmed**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+**10th - 11th Jenolan**  
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
+
+**17th - 18th Wyanbene**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+**24th - 25th TBC**  
+
+**31st - 1st Wombeyan**  
+Trip Organiser: Glen (glenellis2011@hotmail.com)
+
+## September Trips
+
+**7th - 8th Jenolan**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 ## October Trips
