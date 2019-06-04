@@ -62,9 +62,6 @@ Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
 
 **3rd - 4th Free Weekend - have an idea for a trip? Get in touch**  
 
-**20th or 21st Vertical Training - exact day to be confirmed**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
 **10th - 11th Jenolan**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
