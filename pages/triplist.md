@@ -31,84 +31,58 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## February
-
-**2nd - 3rd Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au )
-
-**9th -10th  Empty Weekend - Have an idea for this weekend? Contact Jordan**  
-Trip Organiser: You? (jordypfenech@gmail.com)
-
-**16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
-Trip Organiser: Jordan (jordypfenech@gmail.com)
-
-**18th -20th Welcome Week (O Week) If you can volunteer please contact Jordan**  
-Trip Organiser: Jordan (jordypfenech@gmail.com)
-
-**23-24th Wombeyan**  
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
-## March Trips
-
-**2nd -3rd Jenolan**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-**9th Sydney Sea Cave**  
-Trip Organiser: Jordan (jordypfenech@gmail.com)
-
-**16th or 17th Vertical Training Day**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-**16th -17th Abercrombie (Combined MSS /SUSS Trip)**  
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
-**23rd -24th Gear Audit**  
-Trip Organiser: Katie (kkeophilaphet@gmail.com)
-
-**30th -31st Wombeyan**  
-Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)
-
-## April Trips
-
-**6th - 7th Jenolan**  
-Trip Organiser: Tina (tinawillmore@gmail.com)
-
-**13th - 14th Tuglow**  
-Trip Organiser: Keir (keirvt@optusnet.com.au)
-
-**19th - 25th Cooleman**  
-Trip Organiser: Coops (cooperi4@bigpond.com)
-
-**23th - 28th Yarrangobilly (Joint NUCC/SUSS Trip)**  
-Trip Organiser: Lachlan (lachlan.d.bailey@gmail.com)
-
-## May Trips
-
-**4th - 5th Wombeyan**  
-Trip Organiser: TBA
-
-**9th Annual General Meeting**  
-Time to vote in a new committee.  
-Pizza and bar tab at the Forest Lodge afterwards  
-Time: 7:30 pm  
-Location: Common Room, Holme Building, University of Sydney
-
-**11th - 12th Jenolan**  
-Trip Organiser: Charmaine (psmpsw@gmail.com)
-
-**18th - 19th Malatia Walls (vertical experience required)**  
-Trip Organiser: TBA
-
-**25th - 26th Wombeyan**  
-Trip Organiser: Lily (lil233.lg@gmail.com)
-
 ## June Trips
 
-**1st - 2nd Jenolan (40th anniversary Spider trip)**  
-Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
+**1st - 2nd Jenolan**  
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**8th - 9th TBA**  
+**8th - 10th Wee Jasper**  
+Trip Organiser: Glen (glenellis2011@hotmail.com)
+
+**15th - 16th Free Weekend - have an idea for a trip? Get in touch**  
+
+**20th Bouldering - 9 Degrees**  
+Trip Organiser: Charmaine (psmpsw@gmail.com)
+
+**29th - 30th Wombeyan**  
 Trip Organiser: TBC
+
+## July Trips
+
+**6th - 14th Jenolan weeklong**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+**20th or 21st Vertical Training - exact day to be confirmed**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+**27th or 28th Wombeyan**  
+Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
+
+## August Trips
+
+**3rd - 4th Free Weekend - have an idea for a trip? Get in touch**  
+
+**10th - 11th Jenolan**  
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
+
+**17th - 18th Wyanbene**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+**24th - 25th TBC**  
+
+**31st - 1st Wombeyan**  
+Trip Organiser: Glen (glenellis2011@hotmail.com)
+
+## September Trips
+
+**7th - 8th Jenolan**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+## October Trips
+
+**19th - 20th Surveying Course at Wombeyan Caves**  
+A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)
+Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
 
 ### Jenolan Trip Dates 2019
 

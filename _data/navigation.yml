@@ -53,6 +53,8 @@
     url: "/members/miscellaneous/"
   - title: "Survey Data"
     url: "https://suss.caves.org.au/cave/"
+  - title: "Trip Supervisors"
+    url: "/members/becoming-a-ts/"
 
 # - title: "Header Styles"
 #   url: "/headers/"

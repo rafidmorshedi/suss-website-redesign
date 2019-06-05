@@ -1,19 +1,18 @@
-# SUSS Website Redesign
+# SUSS website
 
-## Introduction
+This is the repository for the Sydney Univeristy Speleological Society(SUSS).
 
-This is the repository for the webiste of the Sydney University Speleological Society.
+## Build status
 
-It is built using [Jekyll](https://jekyllrb.com/docs/) and is based on the [Feeling Responsive theme](https://github.com/Phlow/feeling-responsive/)
+[![Build Status](https://travis-ci.org/rafidmorshedi/suss-website-redesign.svg?branch=master)](https://travis-ci.org/rafidmorshedi/suss-website-redesign)
 
-## Updating the triplist
+## Documentation TO DO
+- How to update the trip list
+- How travis CI works
+- The structure of the website
+- how to mainitain the website
 
-1. Create a [GitHub account](https://github.com/).
-2. Ask the SUSS committee/webmaster to add you as a collaborator
-3. [to do]
 
-
-[Left over documentation from the original project - TO BE DELTED eventually]
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)

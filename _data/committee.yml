@@ -1,26 +1,26 @@
 - position: President
-  name: Jordan Fenech
-  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
-  email: jordypfenech@gmail.com
-  image: '/images/comm-jordan.jpg'
-
-- position: Vice President
   name: Lily Guo
-  role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
+  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
   email: zguo4653@uni.sydney.edu.au
   image: '/images/comm-lily.jpg'
 
+- position: Vice President
+  name: Katherine Li
+  role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
+  email: katkatherine123@gmail.com
+  image: '/images/comm-katli.jpg'
+
 - position: Gear Officer
-  name: Katie Keophilaphet
+  name: Vanessa Pang
   role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
-  email: kkeophilaphet@gmail.com
-  image: '/images/comm-katie.jpg'
+  email: cpan6128@uni.sydney.edu.au
+  image: '/images/comm-vanessapang.jpg'
 
 - position: Club Secretary
-  name: Yan Yu
+  name: Simon Murphy
   role_desc: "The secretary is responsible for submitting permit requests at the direction of the Trip Organiser."
-  email: yayu5614@uni.sydney.edu.au
-  image: '/images/comm-yan.jpg'
+  email: simon.murphy@sydney.edu.au
+  image: '/images/comm-simonmurphy.jpg'
 
 - position: Treasurer
   name: Charmaine
@@ -69,3 +69,9 @@
   role_desc: "The ASF councilor shall deal with all matters pertaining to the society's relationship with the Australian Speleological Federation Incorporated."
   email: emilyrbutcher@outlook.com
   image: '/images/comm-embutcher.jpg'
+
+- position: General
+  name: Glen Ellis
+  role_desc: "General committee members provide an extra set of hands in running of the club."
+  email: glenellis2011@hotmail.com
+  image: '/images/comm-glene.jpg'
