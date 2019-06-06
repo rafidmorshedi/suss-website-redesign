@@ -63,7 +63,7 @@ Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
 **3rd - 4th Free Weekend - have an idea for a trip? Get in touch**  
 
 **10th - 11th Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
+Trip Organiser: TBC
 
 **17th - 18th Wyanbene**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
