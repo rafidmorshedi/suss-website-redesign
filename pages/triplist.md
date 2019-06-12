@@ -45,7 +45,7 @@ Trip Organiser: Glen (glenellis2011@hotmail.com)
 Trip Organiser: Charmaine (psmpsw@gmail.com)
 
 **29th - 30th Wombeyan**  
-Trip Organiser: TBC
+Trip Organiser: Phil (philip.maynard@uts.edu.au)
 
 ## July Trips
 
@@ -60,10 +60,8 @@ Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
 
 ## August Trips
 
-**3rd - 4th Free Weekend - have an idea for a trip? Get in touch**  
-
-**10th - 11th Jenolan**  
-Trip Organiser: TBC
+**3rd - 4th Jenolan TBC**    
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **17th - 18th Wyanbene**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
