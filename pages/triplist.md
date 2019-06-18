@@ -76,6 +76,9 @@ Trip Organiser: Glen (glenellis2011@hotmail.com)
 **7th - 8th Jenolan**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
+**21st - 22nd Bungonia (RSVP by 9 Sept)**  
+Trip Organiser: Em (emilyrbutcher@outlook.com)
+
 ## October Trips
 
 **19th - 20th Surveying Course at Wombeyan Caves**  
