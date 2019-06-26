@@ -56,17 +56,21 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 **27th or 28th Wombeyan**  
-Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
+Trip Organiser: Charmaine (psmpsw@gmail.com)
 
 ## August Trips
 
-**3rd - 4th Jenolan TBC**    
+**3rd - 4th Jenolan**    
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
+
+**10th Social Event**
+Trip Organiser: Lily (lil233.lg@gmail.com)
 
 **17th - 18th Wyanbene**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
-**24th - 25th TBC**  
+**24th - 25th Tuglow**  
+Trip Organiser: Kat (katkatherine123@gmail.com)
 
 **31st - 1st Wombeyan**  
 Trip Organiser: Glen (glenellis2011@hotmail.com)
