@@ -69,7 +69,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 **17th - 18th Wyanbene**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
-**24th - 25th Tuglow**  
+**24th - 25th Tglow**  
 Trip Organiser: Kat (katkatherine123@gmail.com)
 
 **31st - 1st Wombeyan**  
