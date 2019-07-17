@@ -33,9 +33,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## July Trips
 
-**6th - 14th Jenolan weeklong**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
 **20th Vertical Training**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
