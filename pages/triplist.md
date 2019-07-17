@@ -37,7 +37,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 **27th or 28th Wombeyan**  
-Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
+Trip Organiser: Charmaine (psmpsw@gmail.com)
 
 ## August Trips
 
