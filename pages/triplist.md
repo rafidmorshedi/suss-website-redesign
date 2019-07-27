@@ -31,41 +31,23 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## June Trips
-
-**1st - 2nd Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-**8th - 10th Wee Jasper**  
-Trip Organiser: Glen (glenellis2011@hotmail.com)
-
-**15th - 16th Free Weekend - have an idea for a trip? Get in touch**  
-
-**20th Bouldering - 9 Degrees**  
-Trip Organiser: Charmaine (psmpsw@gmail.com)
-
-**29th - 30th Wombeyan**  
-Trip Organiser: TBC
-
 ## July Trips
 
-**6th - 14th Jenolan weeklong**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-**20th or 21st Vertical Training - exact day to be confirmed**  
+**20th Vertical Training**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 **27th or 28th Wombeyan**  
-Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
+Trip Organiser: Charmaine (psmpsw@gmail.com)
 
 ## August Trips
 
-**3rd - 4th Free Weekend - have an idea for a trip? Get in touch**  
+**3rd - 4th Jenolan**    
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**10th - 11th Jenolan**  
-Trip Organiser: TBC
+**17th - 18th Borenore**  
+Trip Organiser: Phil (Philm8544177@gmail.com)
 
-**17th - 18th Wyanbene**  
+**17th - 18th Wyanbene - Cancelled**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 **24th - 25th TBC**  
