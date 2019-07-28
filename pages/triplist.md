@@ -19,7 +19,7 @@ for information on the expected costs, for area-specific information, and genera
 if you still have doubts about how much a trip will cost you.
 
 **PLEASE NOTE:**
-If you would like to join a trip, please get in touch with the trip leader and let them know:
+If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers):
 
 -   Your previous experience with caving (if none, that's okay!)
 -   What suburb you are leaving from and if you require a ride or can provide one for others
@@ -30,14 +30,6 @@ If you would like to join a trip, please get in touch with the trip leader and l
     -   tents
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
-
-## July Trips
-
-**20th Vertical Training**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-**27th or 28th Wombeyan**  
-Trip Organiser: Charmaine (psmpsw@gmail.com)
 
 ## August Trips
 
@@ -50,7 +42,8 @@ Trip Organiser: Phil (Philm8544177@gmail.com)
 **17th - 18th Wyanbene - Cancelled**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
-**24th - 25th TBC**  
+**24th - 25th Tuglow**
+Trip Organiser: Kat (katkatherine123@gmail.com)
 
 **31st - 1st Wombeyan**  
 Trip Organiser: Glen (glenellis2011@hotmail.com)
@@ -60,7 +53,18 @@ Trip Organiser: Glen (glenellis2011@hotmail.com)
 **7th - 8th Jenolan**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
+**21st - 22nd Wombeyan**
+Trip Organiser: Emily (emilyrbutcher@gmail.com)
+RSVP by 9th September
+
+**28th - 29th Church Creek**
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+Joint trip with NHVSS
+
 ## October Trips
+
+**12th - 13th Jenolan**
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **19th - 20th Surveying Course at Wombeyan Caves**  
 A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)
