@@ -33,20 +33,11 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## August Trips
 
-**3rd - 4th Jenolan**    
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-**17th - 18th Borenore**  
-Trip Organiser: Phil (Philm8544177@gmail.com)
-
-**17th - 18th Wyanbene - Cancelled**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
 **24th - 25th Tuglow**
 Trip Organiser: Kat (katkatherine123@gmail.com)
 
 **31st - 1st Wombeyan**  
-Trip Organiser: Glen (glenellis2011@hotmail.com)
+Trip Organiser: Glen (glenellis2011@hotmail.com) TRIP FULL
 
 ## September Trips
 
