@@ -41,6 +41,9 @@ His slides show the journey from crossing the flooded Kowmung to diving the dept
 **7th - 8th Jenolan**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
+**14th Bungonia**
+Trip Organiser: Jordan (jordypfenech@gmail.com)
+
 **21st - 22nd Wombeyan**
 Trip Organiser: Emily (emilyrbutcher@gmail.com)
 RSVP by 9th September
