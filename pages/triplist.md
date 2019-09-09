@@ -48,7 +48,7 @@ Trip Organiser: Jordan (jordypfenech@gmail.com)
 Trip Organiser: Emily (emilyrbutcher@gmail.com)
 RSVP by 9th September
 
-**28th - 29th Church Creek**
+**28th - 29th Church Creek - postponed**
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 Joint trip with NHVSS
 
