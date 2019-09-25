@@ -31,48 +31,27 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## September Trips
-
-**5th General Meeting**
-7.30pm Holme Building Common Room
-Speaker Keir will be giving a presentation on Tuglow Caves.
-His slides show the journey from crossing the flooded Kowmung to diving the depths of the downstream Tuglow Syphon. Old photos and new go to show the enigma that is Tuglow.
-
-**7th - 8th Jenolan**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-**14th Bungonia**
-Trip Organiser: Jordan (jordypfenech@gmail.com)
-
-**21st - 22nd Wombeyan**
-Trip Organiser: Emily (emilyrbutcher@gmail.com)
-RSVP by 9th September
-
-**28th - 29th Church Creek - postponed**
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-Joint trip with NHVSS
-
-## October Trips
-**5th - 6th Cooleman/Yagby**
+## October Trips 
+**5th - 6th Yagby**  
 Trip Organiser: Charmaine (psmpsw@gmail.com)
 
-**12th - 13th Jenolan**
+**12th - 13th Jenolan**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**19th - 20th Surveying Course at Wombeyan Caves**  
+**19th - 20th Surveying Course at Wombeyan Caves** 
 A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)
 Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
 
-**26th - 27th Wombeyan**
+**26th - 27th Wombeyan**  
 Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## November Trips
 
-**2nd - 3rd Jenolan**
+**2nd - 3rd Jenolan**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**30th - 1st Wombeyan**
-Trip Organiser: TBC
+**30th - 1st Wombeyan**  
+Trip Organiser: Lily (lil233.lg@gmail.com)
 
 
 ### Jenolan Trip Dates 2019
