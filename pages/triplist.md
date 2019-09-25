@@ -38,8 +38,8 @@ Trip Organiser: Charmaine (psmpsw@gmail.com)
 **12th - 13th Jenolan**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**19th - 20th Surveying Course at Wombeyan Caves** 
-A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)
+**19th - 20th Surveying Course at Wombeyan Caves**  
+A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)  
 Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
 
 **26th - 27th Wombeyan**  
