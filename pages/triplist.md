@@ -31,27 +31,21 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## October Trips 
-**5th - 6th Yagby**  
-Trip Organiser: Charmaine (psmpsw@gmail.com)
-
-**12th - 13th Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-**19th - 20th Surveying Course at Wombeyan Caves**  
-A two day intensive course in cave surveying run by Mike Lake & Phil Maynard. More details [here](https://bitbucket.org/speleolinux/cave_survey_course/wiki/Home)  
-Trip Organiser: Mike Lake (Mike.Lake@uts.edu.au)
-
-**26th - 27th Wombeyan**  
-Trip Organiser: Phil (philm8544177@gmail.com)
-
 ## November Trips
 
 **2nd - 3rd Jenolan**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
+**17th Canyon (all welcome)**  
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
 **30th - 1st Wombeyan**  
 Trip Organiser: Lily (lil233.lg@gmail.com)
+
+## December Trips
+
+**7th - 14th Jenolan + Chistmas Party**  
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 
 ### Jenolan Trip Dates 2019
