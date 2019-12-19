@@ -31,43 +31,44 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## November Trips
-
-**2nd - 3rd Jenolan**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-**17th Canyon (all welcome)**  
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
-**30th - 1st Wombeyan**  
-Trip Organiser: Lily (lil233.lg@gmail.com)
-
 ## December Trips
 
-**7th - 14th Jenolan + Chistmas Party**  
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+**26 Dec to 2 Jan Mole Creek (TRIP FULL)**
+Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
 
+## January Trips
 
-### Jenolan Trip Dates 2019
+**11-12th Jenolan**   
+Trip Organiser: TBC
 
--   April 6-7
--   May 11-12
--   June 1-2
--   July 6-14
--   September 7-8
--   October 12-13
--   November 2-3
--   December 7-15
+**25-27 January Yagby**
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-### Wombeyan Trip Dates 2019
+**22-23rd Bungonia (special beginner trip)**  
+Trip Organiser: TBC
 
--   Mar 30-31
--   May 4-5
--   May 25-26
--   Jun 29-30
--   Jul 27-28
--   Aug 31-1
--   Sep 21-22
--   Oct 26-27
--   Nov 30-1
--   Dec 28-29
+**22-23rd Wombeyan**
+Trip Organiser: TBC
+
+### Jenolan Trip Dates 2020
+
+- 11-12 January
+- 8-9 February
+- 7-8 March
+- 4-5 April
+- 9-10 May
+- 13-14 June
+- 4-12 July 
+- 8-9 August
+- 12-13 September
+- 10-11 October
+- 7-8 November
+- 5-13 December
+
+### Wombeyan Trip Dates 2020
+
+- 22-23 February
+- 25-26 April
+- 27-28 June
+- 22-23 August
+- 24-25 October
