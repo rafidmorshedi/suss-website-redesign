@@ -31,26 +31,26 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-## December Trips
+## December Trips  
 
-**26 Dec to 2 Jan Mole Creek (TRIP FULL)**
+**26 Dec to 2 Jan Mole Creek (TRIP FULL)**  
 Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
 
-## January Trips
+## January Trips 
 
 **11-12th Jenolan**   
 Trip Organiser: TBC
 
-**25-27 January Yagby**
+**25-27 January Yagby**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **22-23rd Bungonia (special beginner trip)**  
 Trip Organiser: TBC
 
-**22-23rd Wombeyan**
+**22-23rd Wombeyan**  
 Trip Organiser: TBC
 
-### Jenolan Trip Dates 2020
+### Jenolan Trip Dates 2020  
 
 - 11-12 January
 - 8-9 February
