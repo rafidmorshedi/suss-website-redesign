@@ -38,10 +38,10 @@ Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
 
 ## January Trips 
 
-**11-12th Jenolan**   
+**11-12th Jenolan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**   
 Trip Organiser: TBC
 
-**25-27 January Yagby**  
+**25-27 January Yagby (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **22-23rd Bungonia (special beginner trip)**  
