@@ -44,10 +44,10 @@ Trip Organiser: TBC
 **25-27 January Yagby (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**22-23rd Bungonia (special beginner trip)**  
+**22-23rd Bungonia (special beginner trip) (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: TBC
 
-**22-23rd Wombeyan**  
+**22-23rd Wombeyan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: TBC
 
 ### Jenolan Trip Dates 2020  
