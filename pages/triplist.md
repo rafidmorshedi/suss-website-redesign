@@ -31,15 +31,14 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
+**BUSHFIRES HAVE IMPACTED MANY CAVING AREAS, WHICH HAS LIMITED OUR CAVING ACTIVITY. HOPEFULLY, SUSS WILL BE BACK TO IT'S USUAL SCHEDULE SOON**
+
 ## December Trips  
 
 **26 Dec to 2 Jan Mole Creek (TRIP FULL)**  
 Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
 
 ## January Trips 
-
-**11-12th Jenolan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**   
-Trip Organiser: TBC
 
 **25-27 January Yagby (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
@@ -49,6 +48,12 @@ Trip Organiser: TBC
 
 **22-23rd Wombeyan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: TBC
+
+## March Trips 
+
+**14-15th South West Rocks Dive Trip**   
+Trip Organiser: Alan Green (alanmgreen@hotmail.com)
+
 
 ### Jenolan Trip Dates 2020  
 
