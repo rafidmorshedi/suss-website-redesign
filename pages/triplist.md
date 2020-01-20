@@ -49,6 +49,17 @@ Trip Organiser: TBC
 **22-23rd Wombeyan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: TBC
 
+## February Trips 
+
+**1-2 Vertical Training - Lindfield Rocks**  
+Trip Organiser: Glen (glenellis2011@hotmail.com)
+
+**8-9th Jenolan**  
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
+
+**22-23rd St Michael's Sea Cave**  
+Trip Organiser: TBC
+
 ## March Trips 
 
 **14-15th South West Rocks Dive Trip**   
