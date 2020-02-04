@@ -31,30 +31,14 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-**BUSHFIRES HAVE IMPACTED MANY CAVING AREAS, WHICH HAS LIMITED OUR CAVING ACTIVITY. HOPEFULLY, SUSS WILL BE BACK TO IT'S USUAL SCHEDULE SOON**
-
-## December Trips  
-
-**26 Dec to 2 Jan Mole Creek (TRIP FULL)**  
-Trip Organiser: Steph (steph.whitaker@hotmail.co.uk)
-
-## January Trips 
-
-**25-27 January Yagby (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-**22-23rd Bungonia (special beginner trip) (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
-Trip Organiser: TBC
-
-**22-23rd Wombeyan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
-Trip Organiser: TBC
+**BUSHFIRES HAVE IMPACTED MANY CAVING AREAS, WHICH HAS LIMITED OUR CAVING ACTIVITY. HOPEFULLY, SUSS WILL BE BACK TO IT'S USUAL SCHEDULE SOON. Please email the committee if you have ideas for alternate trips.**
 
 ## February Trips 
 
 **1-2 Vertical Training - Lindfield Rocks**  
 Trip Organiser: Glen (glenellis2011@hotmail.com)
 
-**8-9th Jenolan**  
+**8-9th Jenolan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
 Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 **22-23rd St Michael's Sea Cave**  
