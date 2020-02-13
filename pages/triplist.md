@@ -38,6 +38,9 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **22-23 St Michael's Sea Cave**  
 Trip Organiser: Lily (lil233.lg@gmail.com)
 
+**19-21 O-week (come and help)**  
+Contact: Lily (lil233.lg@gmail.com) 
+
 **29-1 Wee Jasper**  
 Trip Organiser: Roweana (rowena1234@hotmail.com)  
 
