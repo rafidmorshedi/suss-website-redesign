@@ -35,19 +35,32 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## February Trips 
 
-**1-2 Vertical Training - Lindfield Rocks**  
-Trip Organiser: Glen (glenellis2011@hotmail.com)
+**22-23 St Michael's Sea Cave**  
+Trip Organiser: Lily (lil233.lg@gmail.com)
 
-**8-9th Jenolan (CANCELLED DUE TO [BUSHFIRES](https://www.rfs.nsw.gov.au/volunteer/support-your-local-brigade) )**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
+**29-1 Wee Jasper**  
+Trip Organiser: Roweana (rowena1234@hotmail.com)  
 
-**22-23rd St Michael's Sea Cave**  
-Trip Organiser: TBC
 
 ## March Trips 
 
+**5th Genral Meeting 7.30pm - Alan Pryke Caving in NZ**   
+Trip Organiser: Kat (katkatherine123@gmail.com)
+
+**7 or 8th Learn to Abseil day**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
+**14-15th Munmorrah Sea Caves (EXPERINCED ABSEILERS ONLY)**   
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
 **14-15th South West Rocks Dive Trip**   
 Trip Organiser: Alan Green (alanmgreen@hotmail.com)
+
+**21-22 Tarakuana**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
+**28-29 Wombeyan or Jenolan (pending roads opening)**   
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 
 ### Jenolan Trip Dates 2020  
