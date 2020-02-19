@@ -42,18 +42,18 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 Contact: Lily (lil233.lg@gmail.com) 
 
 **29-1 Wee Jasper**  
-Trip Organiser: Roweana (rowena1234@hotmail.com)  
+Trip Organiser: Rowena (rowena1234@hotmail.com)  
 
 
 ## March Trips 
 
-**5th Genral Meeting 7.30pm - Alan Pryke Caving in NZ**   
+**5th General Meeting 7.30pm - Alan Pryke Caving in NZ**   
 Trip Organiser: Kat (katkatherine123@gmail.com)
 
 **7 or 8th Learn to Abseil day**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
-**14-15th Munmorrah Sea Caves (EXPERINCED ABSEILERS ONLY)**   
+**14-15th Munmorrah Sea Caves (EXPERIENCED ABSEILERS ONLY)**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 **14-15th South West Rocks Dive Trip**   
