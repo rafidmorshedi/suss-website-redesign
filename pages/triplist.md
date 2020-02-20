@@ -47,7 +47,7 @@ Trip Organiser: Rowena (rowena1234@hotmail.com)
 
 ## March Trips 
 
-**5th General Meeting 7.30pm - Alan Pryke Caving in NZ**   
+**5th General Meeting 7.15 pm - Alan Pryke Caving in NZ**   
 Trip Organiser: Kat (katkatherine123@gmail.com)
 
 **7 or 8th Learn to Abseil day**   
