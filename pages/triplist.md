@@ -59,7 +59,7 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 **14-15th South West Rocks Dive Trip**   
 Trip Organiser: Alan Green (alanmgreen@hotmail.com)
 
-**21-22 Tarakuana**   
+**21-22 Tarakuana (TRIP FULL)**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 **28-29 Wombeyan or Jenolan (pending roads opening)**   
