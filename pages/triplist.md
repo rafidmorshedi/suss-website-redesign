@@ -33,24 +33,13 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **BUSHFIRES HAVE IMPACTED MANY CAVING AREAS, WHICH HAS LIMITED OUR CAVING ACTIVITY. HOPEFULLY, SUSS WILL BE BACK TO IT'S USUAL SCHEDULE SOON. Please email the committee if you have ideas for alternate trips.**
 
-## February Trips 
-
-**22-23 St Michael's Sea Cave**  
-Trip Organiser: Lily (lil233.lg@gmail.com)
-
-**19-21 O-week (come and help)**  
-Contact: Lily (lil233.lg@gmail.com) 
-
-**29-1 Wee Jasper**  
-Trip Organiser: Rowena (rowena1234@hotmail.com)  
-
 
 ## March Trips 
 
 **5th General Meeting 7.15 pm - Alan Pryke Caving in NZ**   
 Trip Organiser: Kat (katkatherine123@gmail.com)
 
-**7 or 8th Learn to Abseil day**   
+**8th Learn to Abseil day**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 **14-15th Munmorrah Sea Caves (EXPERIENCED ABSEILERS ONLY)**   
