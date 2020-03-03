@@ -42,7 +42,7 @@ Trip Organiser: Kat (katkatherine123@gmail.com)
 **8th Learn to Abseil day**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
-**14-15th Munmorrah Sea Caves (EXPERIENCED ABSEILERS ONLY)**   
+**15th Munmorrah Sea Caves (EXPERIENCED ABSEILERS ONLY)**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 **14-15th South West Rocks Dive Trip**   
