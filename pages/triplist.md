@@ -31,7 +31,7 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-**BUSHFIRES HAVE IMPACTED MANY CAVING AREAS, WHICH HAS LIMITED OUR CAVING ACTIVITY. HOPEFULLY, SUSS WILL BE BACK TO IT'S USUAL SCHEDULE SOON. Please email the committee if you have ideas for alternate trips.**
+**DUE TO THE RECENT COVID19 OUTBREAK THE UNIVERSITY OF SYDNEY UNION HAS BANNED ALL CLUB EVENTS UNTIL FURTHER NOTICE. ALL TRIPS ARE CANCELLED FOR THE TIME BEING. WE HOPE TO BE BACK SOON.**
 
 
 ## March Trips 
@@ -51,7 +51,7 @@ Trip Organiser: Alan Green (alanmgreen@hotmail.com)
 **21-22 Tarakuana (TRIP FULL)**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
-**28-29 Borenore**   
+**28-29 Borenore (Cancelled - COVID19)**   
 Trip Organiser: Ian Cooper (cooperi4@bigpond.com)
 
 
