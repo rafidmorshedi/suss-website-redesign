@@ -13,6 +13,10 @@ SUSS is a Sydney University student society, our members include students, profe
 
 ## How to become a member or renew your membership
 
+## COVID SPECIAL - Memberhips in 2020
+We have a special SUSS 2020 Semester 2 ONLY special membership arrangement, [**sign up for free**](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link) and pay at your first trip!
+
+## Alternative sign up options 
 ### Option 1:
 
 Pay by EFT to Sydney Unviersity Speleological Society, then fill out the form online and email it to the treasurer at **psmpsw@gmail.com** including your payment reference.
