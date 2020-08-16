@@ -31,28 +31,18 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-**DUE TO THE RECENT COVID19 OUTBREAK THE UNIVERSITY OF SYDNEY UNION HAS BANNED ALL CLUB EVENTS UNTIL FURTHER NOTICE. ALL TRIPS ARE CANCELLED FOR THE TIME BEING. WE HOPE TO BE BACK SOON.**
+**SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
+## August/Sept Trips 
 
-## March Trips 
+**29th Aug - Bushwalk**   
+Trip Organiser: Lily (lil233.lg@gmail.com)
 
-**5th General Meeting 7.15 pm - Alan Pryke Caving in NZ**   
-Trip Organiser: Kat (katkatherine123@gmail.com)
+**3rd Sept - SUSS AGM**   
+Details: 7:30pm via Zoom (check your email for meeting link)
 
-**8th Learn to Abseil day**   
+**12th or 13th Sept - Bushwalk**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
-**15th Munmorrah Sea Caves (EXPERIENCED ABSEILERS ONLY)**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-**14-15th South West Rocks Dive Trip**   
-Trip Organiser: Alan Green (alanmgreen@hotmail.com)
-
-**21-22 Tarakuana (TRIP FULL)**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
-
-**28-29 Borenore (Cancelled - COVID19)**   
-Trip Organiser: Ian Cooper (cooperi4@bigpond.com)
 
 
 ### Jenolan Trip Dates 2020  
