@@ -13,13 +13,13 @@ SUSS is a Sydney University student society, our members include students, profe
 
 ## How to become a member or renew your membership
 
-## COVID SPECIAL - Memberhips in 2020
-We have a special SUSS 2020 Semester 2 ONLY special membership arrangement, [**sign up for free**](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link) and pay at your first trip!
+## Memberhips in 2020 - COVID circumstances
+We have a special membership arrangement for 2020 given the reduced caving activity and the imacts of lockdown. You may [**sign up for free**](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link) and pay at your first trip!
 
 ## Alternative sign up options 
 ### Option 1:
 
-Pay by EFT to Sydney Unviersity Speleological Society, then fill out the form online and email it to the treasurer at **psmpsw@gmail.com** including your payment reference.
+Pay by EFT to Sydney Unviersity Speleological Society, then fill out the form online and email it to the treasurer Vanessa at **pangcyee16@gmail.com** including your payment reference.
 
 **EFT details:**
 - BSB: 062284
