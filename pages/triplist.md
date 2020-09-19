@@ -33,37 +33,23 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## August/Sept Trips 
+## October Trips 
 
-**29th Aug - Bushwalk**   
-Trip Organiser: Lily (lil233.lg@gmail.com)
-
-**3rd Sept - SUSS AGM**   
-Details: 7:30pm via Zoom (check your email for meeting link)
-
-**12th or 13th Sept - Bushwalk**   
+**2nd or 4th - Adventure to be determined**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
+**10th - SRT Training at Lindfield**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
+**31st - 1st Canyoning**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 ### Jenolan Trip Dates 2020  
 
-- 11-12 January
-- 8-9 February
-- 7-8 March
-- 4-5 April
-- 9-10 May
-- 13-14 June
-- 4-12 July 
-- 8-9 August
-- 12-13 September
 - 10-11 October
 - 7-8 November
 - 5-13 December
 
 ### Wombeyan Trip Dates 2020
 
-- 22-23 February
-- 25-26 April
-- 27-28 June
-- 22-23 August
 - 24-25 October
