@@ -1,20 +1,20 @@
 - position: President
-  name: Lily Guo
-  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
-  email: zguo4653@uni.sydney.edu.au
-  image: '/images/comm-lily.jpg'
-
-- position: Vice President
   name: Katherine Li
-  role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
-  email: katkatherine123@gmail.com
+  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
+  email: katherine123@gmail.com
   image: '/images/comm-katli.jpg'
 
+- position: Vice President
+  name: Phillipa Byrnes
+  role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
+  email: TBC
+  image: '/images/comm-phillipa.jpg'
+
 - position: Gear Officer
-  name: Vanessa Pang
+  name: Jeremy Blake
   role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
-  email: cpan6128@uni.sydney.edu.au
-  image: '/images/comm-vanessapang.jpg'
+  email: TBC
+  image: '/images/comm-jeremyb.jpg'
 
 - position: Club Secretary
   name: Simon Murphy
@@ -23,10 +23,10 @@
   image: '/images/comm-simonmurphy.jpg'
 
 - position: Treasurer
-  name: Charmaine
+  name: Vanessa Pang
   role_desc: "The treasurer manages the society finances and membership fees."
-  email: psmpsw@gmail.com
-  image: '/images/comm-charmaine.jpg'
+  email: cpan6128@uni.sydney.edu.au
+  image: '/images/comm-vanessapang.jpg'
 
 - position: Safety Officer
   name: Jordan Fenech
@@ -41,10 +41,10 @@
   image: '/images/comm-phil.jpg'
 
 - position: Social Media Officer
-  name: Stephanie Murphy
+  name: Lily Guo
   role_desc: "The Social Media Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
-  email: steph.whitaker@hotmail.co.uk
-  image: '/images/comm-steph.jpg'
+  email: zguo4653@uni.sydney.edu.au
+  image: '/images/comm-lily.jpg'
 
 - position: Minutes Secretary
   name: Rafid Morshedi
@@ -75,3 +75,9 @@
   role_desc: "General committee members provide an extra set of hands in running of the club."
   email: glenellis2011@hotmail.com
   image: '/images/comm-glene.jpg'
+
+- position: General
+  name: Paul Coulter
+  role_desc: "General committee members provide an extra set of hands in running of the club."
+  email: coulter.paul@yahoo.co.uk
+  image: '/images/comm-paulc.jpg'
