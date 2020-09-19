@@ -14,7 +14,7 @@ SUSS is a Sydney University student society, our members include students, profe
 ## How to become a member or renew your membership
 
 ## Memberhips in 2020 - COVID circumstances
-We have a special membership arrangement for 2020 given the reduced caving activity and the imacts of lockdown. You may [**sign up for free**](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link) and pay at your first trip!
+We have a special membership arrangement for 2020 given the reduced caving activity and the impacts of lockdown. You may [**sign up for free**](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link) and pay on your first trip!
 
 ## Alternative sign up options 
 ### Option 1:
