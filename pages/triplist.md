@@ -41,15 +41,21 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 **10th - SRT Training at Lindfield**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
+**24th - 25th Kempsey Caving**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
 **31st - 1st Canyoning**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
+## November Trips 
+
+**28th or 29th - Kempsey Caving**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 ### Jenolan Trip Dates 2020  
 
-- 10-11 October
-- 7-8 November
-- 5-13 December
+- Nil
 
 ### Wombeyan Trip Dates 2020
 
-- 24-25 October
+- Nil
