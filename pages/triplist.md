@@ -44,12 +44,15 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 **24th - 25th Kempsey Caving**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
-**31st - 1st Canyoning**   
+**31st - 1st Canyoning (cancelled due to wet weather)**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 ## November Trips 
 
 **28th or 29th - Kempsey Caving**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+
+**15th Canyoning**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 ### Jenolan Trip Dates 2020  
