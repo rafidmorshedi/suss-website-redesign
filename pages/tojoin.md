@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Join Us"
 subheadline: 'Explore. Get fit. Meet adventurous folk. An experience like no other.'
-teaser: "Anyone can become a member of the club. We do not require membership for you to attend club trips, however, two conditions apply."
+teaser: "Anyone can become a member of the club. We do not require membership for you to attend club trips, however, two conditions apply.*"
 header:
    image_fullwidth: "bottomless_simon_pbaxter.jpg"
    caption: 'One of the more spectacular caves we visit. Photo: Pete Baxter'
