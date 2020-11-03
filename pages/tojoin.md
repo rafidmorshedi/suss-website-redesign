@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Join Us"
 subheadline: 'Explore. Get fit. Meet adventurous folk. An experience like no other.'
-teaser: "Anyone can become a member of the club. We do not require membership for you to attend club trips, but it's cheaper if you attend more than 1 or 2 trips."
+teaser: "Anyone can become a member of the club. We do not require membership for you to attend club trips, however, two conditions apply."
 header:
    image_fullwidth: "bottomless_simon_pbaxter.jpg"
    caption: 'One of the more spectacular caves we visit. Photo: Pete Baxter'
@@ -32,7 +32,7 @@ Print out the membership form below, fill it out and post it to SUSS at the addr
 
 Please note: All SUSS members (student and non-student) are required to hold a current University of Sydney Union ACCESS card. ACCESS membership is free for current University of Sydney students. Cards for non-students are available for purchase online at [USU Website](http://www.usu.edu.au/Shop/ACCESS-Card/Access-Card.aspx). Don't forget that your ACCESS card entitles you to benefits such as cheap movie tickets, retail discounts and so on, see the website for details.
 ​
-## Why become a member
+## * Why become a member
 ​
 Club members have priority on registering for trips, if a trip fills up, non members will be asked to join or forfeit their place. If you have been or intend to come on multiple trips and live in Sydney it is reasonable to expect you to join. We charge $30 per trip for non-members, this can go towards full membership in that calendar year if you decide to do so later (so keep your receipts!).
 
