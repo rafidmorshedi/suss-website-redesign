@@ -55,6 +55,11 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 **15th Canyoning**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
+## December Trips 
+
+**19th or 20th - Christmas party**   
+Trip Organiser: Glen (glenellis2011@hotmail.com)
+
 ### Jenolan Trip Dates 2020  
 
 - Nil
