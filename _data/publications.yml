@@ -9,8 +9,8 @@
 - name: The caves of Jenolan 3. The Southern Limestone
   year: 'Coming soon'
   description: "Description, history, route guides, maps for the southern limestone caves of Jenolan"
-  member_price: 'TBA'
-  nonmember_price: 'TBA'
+  member_price: 20
+  nonmember_price: 20
   thumbnail: /images/pub-southjenolan.png
 
 - name: Tuglow Caves
