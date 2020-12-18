@@ -57,8 +57,21 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 ## December Trips 
 
-**19th or 20th - Christmas party - Stanwell Park**   
-Trip Organiser: Glen (glenellis2011@hotmail.com)
+**19th or 20th - Christmas party - Stanwell Park** 
+
+BBQ at Stanwell Park Beach  
+Please note the BBQ is BYO food and drink.  
+Start time is 5:30pm onwards.  
+If you have a portable stove top or similar cooking device, please bring it just in case.  
+Bring Swimmers if you want to go into the sea. Bring frisbees, balls, etc. to throw/kick around if you wish.  
+Consider bringing a camping chair and a fold-up table if you have one, in case picnic benches are all taken.  
+There are also toilets at this park. Here’s the location: https://goo.gl/maps/ngfdaGMrxNgRxoNL9  
+
+For both activities, note there is a train station at Stanwell Park, but trains are not particularly frequent. If you are arriving or leaving by train, both the cliff track and the park are within walking distance of the station but you might wish your fitness were better for the short and steep hike up to the cliff top!  
+
+Rowena will bring copies of her long-awaited book, The Caves of Jenolan 3: The Southern Limestone. $20.  
+
+Trip Organiser: Glen (glenellis2011@hotmail.com)  
 
 ### Jenolan Trip Dates 2020  
 
