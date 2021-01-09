@@ -12,6 +12,13 @@
   member_price: 20
   nonmember_price: 20
   thumbnail: /images/pub-southjenolan.png
+  
+- name: Mammoth Cave Compendium
+  year: '2020'
+  description: "Description, history, route guides, maps for Mammoth Cave, compiled from SUSS Mammoth BULL articles - *[PDF HERE](https://drive.google.com/file/d/1WdEWEfw2TDUH3I5Wdkxp16JZHglIEvAu/view?usp=sharing)*"
+  member_price: NA
+  nonmember_price: NA
+  thumbnail: /images/pub-mammoth_compendium.jpg
 
 - name: Tuglow Caves
   year: 1998
