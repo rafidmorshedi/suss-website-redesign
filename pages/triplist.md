@@ -33,50 +33,31 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## October Trips 
+## January Trips 
 
-**2nd or 4th - Adventure to be determined**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+**23rd or 24th - Canyon**   
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
-**10th - SRT Training at Lindfield**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
-**24th - 25th Kempsey Caving**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+## February Trips 
 
-**31st - 1st Canyoning (cancelled due to wet weather)**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+**13th or 14th - First Aid Course**   
+Trip Organiser: Pip (pmbyrnes96@gmail.com)  
 
-## November Trips 
+**10th to 16th - Tassie (TRIP FULL - COVID DEPENDENT)**  
+Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
-**28th or 29th - Kempsey Caving**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
-**15th Canyoning**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
+## March Trips 
 
-## December Trips 
+**13th - Social Event (New member orientation)**   
+Trip Organiser: Pip (pmbyrnes96@gmail.com)  
 
-**19th or 20th - Christmas party - Stanwell Park** 
 
-BBQ at Stanwell Park Beach  
-Please note the BBQ is BYO food and drink.  
-Start time is 5:30pm onwards.  
-If you have a portable stove top or similar cooking device, please bring it just in case.  
-Bring Swimmers if you want to go into the sea. Bring frisbees, balls, etc. to throw/kick around if you wish.  
-Consider bringing a camping chair and a fold-up table if you have one, in case picnic benches are all taken.  
-There are also toilets at this park. Here’s the location: https://goo.gl/maps/ngfdaGMrxNgRxoNL9  
-
-For both activities, note there is a train station at Stanwell Park, but trains are not particularly frequent. If you are arriving or leaving by train, both the cliff track and the park are within walking distance of the station but you might wish your fitness were better for the short and steep hike up to the cliff top!  
-
-Rowena will bring copies of her long-awaited book, The Caves of Jenolan 3: The Southern Limestone. $20.  
-
-Trip Organiser: Glen (glenellis2011@hotmail.com)  
-
-### Jenolan Trip Dates 2020  
+### Jenolan Trip Dates 2021  
 
 - Nil
 
-### Wombeyan Trip Dates 2020
+### Wombeyan Trip Dates 2021
 
 - Nil
