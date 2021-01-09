@@ -15,7 +15,10 @@ categories:
 Cave diving is underwater diving in caves filled with water. The first Australian cave divers were Sydney University cavers in the early 1950s. They explored tourist caves using homemade gear including garden hoses, waterproofed car headlights and hand-pumped bellows.
 
 
-Since then cave diving has become more regulated with cave divers being required to hold specialised qualifications by the CDAA (Cave Diving Association of Australia).
+The [ASF Cave Diving Group](https://cdg.caves.org.au/) formed in 2000 to facilitate the exchange of information between these cave diving groups and is the representative body for ASF cave divers in Australia. The main activities are exploration and supporting the many areas of cave related sciences.
+
+
+Since then cave diving has become more regulated with cave divers being required to hold specialised qualifications by a recognised cave diving training agency such as TDI, IANTD, CDAA or a recognised international training agency.
 
 
 SUSS has a number of qualified cave divers who regularly dive in caves in NSW exploring new leads and mapping otherwise unknown areas of cave. SUSS has a team of cave divers who are currently exploring the underground river of Mammoth cave in Jenolan, details of their expeditions were reported in the Australian Geographic magazine in 2017.
