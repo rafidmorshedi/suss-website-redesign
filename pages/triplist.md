@@ -35,7 +35,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## January Trips 
 
-**23rd or 24th - Canyon**   
+**30th - Canyon (canyon to be decided depending on group)**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 
