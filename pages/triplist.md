@@ -35,6 +35,9 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## January Trips 
 
+**22nd - 25th Mt Fairy**   
+Trip Organiser: Keir (keirvt@optusnet.com.au)
+
 **30th - Canyon (canyon to be decided depending on group)**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
