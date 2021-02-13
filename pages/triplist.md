@@ -48,7 +48,10 @@ Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)    
 
 **13th - Social Event (New member orientation)**   
-Trip Organiser: Pip (pmbyrnes96@gmail.com)  
+Trip Organiser: Pip (pmbyrnes96@gmail.com) 
+
+**20th - Canyoning (beginner friendly)**   
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
 
 **27th - 28th - Kempsey caving**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)  
