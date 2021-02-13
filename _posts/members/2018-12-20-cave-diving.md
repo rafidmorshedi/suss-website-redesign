@@ -28,7 +28,3 @@ SUSS has a number of qualified cave divers who regularly dive in caves in NSW ex
 ## Press
 
 - [Heart of darkness - Australian Geographic](http://www.australiangeographic.com.au/topics/adventure/2017/05/jenolan-caves)
-
-## Cave Diver Certifications
-
-Certifications for SUSS cave divers can be found [here](https://www.dropbox.com/sh/b4kckz5cugy03bm/AADiiKMlU0RnSevTChHSZQoRa?dl=0).
