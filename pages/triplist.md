@@ -33,15 +33,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## January Trips 
-
-**22nd - 25th Mt Fairy**   
-Trip Organiser: Keir (keirvt@optusnet.com.au)
-
-**30th - Canyon (canyon to be decided depending on group)**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-
 ## February Trips 
 
 **13th or 14th - First Aid Course**   
@@ -53,8 +44,14 @@ Trip Organiser: Simon (simon.murphy@sydney.edu.au)
 
 ## March Trips 
 
+**6th - SRT Training**   
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)    
+
 **13th - Social Event (New member orientation)**   
 Trip Organiser: Pip (pmbyrnes96@gmail.com)  
+
+**27th - 28th - Kempsey caving**   
+Trip Organiser: Phil (Philip.Maynard@uts.edu.au)  
 
 
 ### Jenolan Trip Dates 2021  
