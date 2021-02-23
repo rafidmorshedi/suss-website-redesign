@@ -51,7 +51,10 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 Trip Organiser: Pip (pmbyrnes96@gmail.com) 
 
 **20th - Canyoning (beginner friendly)**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
+
+**26th - Fish Rock Cave Dive ([double dive trip](https://swrdive.com.au/))**   
+Trip Organiser: Alan (alan@meridianpost.com.au) 
 
 **27th - 28th - Kempsey caving**   
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)  
