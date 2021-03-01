@@ -13,6 +13,8 @@ SUSS is a Sydney University student society, our members include students, profe
 
 ## How to become a member or renew your membership
 
+You can sign up via the form **[here](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link)**. Instructions are also included in the form.
+
 ## Alternative sign up options 
 ### Option 1:
 
