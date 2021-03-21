@@ -60,6 +60,20 @@ Trip Organiser: Alan (alan@meridianpost.com.au)
 Trip Organiser: Phil (Philip.Maynard@uts.edu.au)  
 
 
+## April Trips 
+
+**2nd -3rd Overnight hike**   
+Trip Organiser: Lily and Pip (lil233.lg@gmail.com and pmbyrnes96@gmail.com)    
+
+**13th - Climbing at the Ledge**   
+Trip Organiser: Pip (pmbyrnes96@gmail.com)  
+
+**17th - Gear Audit**   
+Trip Organiser: Pip (pmbyrnes96@gmail.com) 
+
+**18th - Vertical Training**   
+Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
+
 ### Jenolan Trip Dates 2021  
 
 - Nil
