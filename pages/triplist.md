@@ -62,8 +62,15 @@ Trip Organiser: Phil (Philip.Maynard@uts.edu.au)
 
 ## April Trips 
 
+**1st - General Meeting "Duck of Darkness” documentary presented by director Keir Vaughan-taylor.**   
+When: 6 pm (Sydney Time)  
+Where: USYD Camperdown campus - Manning House - Isabel Fidler meeting room  
+
 **2nd -3rd Overnight hike**   
 Trip Organiser: Lily and Pip (lil233.lg@gmail.com and pmbyrnes96@gmail.com)    
+
+**10th - 11th - Bungonia Caving**   
+Trip Organiser: Simon (caver.murf@gmail.com)
 
 **13th - Climbing at the Ledge**   
 Trip Organiser: Pip (pmbyrnes96@gmail.com)  
