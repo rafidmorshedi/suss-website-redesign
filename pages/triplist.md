@@ -33,32 +33,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## February Trips 
-
-**13th or 14th - First Aid Course**   
-Trip Organiser: Pip (pmbyrnes96@gmail.com)  
-
-**10th to 16th - Tassie (TRIP FULL - COVID DEPENDENT)**  
-Trip Organiser: Simon (simon.murphy@sydney.edu.au)
-
-
-## March Trips 
-
-**6th - SRT Training**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)    
-
-**13th - Social Event (New member orientation)**   
-Trip Organiser: Pip (pmbyrnes96@gmail.com) 
-
-**20th - Canyoning (beginner friendly)**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
-
-**26th - Fish Rock Cave Dive ([double dive trip](https://swrdive.com.au/))**   
-Trip Organiser: Alan (alan@meridianpost.com.au) 
-
-**27th - 28th - Kempsey caving**   
-Trip Organiser: Phil (Philip.Maynard@uts.edu.au)  
-
 
 ## April Trips 
 
@@ -81,9 +55,19 @@ Trip Organiser: Pip (pmbyrnes96@gmail.com)
 **18th - Vertical Training**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
 
+**22nd-25th - Jenolan Caving**   
+Trip Organiser: Simon (caver.murf@gmail.com)  
+
 ### Jenolan Trip Dates 2021  
 
-- Nil
+- 8-9 May
+- 12-14 June
+- 3-11 July
+- 7-8 August
+- 4-5 September
+- 9-10 October
+- 6-7 November
+- 4-12 December
 
 ### Wombeyan Trip Dates 2021
 
