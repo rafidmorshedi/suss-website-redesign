@@ -58,6 +58,12 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 **22nd-25th - Jenolan Caving**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
+## May Trips 
+
+**1st - 2nd Wombeyan Caving**   
+Trip Organiser: TBC    
+
+
 ### Jenolan Trip Dates 2021  
 
 - 8-9 May
