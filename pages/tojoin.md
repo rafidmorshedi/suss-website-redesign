@@ -29,7 +29,7 @@ Pay by EFT to Sydney University Speleological Society, then fill out the form on
 Print out the membership form below, fill it out and post it to SUSS at the address listed on the top of the form with a cheque or money made out to Sydney University Speleological Society
 
 
-Please note: All SUSS members (student and non-student) are required to hold a current University of Sydney Union ACCESS card. ACCESS membership is free for current University of Sydney students. Cards for non-students are available for purchase online at [USU Website](http://www.usu.edu.au/Shop/ACCESS-Card/Access-Card.aspx). Don't forget that your ACCESS card entitles you to benefits such as cheap movie tickets, retail discounts and so on, see the website for details.
+Please note: All SUSS members (student and non-student) are required to hold a current University of Sydney Union (USU) Membership. USU membership is free for current University of Sydney students. Cards for non-students are available for purchase online at the [USU Website](https://usu.edu.au/membership.aspx). Don't forget that your USU Membership entitles you to benefits such as cheap movie tickets, retail discounts and so on, see the website for details.
 ​
 ## * Why become a member
 ​
