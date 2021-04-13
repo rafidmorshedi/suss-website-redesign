@@ -50,7 +50,7 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 Trip Organiser: Pip (pmbyrnes96@gmail.com)  
 
 **17th - Gear Audit**   
-Trip Organiser: Pip (pmbyrnes96@gmail.com) 
+Trip Organiser: Kat (katkatherine123@gmail.com) 
 
 **18th - Vertical Training**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
