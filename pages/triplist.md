@@ -36,16 +36,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## April Trips 
 
-**1st - General Meeting "Duck of Darkness” documentary presented by director Keir Vaughan-taylor.**   
-When: 6 pm (Sydney Time)  
-Where: USYD Camperdown campus - Manning House - Isabel Fidler meeting room  
-
-**2nd -3rd Overnight hike**   
-Trip Organiser: Lily and Pip (lil233.lg@gmail.com and pmbyrnes96@gmail.com)    
-
-**10th - 11th - Bungonia Caving**   
-Trip Organiser: Simon (caver.murf@gmail.com)
-
 **13th - Climbing at the Ledge**   
 Trip Organiser: Pip (pmbyrnes96@gmail.com)  
 
@@ -61,7 +51,31 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 ## May Trips 
 
 **1st - 2nd Wombeyan Caving**   
-Trip Organiser: Keir (keirvt@optusnet.com.au)      
+Trip Organiser: Keir (keirvt@optusnet.com.au)  
+
+**6th - AGM**   
+When: 7:30 pm  
+Where: The Royal Hotel, 370 Abercrombie St, Darlington NSW 2008  
+
+**11th - The Ledge Climbing**   
+Trip Organiser: Pip (pmbyrnes96@gmail.com)  
+
+**8th - 9th Jenolan**   
+Trip Organiser: Simon (caver.murf@gmail.com)  
+
+**15th - 16th Tuglow (pending access)**   
+Trip Organiser: Lily (lil233.lg@gmail.com)
+
+**29th - 30th Bungonia**   
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)
+
+## June Trips 
+
+**12th - 13th Jenolan**   
+Trip Organiser: TBC  
+
+**20th - Vertical training**   
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
 
 
 ### Jenolan Trip Dates 2021  
