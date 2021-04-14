@@ -61,7 +61,7 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 ## May Trips 
 
 **1st - 2nd Wombeyan Caving**   
-Trip Organiser: TBC    
+Trip Organiser: Keir (keirvt@optusnet.com.au)      
 
 
 ### Jenolan Trip Dates 2021  
