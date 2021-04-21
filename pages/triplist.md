@@ -66,6 +66,9 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 **15th - 16th Tuglow (pending access)**   
 Trip Organiser: Lily (lil233.lg@gmail.com)
 
+**22nd - 23rd Kempsey**   
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
 **29th - 30th Bungonia**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
