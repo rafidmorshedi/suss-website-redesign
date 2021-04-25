@@ -60,7 +60,7 @@ Where: The Royal Hotel, 370 Abercrombie St, Darlington NSW 2008
 **11th - The Ledge Climbing**   
 Trip Organiser: Pip (pmbyrnes96@gmail.com)  
 
-**8th - 9th Jenolan**   
+**8th - 9th Jenolan (CANCELLED due to road access issues)**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
 **15th - 16th Tuglow (pending access)**   
