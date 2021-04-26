@@ -80,6 +80,9 @@ Trip Organiser: TBC
 **20th - Vertical training**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
 
+**26th-27th - Wyanbene**   
+Trip Organiser: Jill (jillr@speleonics.com.au) 
+
 
 ### Jenolan Trip Dates 2021  
 
