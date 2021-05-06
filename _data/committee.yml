@@ -69,6 +69,12 @@
   role_desc: "The ASF councilor shall deal with all matters pertaining to the society's relationship with the Australian Speleological Federation Incorporated."
   email: emilyrbutcher@outlook.com
   image: '/images/comm-embutcher.jpg'
+ 
+ - position: Webmaster
+  name: Rafid Morshedi
+  role_desc: "The webmaster is responsible for looking after the website."
+  email: rafid.morshedi@gmail.com
+  image: '/images/comm-rafid.jpg'
 
 - position: General
   name: Glen Ellis
