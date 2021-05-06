@@ -71,10 +71,10 @@
   image: '/images/comm-embutcher.jpg'
  
  - position: Webmaster
-  name: Rafid Morshedi
-  role_desc: "The webmaster is responsible for looking after the website."
-  email: rafid.morshedi@gmail.com
-  image: '/images/comm-rafid.jpg'
+   name: Rafid Morshedi
+   role_desc: "The webmaster is responsible for looking after the website."
+   email: rafid.morshedi@gmail.com
+   image: '/images/comm-rafid.jpg'
 
 - position: General
   name: Glen Ellis
