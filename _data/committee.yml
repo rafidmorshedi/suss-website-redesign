@@ -1,20 +1,20 @@
 - position: President
-  name: Katherine Li
-  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
-  email: katherine123@gmail.com
-  image: '/images/comm-katli.jpg'
-
-- position: Vice President
   name: Phillipa Byrnes
-  role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
+  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
   email: pmbyrnes96@gmail.com
   image: '/images/comm-phillipa.jpg'
 
+- position: Vice President
+  name: Lara Munahe
+  role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
+  email: lmun8721@uni.sydney.edu.au
+  image: '/images/comm-lara.jpg'
+
 - position: Gear Officer
-  name: Jeremy Blake
+  name: Rowena Larkins
   role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
-  email: Jbrakety@gmail.com
-  image: '/images/comm-jeremyb.jpg'
+  email: rowena1234@hotmail.com
+  image: '/images/comm-rowena.jpg'
 
 - position: Club Secretary
   name: Simon Murphy
@@ -23,10 +23,10 @@
   image: '/images/comm-simonmurphy.jpg'
 
 - position: Treasurer
-  name: Vanessa Pang
+  name: Lily Guo
   role_desc: "The treasurer manages the society finances and membership fees."
-  email: cpan6128@uni.sydney.edu.au
-  image: '/images/comm-vanessapang.jpg'
+  email: zguo4653@uni.sydney.edu.au
+  image: '/images/comm-lily.jpg'
 
 - position: Safety Officer
   name: Jordan Fenech
@@ -41,16 +41,16 @@
   image: '/images/comm-phil.jpg'
 
 - position: Social Media Officer
-  name: Lily Guo
+  name: Lara Munahe
   role_desc: "The Social Media Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
-  email: zguo4653@uni.sydney.edu.au
-  image: '/images/comm-lily.jpg'
+  email: lmun8721@uni.sydney.edu.au
+  image: '/images/comm-lara.jpg'
 
 - position: Minutes Secretary
-  name: Rafid Morshedi
+  name: Quinn Cooney
   role_desc: "The minutes secretary records the minutes and actions from society meetings."
-  email: rafid.morshedi@gmail.com
-  image: '/images/comm-rafid.jpg'
+  email: quinncooney@gmail.com
+  image: '/images/comm-quinn.jpg'
 
 - position: Dive Representative
   name: Greg Ryan
@@ -59,10 +59,10 @@
   image: '/images/comm-greg.jpg'
 
 - position: Librarian
-  name: Rafid Morshedi
+  name: Rod O'Brien
   role_desc: "The librarian is in charge of the vast SUSS caving library and archives."
-  email: rafid.morshedi@gmail.com
-  image: '/images/comm-rafid2.jpg'
+  email:  constructiondiver@bigpond.com
+  image: '/images/comm-rod.jpg'
 
 - position: ASF Councillor
   name: Emily Butcher
