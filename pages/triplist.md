@@ -63,7 +63,7 @@ Trip Organiser: Pip (pmbyrnes96@gmail.com)
 **8th - 9th Jenolan (CANCELLED due to road access issues)**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
-**15th - 16th Tuglow (pending access)**   
+**15th - 16th Tuglow (CANCELLED)**   
 Trip Organiser: Lily (lil233.lg@gmail.com)
 
 **22nd - 23rd Kempsey**   
