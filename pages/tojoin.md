@@ -11,14 +11,18 @@ permalink: "/tojoin/"
 
 SUSS is a Sydney University student society, our members include students, professionals and experienced cavers. You do not need to be a student or affiliated with Sydney University to join the club. Membership is discounted for students.
 
+Plese note: While you don't need to need to be a student or affiliated with Sydney University to join the club. All SUSS members (student and non-student) are required to hold a current University of Sydney Union (USU) Membership. USU membership is free for current University of Sydney students. Cards for non-students are available for purchase online at the [USU Website](https://usu.edu.au/membership.aspx). Don't forget that your USU Membership entitles you to benefits such as cheap movie tickets, retail discounts and so on, see the website for details.
+
 ## How to become a member or renew your membership
 
 You can sign up via the form **[here](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link)**. Instructions are also included in the form.
 
+Please note: 
+
 ## Alternative sign up options 
 ### Option 1:
 
-Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer Vanessa at **pangcyee16@gmail.com** including your payment reference.
+Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer Lily at **zguo4653@uni.sydney.edu.au** including your payment reference.
 
 **EFT details:**
 - BSB: 062284
@@ -28,8 +32,6 @@ Pay by EFT to Sydney University Speleological Society, then fill out the form on
 
 Print out the membership form below, fill it out and post it to SUSS at the address listed on the top of the form with a cheque or money made out to Sydney University Speleological Society
 
-
-Please note: All SUSS members (student and non-student) are required to hold a current University of Sydney Union (USU) Membership. USU membership is free for current University of Sydney students. Cards for non-students are available for purchase online at the [USU Website](https://usu.edu.au/membership.aspx). Don't forget that your USU Membership entitles you to benefits such as cheap movie tickets, retail discounts and so on, see the website for details.
 ​
 ## * Why become a member
 ​
