@@ -34,34 +34,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
 
-## April Trips 
-
-**13th - Climbing at the Ledge**   
-Trip Organiser: Pip (pmbyrnes96@gmail.com)  
-
-**17th - Gear Audit**   
-Trip Organiser: Kat (katkatherine123@gmail.com) 
-
-**18th - Vertical Training**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
-
-**22nd-25th - Jenolan Caving**   
-Trip Organiser: Simon (caver.murf@gmail.com)  
-
 ## May Trips 
-
-**1st - 2nd Wombeyan Caving**   
-Trip Organiser: Keir (keirvt@optusnet.com.au)  
-
-**6th - AGM**   
-When: 7:30 pm  
-Where: The Royal Hotel, 370 Abercrombie St, Darlington NSW 2008  
-
-**11th - The Ledge Climbing**   
-Trip Organiser: Pip (pmbyrnes96@gmail.com)  
-
-**8th - 9th Jenolan (CANCELLED due to road access issues)**   
-Trip Organiser: Simon (caver.murf@gmail.com)  
 
 **15th - 16th Tuglow (CANCELLED)**   
 Trip Organiser: Lily (lil233.lg@gmail.com)
@@ -69,7 +42,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 **22nd - 23rd Kempsey**   
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
-**29th - 30th Bungonia**   
+**29th Bungonia**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 ## June Trips 
