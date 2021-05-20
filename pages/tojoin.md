@@ -17,8 +17,6 @@ Plese note: While you don't need to need to be a student or affiliated with Sydn
 
 You can sign up via the form **[here](https://docs.google.com/forms/d/e/1FAIpQLSclrdbJcKCCCRC_tKZJ5-1IUv9yAU3YiLEFr6VrwXBnRfqTeQ/viewform?usp=sf_link)**. Instructions are also included in the form.
 
-Please note: 
-
 ## Alternative sign up options 
 ### Option 1:
 
