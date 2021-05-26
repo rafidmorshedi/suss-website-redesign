@@ -47,7 +47,7 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 
 ## June Trips 
 
-**12th - 14th Jenolan**   
+**12th - 14th Jenolan (TRIP FULL)**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
 **20th - Vertical training**   
