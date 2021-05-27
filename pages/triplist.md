@@ -53,7 +53,7 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 **20th - Vertical training**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
 
-**26th-27th - Wyanbene**   
+**26th-27th - Wyanbene (CANCELLED)**   
 Trip Organiser: Jill (jillr@speleonics.com.au) 
 
 
