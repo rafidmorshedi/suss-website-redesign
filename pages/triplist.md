@@ -50,12 +50,19 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 **12th - 14th Jenolan (TRIP FULL)**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
+**15th Climbing at the Ledge**   
+Trip Organiser: Pip (pbyr0199@uni.sydney.edu.au)  
+
 **20th - Vertical training**   
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
 
 **26th-27th - Wyanbene (CANCELLED)**   
 Trip Organiser: Jill (jillr@speleonics.com.au) 
 
+## July Trips 
+
+**3rd - 11th Jenolan**   
+Trip Organiser: Simon (caver.murf@gmail.com)  
 
 ### Jenolan Trip Dates 2021  
 
