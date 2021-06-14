@@ -54,7 +54,7 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 Trip Organiser: Pip (pbyr0199@uni.sydney.edu.au)  
 
 **20th - Vertical training**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
 **26th-27th - Wyanbene (CANCELLED)**   
 Trip Organiser: Jill (jillr@speleonics.com.au) 
