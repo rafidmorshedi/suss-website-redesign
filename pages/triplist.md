@@ -56,7 +56,7 @@ Trip Organiser: Pip (pbyr0199@uni.sydney.edu.au)
 **20th - Vertical training**   
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
-**26th-27th - Wombeyan**   
+**26th-27th - Wombeyan (CANCELLED)**   
 Trip Organiser: Alan (alan@meridianpost.com.au) 
 
 ## July Trips 
