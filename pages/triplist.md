@@ -64,6 +64,17 @@ Trip Organiser: Alan (alan@meridianpost.com.au)
 **3rd - 11th Jenolan**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
+**13th Climbing at the Ledge**   
+Trip Organiser: Pip (pbyr0199@uni.sydney.edu.au)  
+
+**24th-25th Wombeyan**   
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
+## August Trips 
+
+**14th - 15th Jenolan**   
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
+
 ### Jenolan Trip Dates 2021  
 
 - 8-9 May
