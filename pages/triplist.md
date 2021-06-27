@@ -61,7 +61,7 @@ Trip Organiser: Alan (alan@meridianpost.com.au)
 
 ## July Trips 
 
-**3rd - 11th Jenolan**   
+**3rd - 11th Jenolan (CANCELLED due to COVID)**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
 **13th Climbing at the Ledge**   
