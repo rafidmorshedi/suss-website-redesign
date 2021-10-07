@@ -34,46 +34,15 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
 
-## May Trips 
+## October Trips 
 
-**15th - 16th Tuglow (CANCELLED)**   
-Trip Organiser: Lily (lil233.lg@gmail.com)
+**23rd or 24th Hornsby Bushwalk**   
+Trip Organiser: Rowena (rowena1234@hotmail.com)
 
-**22nd - 23rd Kempsey**   
-Trip Organiser: Phil (philm8544177@gmail.com)  
+## November Trips 
 
-**29th Bungonia**   
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)
-
-## June Trips 
-
-**12th - 14th Jenolan (TRIP FULL)**   
-Trip Organiser: Simon (caver.murf@gmail.com)  
-
-**15th Climbing at the Ledge**   
-Trip Organiser: Pip (pbyr0199@uni.sydney.edu.au)  
-
-**20th - Vertical training**   
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-
-**26th-27th - Wombeyan (CANCELLED)**   
-Trip Organiser: Alan (alan@meridianpost.com.au) 
-
-## July Trips 
-
-**3rd - 11th Jenolan (CANCELLED due to COVID)**   
-Trip Organiser: Simon (caver.murf@gmail.com)  
-
-**13th Climbing at the Ledge**   
-Trip Organiser: Pip (pbyr0199@uni.sydney.edu.au)  
-
-**24th-25th Wombeyan**   
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
-## August Trips 
-
-**14th - 15th Jenolan**   
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
+**20th - 21st Twister/Rocky Creek Canyon**   
+Trip Organiser: Phil (philm8544177@gmail.com) 
 
 ### Jenolan Trip Dates 2021  
 
