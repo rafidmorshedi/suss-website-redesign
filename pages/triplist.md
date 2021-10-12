@@ -41,7 +41,7 @@ Trip Organiser: Rowena (rowena1234@hotmail.com)
 
 ## November Trips 
 
-**20th - 21st Twister/Rocky Creek Canyon**   
+**13th - 14th Twister/Rocky Creek Canyon**   
 Trip Organiser: Phil (philm8544177@gmail.com) 
 
 ### Jenolan Trip Dates 2021  
