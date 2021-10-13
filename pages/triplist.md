@@ -39,6 +39,9 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **23rd or 24th Hornsby Bushwalk**   
 Trip Organiser: Rowena (rowena1234@hotmail.com)
 
+**30th or 31st Wombeyan**   
+Trip Organiser: Phil (philm8544177@gmail.com)
+
 ## November Trips 
 
 **13th - 14th Twister/Rocky Creek Canyon**   
