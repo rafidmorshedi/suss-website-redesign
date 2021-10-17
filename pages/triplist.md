@@ -36,7 +36,8 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## October Trips 
 
-**23rd or 24th Hornsby Bushwalk**   
+**23rd or 24th Hornsby Bushwalk**  
+Let's celebrate freedom by heading out of suburbia and see bushland. Walk is from Thornleigh station to Hornsby Station, through forest, up to 200m above sea level with lunch at Fishponds. You may spot an eel or a lyrebird.  
 Trip Organiser: Rowena (rowena1234@hotmail.com)
 
 **30th or 31st Wombeyan**   
@@ -44,15 +45,16 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## November Trips 
 
+**4th SUSS General Meeting**   
+Time: 07:30 pm  
+Zoom link: To be provided via email  
+Details: Please attend to vote on changes to membership fees.  
+
 **13th - 14th Twister/Rocky Creek Canyon**   
 Trip Organiser: Phil (philm8544177@gmail.com) 
 
 ### Jenolan Trip Dates 2021  
 
-- 8-9 May
-- 12-14 June
-- 3-11 July
-- 7-8 August
 - 4-5 September
 - 9-10 October
 - 6-7 November
