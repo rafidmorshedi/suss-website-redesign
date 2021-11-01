@@ -58,8 +58,8 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## December Trips 
 
-**4th - 12th Jenolan weeklong**   
-Trip Organiser: TBC 
+**4th - 12th Jenolan weeklong**  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
 ### Jenolan Trip Dates 2021  
 
