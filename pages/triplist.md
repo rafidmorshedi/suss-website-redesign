@@ -50,10 +50,10 @@ Time: 07:30 pm
 Zoom link: To be provided via email  
 Details: Please attend to vote on changes to membership fees.  
 
-**7th - 8th Jenolan (TRIP FULL)**   
+**6th - 7th Jenolan (TRIP FULL)**   
 Trip Organiser: Simon (caver.murf@gmail.com)  
 
-**7th - 8th Canyoning (Experienced only)**   
+**6th - 7th Canyoning (Experienced only)**   
 Trip Organiser: Glen (glenellis2011@hotmail.com)  
 
 **13th - 14th Twister/Rocky Creek Canyon**   
