@@ -61,8 +61,17 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## December Trips 
 
-**4th - 12th Jenolan weeklong**  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
+**4th - 5th Jenolan**  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au) 
+
+**11th - 12th Jenolan (SUSS Christmas Party)**  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au) 
+
+## January Trips 
+
+**22nd - 26th Yarrangobilly Caves**  
+*Spend some summertime in "Yagby" in the high country. 5 days of caving and high chance of seeing brumbies too.*  
+Trip Organiser: Rowena (rowena1234@hotmail.com) 
 
 ### Jenolan Trip Dates 2021  
 
