@@ -33,32 +33,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-
-## October Trips 
-
-**23rd or 24th Hornsby Bushwalk**  
-Let's celebrate freedom by heading out of suburbia and see bushland. Walk is from Thornleigh station to Hornsby Station, through forest, up to 200m above sea level with lunch at Fishponds. You may spot an eel or a lyrebird.  
-Trip Organiser: Rowena (rowena1234@hotmail.com)
-
-**30th or 31st Wombeyan**   
-Trip Organiser: Phil (philm8544177@gmail.com)
-
-## November Trips 
-
-**4th SUSS General Meeting**   
-Time: 07:30 pm  
-Zoom link: To be provided via email  
-Details: Please attend to vote on changes to membership fees.  
-
-**6th - 7th Jenolan (TRIP FULL)**   
-Trip Organiser: Simon (caver.murf@gmail.com)  
-
-**6th - 7th Canyoning (Experienced only)**   
-Trip Organiser: Glen (glenellis2011@hotmail.com)  
-
-**13th - 14th Twister/Rocky Creek Canyon**   
-Trip Organiser: Phil (philm8544177@gmail.com) 
-
 ## December Trips 
 
 **4th - 5th Jenolan**  
@@ -72,6 +46,12 @@ Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
 **22nd - 26th Yarrangobilly Caves**  
 *Spend some summertime in "Yagby" in the high country. 5 days of caving and high chance of seeing brumbies too.*  
 Trip Organiser: Rowena (rowena1234@hotmail.com) 
+
+## February Trips 
+
+**4th - 9th Cooleman Caves**  
+*Beautiful karst plains in the snowy mountains.*  
+Trip Organiser: Phil (philm8544177@gmail.com) 
 
 ### Jenolan Trip Dates 2021  
 
