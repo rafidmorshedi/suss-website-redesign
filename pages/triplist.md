@@ -47,6 +47,10 @@ Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
 *Spend some summertime in "Yagby" in the high country. 5 days of caving and high chance of seeing brumbies too.*  
 Trip Organiser: Rowena (rowena1234@hotmail.com) 
 
+**28th - 30th Wombeyan Caves**  
+*Marble caves in the Southern Highlands.*  
+Trip Organiser: Phil (philm8544177@gmail.com) 
+
 ## February Trips 
 
 **4th - 9th Cooleman Caves**  
