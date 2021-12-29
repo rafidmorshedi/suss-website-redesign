@@ -43,6 +43,9 @@ Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
 
 ## January Trips 
 
+**8th - 9th Jenolan**  
+Trip Organiser: Simon (caver.murf@gmail.com) 
+
 **22nd - 26th Yarrangobilly Caves**  
 *Spend some summertime in "Yagby" in the high country. 5 days of caving and high chance of seeing brumbies too.*  
 Trip Organiser: Rowena (rowena1234@hotmail.com) 
@@ -53,17 +56,37 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## February Trips 
 
+**5th - 6th Jenolan**  
+Trip Organiser: Simon (caver.murf@gmail.com) 
+
 **4th - 9th Cooleman Caves**  
 *Beautiful karst plains in the snowy mountains.*  
 Trip Organiser: Phil (philm8544177@gmail.com) 
 
-### Jenolan Trip Dates 2021  
+### Jenolan Trip Dates 2022  
 
-- 4-5 September
-- 9-10 October
-- 6-7 November
-- 4-12 December
+- 8-9 Jan
+- 5-6 Feb
+- 5-6 March
+- 9-10 April
+- 7-8 May
+- 4-5 June
+- 2-10 July
+- 13-14 August
+- 10-11 September
+- 8-9 October
+- 5-6 November
+- 3-11 December
 
-### Wombeyan Trip Dates 2021
+### Wombeyan Trip Dates 2022
 
-- Nil
+- 26-27 Feb
+- 26-27 Mar
+- 23-24 Apr
+- 28-29 May
+- 25-26 Jun
+- 30-31 Jul
+- 27-28 Aug
+- 24-25 Sept
+- 29-30 Oct
+- 26-27 Nov
