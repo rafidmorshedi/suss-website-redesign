@@ -56,7 +56,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## February Trips 
 
-**5th - 6th Jenolan**  
+**5th - 6th Jenolan - TRIP FULL**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
 **4th - 9th Cooleman Caves**  
