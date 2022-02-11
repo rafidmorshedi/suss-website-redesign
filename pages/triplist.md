@@ -33,27 +33,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## December Trips 
-
-**4th - 5th Jenolan**  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au) 
-
-**11th - 12th Jenolan (SUSS Christmas Party)**  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au) 
-
-## January Trips 
-
-**8th - 9th Jenolan**  
-Trip Organiser: Simon (caver.murf@gmail.com) 
-
-**22nd - 26th Yarrangobilly Caves**  
-*Spend some summertime in "Yagby" in the high country. 5 days of caving and high chance of seeing brumbies too.*  
-Trip Organiser: Rowena (rowena1234@hotmail.com) 
-
-**28th - 30th Wombeyan Caves**  
-*Marble caves in the Southern Highlands.*  
-Trip Organiser: Phil (philm8544177@gmail.com) 
-
 ## February Trips 
 
 **5th - 6th Jenolan - TRIP FULL**  
@@ -62,6 +41,29 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 **4th - 9th Cooleman Caves**  
 *Beautiful karst plains in the snowy mountains.*  
 Trip Organiser: Phil (philm8544177@gmail.com) 
+
+**20th SRT Training**  
+*Time to learn the ropes.*  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
+
+**26th - 27th Wombeyan Caves**  
+*Marble caves in the Southern Highlands.*  
+Trip Organiser: Phil (philm8544177@gmail.com) 
+
+## March Trips 
+
+**5th - 6th Jenolan**  
+Trip Organiser: Simon (caver.murf@gmail.com) 
+
+**12th - 12th Bungonia Caves**  
+*Beautiful karst plains in the snowy mountains.*  
+Trip Organiser: Phil (philm8544177@gmail.com) 
+
+## April Trips 
+
+**9th - 10th Jenolan**  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
+
 
 ### Jenolan Trip Dates 2022  
 
