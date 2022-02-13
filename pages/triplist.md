@@ -55,7 +55,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 **5th - 6th Jenolan**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
-**12th - 12th Bungonia Caves**  
+**12th - 13th Bungonia Caves**  
 *Beautiful karst plains in the snowy mountains.*  
 Trip Organiser: Phil (philm8544177@gmail.com) 
 
