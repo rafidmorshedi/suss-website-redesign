@@ -52,7 +52,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## March Trips 
 
-**5th - 6th Jenolan**  
+**5th - 6th Jenolan - Trip full**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
 **12th - 13th Bungonia Caves**    
