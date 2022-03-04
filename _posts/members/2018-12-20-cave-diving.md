@@ -28,3 +28,4 @@ SUSS has a number of qualified cave divers who regularly dive in caves in NSW ex
 ## Press
 
 - [Heart of darkness - Australian Geographic](http://www.australiangeographic.com.au/topics/adventure/2017/05/jenolan-caves)
+- [ASF Cave Diving Code of Practice 2020](https://cdg.caves.org.au/CDG-Downloads/ASF-Cave-Diving-Code-of-Practice2020.pdf)
