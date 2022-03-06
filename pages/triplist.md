@@ -35,9 +35,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## February Trips 
 
-**5th - 6th Jenolan - TRIP FULL**  
-Trip Organiser: Simon (caver.murf@gmail.com) 
-
 **4th - 9th Cooleman Caves**  
 *Beautiful karst plains in the snowy mountains.*  
 Trip Organiser: Phil (philm8544177@gmail.com) 
