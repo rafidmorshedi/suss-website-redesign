@@ -38,7 +38,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **5th - 6th Jenolan - Trip full**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
-**12th - 13th Bungonia Caves**    
+**12th - 13th Bungonia Caves - CANCELLED due to flooding**    
 Trip Organiser: Phil (philm8544177@gmail.com) 
 
 ## April Trips 
