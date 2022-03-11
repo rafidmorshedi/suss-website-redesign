@@ -41,6 +41,9 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 **12th - 13th Bungonia Caves - CANCELLED due to flooding**    
 Trip Organiser: Phil (philm8544177@gmail.com) 
 
+**26th - 28th Wombeyan**    
+Trip Organiser: Phil (philm8544177@gmail.com) 
+
 ## April Trips 
 
 **9th - 10th Jenolan**  
