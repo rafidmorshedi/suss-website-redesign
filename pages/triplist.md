@@ -50,7 +50,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
 
 **15th - 21st Cooleman**  
-Trip Organiser: TBC 
+Trip Organiser: Ian (cooperi4@bigpond.com) 
 
 
 ### Jenolan Trip Dates 2022  
