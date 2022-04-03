@@ -72,7 +72,7 @@ Trip Organiser: Ian (cooperi4@bigpond.com)
 
 - 26-27 Feb
 - 26-27 Mar
-- 23-24 Apr
+- 30 Apr-1 May
 - 28-29 May
 - 25-26 Jun
 - 30-31 Jul
