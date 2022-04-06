@@ -46,7 +46,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## April Trips 
 
-**9th - 10th Jenolan**  
+**9th - 10th Jenolan - CANCELLED DUE TO NPWS CLOSURE**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
 
 **15th - 21st Cooleman**  
