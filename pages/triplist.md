@@ -52,6 +52,8 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 **15th - 21st Cooleman**  
 Trip Organiser: Ian (cooperi4@bigpond.com) 
 
+**30th - 1st Wombeyan**  
+Trip Organiser: Lily (lil233.lg@gmail.com) 
 
 ### Jenolan Trip Dates 2022  
 
