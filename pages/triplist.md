@@ -64,7 +64,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 - 7-8 May
 - 4-5 June
 - 2-10 July
-- 13-14 August
+- 6-7 August
 - 10-11 September
 - 8-9 October
 - 5-6 November
