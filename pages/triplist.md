@@ -49,7 +49,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 **9th - 10th Jenolan - CANCELLED DUE TO NPWS CLOSURE**  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
 
-**15th - 21st Cooleman**  
+**15th - 21st Cooleman - CANCELLED**  
 Trip Organiser: Ian (cooperi4@bigpond.com) 
 
 **30th - 1st Wombeyan**  
