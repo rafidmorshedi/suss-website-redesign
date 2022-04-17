@@ -82,3 +82,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 - 24-25 Sept
 - 29-30 Oct
 - 26-27 Nov
+
+### Tasmania
+
+- 2 Kublah Khan permits remaining
