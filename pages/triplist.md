@@ -33,17 +33,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## March Trips 
-
-**5th - 6th Jenolan - Trip full**  
-Trip Organiser: Simon (caver.murf@gmail.com) 
-
-**12th - 13th Bungonia Caves - CANCELLED due to flooding**    
-Trip Organiser: Phil (philm8544177@gmail.com) 
-
-**26th - 28th Wombeyan**    
-Trip Organiser: Phil (philm8544177@gmail.com) 
-
 ## April Trips 
 
 **9th - 10th Jenolan - CANCELLED DUE TO NPWS CLOSURE**  
@@ -54,6 +43,16 @@ Trip Organiser: Ian (cooperi4@bigpond.com)
 
 **30th - 1st Wombeyan**  
 Trip Organiser: Lily (lil233.lg@gmail.com) 
+
+## May Trips 
+
+**7th - 8th Jenolan**  
+Trip Organiser: Simon (caver.murf@gmail.com) 
+
+## June Trips 
+
+**4th - 5th Jenolan**  
+Trip Organiser: Simon (caver.murf@gmail.com) 
 
 ### Jenolan Trip Dates 2022  
 
