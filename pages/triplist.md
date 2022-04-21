@@ -46,7 +46,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## May Trips 
 
-**7th - 8th Jenolan**  
+**7th - 8th Jenolan - Experienced only**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
 ## June Trips 
