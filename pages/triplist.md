@@ -46,6 +46,10 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## May Trips 
 
+**5th Annual General Meeting (AGM)**  
+Time: 7-8 PM  
+Location: Reading Room, Holme Building  
+
 **7th - 8th Jenolan - Experienced only**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
