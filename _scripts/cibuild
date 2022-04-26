@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
+# Print build machine public IP adress
+echo "Public IP address"
+dig +short myip.opendns.com @resolver1.opendns.com
+
 bundle exec jekyll build
+echo "Jekyll build complete"
 #bundle exec htmlproofer ./_site
+
