@@ -28,7 +28,7 @@ deploy:
   provider: script
   skip_cleanup: true
   script:
-  - ping -c 6 suss.caves.org.au
+  - ping -c 6 45.56.82.247
   - ssh suss@suss.caves.org.au ls
   - rsync -r --delete-after -vv --rsync-path=/usr/bin/rsync $TRAVIS_BUILD_DIR/_site/ ${user}@${domain}:/home/suss/public_html/
   on:
