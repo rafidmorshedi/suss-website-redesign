@@ -53,6 +53,9 @@ Location: Reading Room, Holme Building
 **7th - 8th Jenolan - Experienced only**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
+**28th - 29th Wombeyan**  
+Trip Organiser: Phil (philm8544177@gmail.com) 
+
 ## June Trips 
 
 **4th - 5th Jenolan**  
