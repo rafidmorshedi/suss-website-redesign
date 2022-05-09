@@ -1,8 +1,8 @@
 - position: President
-  name: Phillipa Byrnes
+  name: Lily Guo
   role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
-  email: pmbyrnes96@gmail.com
-  image: '/images/comm-phillipa.jpg'
+  email: lil233.lg@gmail.com
+  image: '/images/comm-lily.jpg'
 
 - position: Vice President
   name: Lara Munahe
@@ -17,16 +17,16 @@
   image: '/images/comm-rowena.jpg'
 
 - position: Club Secretary
-  name: Simon Murphy
+  name: Rowena Larkins
   role_desc: "The secretary is responsible for submitting permit requests at the direction of the Trip Organiser."
-  email: simon.murphy@sydney.edu.au
-  image: '/images/comm-simonmurphy.jpg'
+  email: rowena1234@hotmail.com
+  image: '/images/comm-rowena.jpg'
 
 - position: Treasurer
-  name: Lily Guo
+  name: Rafid Morshedi
   role_desc: "The treasurer manages the society finances and membership fees."
-  email: lil233.lg@gmail.com
-  image: '/images/comm-lily.jpg'
+  email: rafid.morshedi@gmail.com
+  image: '/images/comm-rafid.jpg'
 
 - position: Safety Officer
   name: Jordan Fenech
@@ -41,16 +41,16 @@
   image: '/images/comm-phil.jpg'
 
 - position: Social Media Officer
-  name: Lara Munahe
+  name: Phillipa Byrnes
   role_desc: "The Social Media Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
-  email: lmun8721@uni.sydney.edu.au
-  image: '/images/comm-lara.jpg'
+  email: pmbyrnes96@gmail.com
+  image: '/images/comm-phillipa.jpg'
 
 - position: Minutes Secretary
-  name: Quinn Cooney
+  name: Pat Larkin
   role_desc: "The minutes secretary records the minutes and actions from society meetings."
-  email: quinncooney@gmail.com
-  image: '/images/comm-quinn.jpg'
+  email: p.larkin@nigelbowen.com.au
+  image: '/images/comm-patlarkin.jpg'
 
 - position: Dive Representative
   name: Greg Ryan
@@ -77,7 +77,7 @@
   image: '/images/comm-rafid.jpg'
 
 - position: General
-  name: Paul Coulter
+  name: Simon Murphy
   role_desc: "General committee members provide an extra set of hands in running of the club."
-  email: coulter.paul@yahoo.co.uk
-  image: '/images/comm-paulc.jpg'
+  email:  caver.murf@gmail.com
+  image: '/images/comm-simonmurphy.jpg'
