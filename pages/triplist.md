@@ -33,17 +33,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## April Trips 
-
-**9th - 10th Jenolan - CANCELLED DUE TO NPWS CLOSURE**  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com) 
-
-**15th - 21st Cooleman - CANCELLED**  
-Trip Organiser: Ian (cooperi4@bigpond.com) 
-
-**30th - 1st Wombeyan**  
-Trip Organiser: Lily (lil233.lg@gmail.com) 
-
 ## May Trips 
 
 **5th Annual General Meeting (AGM)**  
@@ -59,6 +48,11 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 ## June Trips 
 
 **4th - 5th Jenolan**  
+Trip Organiser: Simon (caver.murf@gmail.com) 
+
+## July Trips 
+
+**2nd - 10th Jenolan**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
 
 ### Jenolan Trip Dates 2022  
@@ -82,12 +76,6 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 - 26-27 Mar
 - 30 Apr-1 May
 - 28-29 May
-- 25-26 Jun
-- 30-31 Jul
-- 27-28 Aug
-- 24-25 Sept
-- 29-30 Oct
-- 26-27 Nov
 
 ### Tasmania
 
