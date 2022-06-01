@@ -33,19 +33,11 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## May Trips 
-
-**5th Annual General Meeting (AGM)**  
-Time: 7-8 PM  
-Location: Reading Room, Holme Building  
-
-**7th - 8th Jenolan - Experienced only**  
-Trip Organiser: Simon (caver.murf@gmail.com) 
-
-**28th - 29th Wombeyan**  
-Trip Organiser: Phil (philm8544177@gmail.com) 
-
 ## June Trips 
+
+**2nd General Meeting **  
+Time: 7:30-8:30 PM  
+Location: A02.01.105.Social Sciences Building. SSB Seminar Room 105  
 
 **4th - 5th Jenolan**  
 Trip Organiser: Simon (caver.murf@gmail.com) 
