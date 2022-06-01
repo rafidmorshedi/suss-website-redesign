@@ -35,7 +35,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## June Trips 
 
-**2nd General Meeting **  
+**2nd General Meeting**  
 Time: 7:30-8:30 PM  
 Location: A02.01.105.Social Sciences Building. SSB Seminar Room 105  
 
