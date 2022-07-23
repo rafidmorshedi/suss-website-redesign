@@ -20,7 +20,7 @@ You can sign up via the form **[here](https://docs.google.com/forms/d/e/1FAIpQLS
 ## Alternative sign up options 
 ### Option 1:
 
-Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer Lily at **lil233.lg@gmail.com** including your payment reference.
+Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer Lily at **rafid.morshedi@gmail.com** including your payment reference.
 
 **EFT details:**
 - BSB: 062284
