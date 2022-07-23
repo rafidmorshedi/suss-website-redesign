@@ -33,19 +33,16 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
 
-## June Trips 
+## August Trips  
 
-**2nd General Meeting**  
-Time: 7:30-8:30 PM  
-Location: A02.01.105.Social Sciences Building. SSB Seminar Room 105  
+**27 - 28th Timor**  
+*A joint  trip with New South Wales Hunter Valley, a caving area we don't usually go to so come along while you can！*  
+Trip Organiser: Kevin Moore (troglokev@gmail.com)  
 
-**4th - 5th Jenolan**  
-Trip Organiser: Simon (caver.murf@gmail.com) 
+## September Trips  
 
-## July Trips 
-
-**2nd - 10th Jenolan**  
-Trip Organiser: Simon (caver.murf@gmail.com) 
+**24 - 25th Wyanbene**  
+Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com)  
 
 ### Jenolan Trip Dates 2022  
 
