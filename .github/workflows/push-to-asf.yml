@@ -23,7 +23,7 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - run: echo "Build the Jekyll site"
       # Build the jekyll site
-      - uses:  lemonarc/jekyll-action@1.0.0
+      - uses:   helaili/jekyll-action@2.0.5
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}/_site/
