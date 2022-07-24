@@ -14,7 +14,7 @@ title: 'Sydney University Speleological Society'
 slogan: 'Sydney Universitys only underground society'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Sydney University Speleological Society (SUSS), is a
+description: 'The Sydney University Speleological Society (SUSS), is a
 very active caving club in Sydney, Australia. Come caving with SUSS!  Sydney Universitys only truly underground society!'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
@@ -25,7 +25,7 @@ credits: '<p>Created with &hearts; by <a href="https://github.com/rafidmorshedi"
 author: rafid
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-# Replace with 'https://suss.caves.org.au' for deployemnet
+# Replace with for deployemnet'https://suss.caves.org.au'
 url: 'https://suss.caves.org.au'
 baseurl: ''
 
@@ -39,7 +39,7 @@ improve_content: # https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: /images/ #'https://suss.caves.org.au/images/'
+urlimg: 'https://rafidmorshedi.github.io/suss-website-redesign/images/' #'https://suss.caves.org.au/images/'
 
 
 # Logo size is 600x80 pixels
