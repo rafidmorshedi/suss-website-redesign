@@ -43,14 +43,18 @@ urlimg: 'https://rafidmorshedi.github.io/suss-website-redesign/images/' #'https:
 
 
 # Logo size is 600x80 pixels
-logo: "suss_logo.png"
+logo: "suss_logo_600x80_black.png"
 
 # Gems
 gems:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    - jekyll-liquify
 
+collections:
+  cavingareas:
+    output: true
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
@@ -77,6 +81,8 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+    - vendor
+    - _scripts
 
 
 # The language setting is used in /includes/header.html for html-settings
@@ -122,6 +128,12 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       author: rafid     # Default author for posts
+  -
+    scope:
+      path: ""
+      type: "cavingareas"
+    values:
+      layout: "cavingarea"
 
 
 
@@ -144,7 +156,7 @@ defaults:
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
 google_author: #            'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification: # 'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
+google_site_verification:   '-zWmeOOdVb6pWzDau16P-mz86qWZPyNHVcOvh8IVFso'
 bing_webmastertools_id:   # '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
@@ -159,17 +171,16 @@ bing_webmastertools_id:   # '0FB4C028ABCF07C908C54386ABD2D97F'
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
 favicon-32x32:                          'favicon-32x32.png'
-touch-icon-192x192:                     'touch-icon-192x192.png'
-apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
-apple-touch-icon-152x152-precomposed:   'apple-touch-icon-152x152-precomposed.png'
-apple-touch-icon-144x144-precomposed:   'apple-touch-icon-144x144-precomposed.png'
-apple-touch-icon-120x120-precomposed:   'apple-touch-icon-120x120-precomposed.png'
-apple-touch-icon-114x114-precomposed:   'apple-touch-icon-114x114-precomposed.png'
-apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
-apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
-apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
-msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
+touch-icon-192x192:                     'android-chrome-192x192.png'
+apple-touch-icon-180x180-precomposed:   'apple-touch-icon.png'
+apple-touch-icon-144x144-precomposed:   'apple-touch-icon.png'
+apple-touch-icon-120x120-precomposed:   'apple-touch-icon.png'
+apple-touch-icon-114x114-precomposed:   'apple-touch-icon.png'
+apple-touch-icon-76x76-precomposed:     'apple-touch-icon.png'
+apple-touch-icon-72x72-precomposed:     'apple-touch-icon.png'
+apple-touch-icon-precomposed:           'apple-touch-icon.png'
+msapplication_tileimage:                'mstile-150x150.png'               # Size 144x144
+msapplication_tilecolor:                '#000000'
 
 
 #       ______                __                __
@@ -230,7 +241,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: #UA-60112281-1
+google_analytics_tracking_id: UA-135047908-1
 
 
 

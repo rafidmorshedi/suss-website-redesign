@@ -4,4 +4,48 @@
   description: "The entire SUSS map library, scanned or digitised and organised by area."
   member_price: 10
   nonmember_price: 10
-  thumbnail: 
+  thumbnail: /images/pub-mapdvdcover.jpg
+  
+- name: The caves of Jenolan 3. The Southern Limestone
+  year: 2021
+  description: "Description, history, route guides, maps for the southern limestone caves of Jenolan - *[ORDER HERE](https://forms.gle/x3X4wbzFiZTfr1ss8)*"
+  member_price: 20
+  nonmember_price: 20
+  thumbnail: /images/pub-southjenolan.png
+  
+- name: Mammoth Cave Compendium
+  year: 2020
+  description: "Description, history, route guides, maps for Mammoth Cave, compiled from SUSS Mammoth BULL articles - *[PDF HERE](https://drive.google.com/file/d/1WdEWEfw2TDUH3I5Wdkxp16JZHglIEvAu/view?usp=sharing)*"
+  member_price: NA
+  nonmember_price: NA
+  thumbnail: /images/pub-mammoth_compendium.jpg
+
+- name: Tuglow Caves
+  year: 1998
+  description: "Description, history, route guides, maps for Tuglow Cave and surrounds"
+  member_price: 13
+  nonmember_price: '16 (contact us, we are currently discounting Tuglow books)'
+  thumbnail: /images/pub-tuglowbook.jpg
+
+- name: Mammoth Cave (Out of stock/print)
+  year: 1978
+  description: "Description, maps for Mammoth Cave, Jenolan"
+  member_price: 8
+  nonmember_price: 10
+  thumbnail: /images/pub-mammothbook.jpg
+
+- name: Northern Limestone
+  year: 1976
+  description: "Description, maps for the caves of the northern limestone, Jenolan"
+  member_price: 8
+  nonmember_price: 10
+  thumbnail: /images/pub-northernbook.jpg
+
+- name: 'SUSS Bull special edition – Spider Cave (Out of stock/print)'
+  year: 1999
+  description: >
+    Description, history, route guide, maps for Spider Cave, Jenolan.
+    Free pdf version available [here]()
+  member_price: 10
+  nonmember_price: 10
+  thumbnail: /images/pub-spiderbull.jpg

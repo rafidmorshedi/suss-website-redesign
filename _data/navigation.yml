@@ -24,8 +24,8 @@
     url: "/assets/handbook.pdf"
   # - title: "We dont just cave"
   #   url: "/learn/notcaving/"
-  # - title: "Post-Right-Sidebar"
-  #   url: "/design/post-right-sidebar/"
+  - title: "FAQs"
+    url: "/learn/faq/"
   # - title: "Page Full-Width"
   #   url: "/design/page-fullwidth/"
   # - title: "Blog-Page"
@@ -51,6 +51,10 @@
     url: "/members/cave-diving/"
   - title: "Miscellaneous"
     url: "/members/miscellaneous/"
+  - title: "Survey Data"
+    url: "https://suss.caves.org.au/cave/"
+  - title: "Trip Supervisors"
+    url: "/members/becoming-a-ts/"
 
 # - title: "Header Styles"
 #   url: "/headers/"
@@ -77,8 +81,10 @@
   dropdown:
   - title: "Committee"
     url: "/about/committee/"
-  # - title: "Roadmap"
-  #   url: "/roadmap/"
+  - title: "Publications"
+    url: "/about/publications/"
+  - title: "Links"
+    url: "/about/links/"
 
 # - title: About
 #   url: "/about/"

@@ -1,3 +1,18 @@
+# SUSS website
+
+This is the repository for the Sydney Univeristy Speleological Society(SUSS).
+
+## Build status
+
+[![Build Status](https://travis-ci.org/rafidmorshedi/suss-website-redesign.svg?branch=master)](https://travis-ci.org/rafidmorshedi/suss-website-redesign)
+
+## Documentation TO DO
+- How to update the trip list
+- How travis CI works
+- The structure of the website
+- how to mainitain the website
+
+
 ## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
@@ -67,3 +82,7 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
  [8]: http://phlow.github.io/simplicity/
  [9]: #
  [10]: #
+
+ # RM notes
+ - Used [this tutorial](https://oncletom.io/2016/travis-ssh-deploy/) for deployment
+ - Server location is also encrypted by Travis
