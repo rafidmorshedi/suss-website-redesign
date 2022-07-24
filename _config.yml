@@ -25,9 +25,9 @@ credits: '<p>Created with &hearts; by <a href="https://github.com/rafidmorshedi"
 author: rafid
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
-# Replace with 'https://suss.caves.org.au' for deployemnet
-url: 'https://suss.caves.org.au'
-baseurl: ''
+# Replace with for deployemnet'https://suss.caves.org.au'
+url: 'https://rafidmorshedi.github.io'
+baseurl: '/suss-website-redesign'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -39,7 +39,7 @@ improve_content: # https://github.com/Phlow/feeling-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: /images/ #'https://suss.caves.org.au/images/'
+urlimg: 'https://rafidmorshedi.github.io/suss-website-redesign/images/' #'https://suss.caves.org.au/images/'
 
 
 # Logo size is 600x80 pixels
