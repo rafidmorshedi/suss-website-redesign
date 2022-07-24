@@ -25,7 +25,7 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-        run: echo "Build the Jekyll site"
+      - run: echo "Build the Jekyll site"
       - name: Build the site
         run: bundle exec jekyll build
       - name: List files in the repository
