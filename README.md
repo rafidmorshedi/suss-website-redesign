@@ -4,7 +4,7 @@ This is the repository for the Sydney Univeristy Speleological Society(SUSS).
 
 ## Build status
 
-[![Build Status](https://travis-ci.org/rafidmorshedi/suss-website-redesign.svg?branch=master)](https://travis-ci.org/rafidmorshedi/suss-website-redesign)
+![Build and deploy to ASF server](https://github.com/rafidmorshedi/suss-website-redesign/actions/workflows/push-to-asf.yml/badge.svg)
 
 ## Documentation TO DO
 - How to update the trip list
