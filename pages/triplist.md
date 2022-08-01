@@ -35,14 +35,23 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## August Trips  
 
+**8th Indoor climbing**  
+*Come and meet the team*  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
+
 **27 - 28th Timor**  
 *A joint  trip with New South Wales Hunter Valley, a caving area we don't usually go to so come along while you can！*  
 Trip Organiser: Kevin Moore (troglokev@gmail.com)  
 
 ## September Trips  
 
+**10 - 11th Jenolan**
+*One of the spiritual homes of SUSS*
+Trip Organiser: Simon (caver.murf@gmail.com) 
+
 **24 - 25th Wyanbene**  
-Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com)  
+Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com) 
+
 
 ### Jenolan Trip Dates 2022  
 
