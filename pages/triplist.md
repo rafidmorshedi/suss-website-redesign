@@ -35,7 +35,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## August Trips  
 
-**8th Indoor climbing**  
+**9th Indoor climbing**  
 *Come and meet the team*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
