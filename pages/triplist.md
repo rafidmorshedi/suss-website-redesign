@@ -47,7 +47,11 @@ Trip Organiser: Kevin Moore (troglokev@gmail.com)
 
 **10 - 11th Jenolan**  
 *One of the spiritual homes of SUSS*  
-Trip Organiser: Simon (caver.murf@gmail.com) 
+Trip Organiser: Simon (caver.murf@gmail.com)
+
+**17 - 18th Fish Rock Cave**   
+*An awesome dive trip if you have a ticket.*
+Trip Organiser: Alan (alan@meridianpost.com.au)
 
 **24 - 25th Wyanbene**  
 Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com) 
