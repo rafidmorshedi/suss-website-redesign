@@ -83,20 +83,20 @@ Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com)
 
 *Enjoy a dscounted $7 hire fee if climbing at the Ledge Climbing Centre on these dates (subject to mentioning climbing with SUSS)*
 
-SUSS Coordinated climb events:
+**SUSS Coordinated climb events:**
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au) 
-16 August
-23 August
-30 August
+- 16 August
+- 23 August
+- 30 August
 
-6 September
-13 September
-20 September
+- 6 September
+- 13 September
+- 20 September
 
-Available self climb dates:
-4 October
-11 October
-18 October
-25 October
-1 November
+**Available self climb dates:**
+- 4 October
+- 11 October
+- 18 October
+- 25 October
+- 1 November
 
