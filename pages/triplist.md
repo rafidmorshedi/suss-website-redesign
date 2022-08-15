@@ -50,7 +50,8 @@ Trip Organiser: Kevin Moore (troglokev@gmail.com)
 Trip Organiser: Simon (caver.murf@gmail.com)
 
 **17 - 18th Fish Rock Cave**   
-*An awesome dive trip if you have a ticket.*
+*SUSS will be going on a commercial diving tour to a beautiful underwater cave. The cost is $550 for two nights’ accommodation and four dives over two days.(pre-requist: scuba diving certification. Gear hire not included in listed cost)*
+
 Trip Organiser: Alan (alan@meridianpost.com.au)
 
 **24 - 25th Wyanbene**  
