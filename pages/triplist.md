@@ -45,7 +45,7 @@ Trip Organiser: Kevin Moore (troglokev@gmail.com)
 
 ## September Trips  
 
-**10 - 11th Jenolan**  
+**10 - 11th Jenolan (trip full)**  
 *One of the spiritual homes of SUSS*  
 Trip Organiser: Simon (caver.murf@gmail.com)
 
