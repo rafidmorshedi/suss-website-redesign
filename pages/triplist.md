@@ -54,8 +54,32 @@ Trip Organiser: Simon (caver.murf@gmail.com)
 
 Trip Organiser: Alan (alan@meridianpost.com.au)
 
-**24 - 25th Wyanbene**  
+**24 - 25th Wyanbene (trip full)**  
 Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com) 
+
+## October Trips  
+
+**1 - 3rd Borenore**  
+*Come for the caves, stay for the food and wine*  
+Trip Organiser: Lily (lil233.lg@gmail.com)  
+
+**8 - 9th Jenolan**  
+*One of the spiritual homes of SUSS*    
+Trip Organiser: TBA  
+
+**15th Vertical traning**  
+*Time to learn the ropes*    
+Trip Organiser: Lily (lil233.lg@gmail.com) 
+
+## November Trips  
+
+**5 - 6th Jenolan**  
+*One of the spiritual homes of SUSS*  
+Trip Organiser: TBS
+
+**12 - 13th Wyanbene**  
+*One of the spiritual homes of SUSS*    
+Trip Organiser: Lily (lil233.lg@gmail.com)   
 
 
 ### Jenolan Trip Dates 2022  
