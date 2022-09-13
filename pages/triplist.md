@@ -56,7 +56,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 **8 - 9th Jenolan**  
 *One of the spiritual homes of SUSS*    
 *Accommodation: $50 per person for the weekend, payment before trip for confirming attendence*
-Trip Organiser: Rowena (rowena1234@hotmail.com)
+Trip Organiser: TBA
 
 **15th Vertical traning**  
 *Time to learn the ropes*    
