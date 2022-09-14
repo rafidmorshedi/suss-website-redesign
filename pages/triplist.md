@@ -54,9 +54,8 @@ Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com)
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
 **8 - 9th Jenolan**  
-*One of the spiritual homes of SUSS*    
-**Note: this trip is tentative subject to the availability of trip leaders. Sign ups are to reserve positions.**  
-Trip Organiser: Rowena (rowena1234@hotmail.com)
+*One of the spiritual homes of SUSS*      
+Trip Organiser: Tina (tinawillmore@gmail.com)
 
 **16th Vertical traning**  
 *Time to learn the ropes*    
@@ -64,7 +63,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 **22 - 33rd Borenore**  
 *Come for the caves, stay for the food and wine*  
-**Note: this trip is tentative subject to the availability of trip leaders. Sign ups are to reserve positions.**  
+**Note: this trip is tentative subject to the availability of the trip leader. Sign ups are to reserve positions.**  
 Trip Organiser: Ian (cooperi4@bigpond.com)  
 
 ## November Trips  
