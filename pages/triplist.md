@@ -53,8 +53,9 @@ Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com)
 *Come for the caves, stay for the food and wine*  
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
-**8 - 9th Jenolan**  
-*One of the spiritual homes of SUSS*      
+**8 - 9th Jenolan - TRIP FULL**  
+**Additional sign ups will be added to wariting list, priority will be given to attendees able to drive and give other a lift**
+*One of the spiritual homes of SUSS*
 Trip Organiser: Tina (tinawillmore@gmail.com)
 
 **16th Vertical traning**  
