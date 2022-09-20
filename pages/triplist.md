@@ -54,7 +54,7 @@ Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com)
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
 **8 - 9th Jenolan - TRIP FULL**  
-**Additional sign ups will be added to wariting list, priority will be given to attendees able to drive and give other a lift**  
+**Additional sign ups will be added to a waiting list, priority will be given to attendees able to drive and give others a lift**  
 *One of the spiritual homes of SUSS*  
 Trip Organiser: Tina (tinawillmore@gmail.com)
 
