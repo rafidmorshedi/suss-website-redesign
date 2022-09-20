@@ -69,8 +69,7 @@ Trip Organiser: Ian (cooperi4@bigpond.com)
 ## November Trips  
 
 **5 - 6th Jenolan**  
-*One of the spiritual homes of SUSS*  
-*Accommodation: $50 per person for the weekend, payment before trip for confirming attendence*  
+*One of the spiritual homes of SUSS*   
 Trip Organiser: TBS
 
 **12 - 13th Wyanbene**  
