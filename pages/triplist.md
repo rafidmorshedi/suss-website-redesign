@@ -77,6 +77,9 @@ Trip Organiser: TBS
 *One of the spiritual homes of SUSS*    
 Trip Organiser: Lily (lil233.lg@gmail.com)   
 
+**25 - 28th Cooleman**  
+*Caving in the snowy mountains (but warm this time!)*  
+Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)
 
 ### Jenolan Trip Dates 2022  
 
