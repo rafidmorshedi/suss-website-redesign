@@ -28,24 +28,11 @@ If you would like to join a trip, please get in touch with the trip leader and l
     -   head torches (bring your own batteries - 8 x AA)
     -   overalls
     -   tents
+- No pets on trips
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
-
-## September Trips  
-
-**10 - 11th Jenolan (trip full)**  
-*One of the spiritual homes of SUSS*  
-Trip Organiser: Simon (caver.murf@gmail.com)
-
-**17 - 18th Fish Rock Cave**   
-*SUSS will be going on a commercial diving tour to a beautiful underwater cave. The cost is $550 for two nights’ accommodation and four dives over two days.(pre-requist: scuba diving certification. Gear hire not included in listed cost)*
-
-Trip Organiser: Alan (alan@meridianpost.com.au)
-
-**24 - 25th Wyanbene (trip full)**  
-Trip Organiser: Rafid Morshedi (rafid.morshedi@gmail.com) 
 
 ## October Trips  
 
@@ -79,7 +66,13 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 **25 - 28th Cooleman**  
 *Caving in the snowy mountains (but warm this time!)*  
-Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)
+Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
+
+## December Trips  
+
+**3 - 11 Jenolan (Weeklong + Christmas party)**  
+*One of the spiritual homes of SUSS*   
+Trip Organiser: Lily (lil233.lg@gmail.com)  
 
 ### Jenolan Trip Dates 2022  
 
