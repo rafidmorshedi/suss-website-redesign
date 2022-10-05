@@ -40,19 +40,13 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 *Come for the caves, stay for the food and wine*  
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
-**8 - 9th Jenolan - TRIP FULL**  
-**Additional sign ups will be added to a waiting list, priority will be given to attendees able to drive and give others a lift**  
-*One of the spiritual homes of SUSS*  
-Trip Organiser: Tina (tinawillmore@gmail.com)
+**8 - 9th Jenolan - Cancelled due to weather**  
 
 **16th Vertical traning**  
 *Time to learn the ropes*    
 Trip Organiser: Lily (lil233.lg@gmail.com) 
 
-**22 - 33rd Borenore**  
-*Come for the caves, stay for the food and wine*  
-**Note: this trip is tentative subject to the availability of the trip leader. Sign ups are to reserve positions.**  
-Trip Organiser: Ian (cooperi4@bigpond.com)  
+**22 - 33rd Borenore - cancelled due to trip leader availability change**   
 
 ## November Trips  
 
