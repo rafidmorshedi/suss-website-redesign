@@ -96,10 +96,6 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 **SUSS Coordinated climb events:**
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-- 16 August
-- 23 August
-- 30 August
-- 6 September
 - 13 September
 - 20 September
 
