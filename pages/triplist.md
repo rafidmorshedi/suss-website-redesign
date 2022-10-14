@@ -58,15 +58,18 @@ Trip Organiser: TBS
 *One of the spiritual homes of SUSS*    
 Trip Organiser: Lily (lil233.lg@gmail.com)   
 
-**25 - 28th Cooleman - Trip Full**  
-*Caving in the snowy mountains (but warm this time!)*  
-Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
-
 ## December Trips  
 
 **3 - 11 Jenolan (Weeklong + Christmas party)**  
 *One of the spiritual homes of SUSS*   
 Trip Organiser: Lily (lil233.lg@gmail.com)  
+
+
+## January Trips  
+
+**23 - 29th Cooleman**  
+*Caving in the snowy mountains (but warm this time!)*  
+Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
 
 ### Jenolan Trip Dates 2022  
 
