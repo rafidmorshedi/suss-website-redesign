@@ -50,9 +50,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## November Trips  
 
-**5 - 6th Jenolan**  
-*One of the spiritual homes of SUSS*   
-Trip Organiser: TBS
+**5 - 6th Jenolan - cancelled due to lack of trip lead and road conditions**  
 
 **12 - 13th Wyanbene**  
 *One of the spiritual homes of SUSS*    
@@ -60,8 +58,10 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## December Trips  
 
-**3 - 11 Jenolan (Weeklong + Christmas party)**  
+**3 - 11 Jenolan (Weeklong + Christmas party) - subject to road access conditions**  
 *One of the spiritual homes of SUSS*   
+*selective day signups possible subject to availability of carpooling, current available dates 3 -4th and 8 - 11th)*  
+*Accommodation costs to be paid in advance to lock in positions one week prior to trip*  
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
 
