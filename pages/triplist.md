@@ -60,7 +60,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 **3 - 11 Jenolan (Weeklong + Christmas party) - subject to road access conditions**  
 *One of the spiritual homes of SUSS*   
-*selective day signups possible subject to availability of carpooling, current available dates 3 -4th and 8 - 11th)*  
+*selective day signups possible subject to availability of carpooling, current available dates 3 -4th and 8 - 11th*  
 *Accommodation costs to be paid in advance to lock in positions one week prior to trip*  
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
