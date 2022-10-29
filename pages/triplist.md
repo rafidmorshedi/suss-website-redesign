@@ -58,10 +58,10 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## December Trips  
 
-**3 - 11 Jenolan (Weeklong + Christmas party) - subject to road access conditions**  
-*One of the spiritual homes of SUSS*   
-*selective day signups possible subject to availability of carpooling, current available dates 3 -4th and 8 - 11th*  
-*Accommodation costs to be paid in advance to lock in positions one week prior to trip*  
+**3 - 11 Jenolan (Weeklong + Christmas party) - cancelled due to road access conditions**  
+
+**3 -4 Bungonia - SUSS Christmas Party**  
+*Final trip for the year with both vertical and horizontal caving to expierence!*  
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
 
