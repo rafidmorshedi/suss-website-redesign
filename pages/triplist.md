@@ -60,7 +60,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 **3 - 11 Jenolan (Weeklong + Christmas party) - cancelled due to road access conditions**  
 
-**3 -4 Bungonia - SUSS Christmas Party**  
+**10 - 11 Bungonia - SUSS Christmas Party (1oth night)**  
 *Final trip for the year with both vertical and horizontal caving to expierence!*  
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
