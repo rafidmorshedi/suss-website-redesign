@@ -71,7 +71,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 *Caving in the snowy mountains (but warm this time!)*  
 Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
 
-**27 - 30th Yagby** 
+**27 - 30th Yagby**  
 Trip Organiser: Rowena Larkins (rowena1234@hotmail.com)  
 
 ### Jenolan Trip Dates 2022  
