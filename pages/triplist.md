@@ -67,7 +67,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## January Trips  
   
-**14 - 15th Jenolan**  
+**14 - 15th Jenolan - pending Jenolan precinct re-opening**  
 *One of the spiritual homes of SUSS*  
 Trip Organiser: Rowena (rowena1234@hotmail.com)  
 
