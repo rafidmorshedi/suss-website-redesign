@@ -66,6 +66,11 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 
 ## January Trips  
+  
+**14 - 15th Jenolan**  
+*One of the spiritual homes of SUSS*  
+Trip Organiser: Rowena (rowena1234@hotmail.com)  
+
 
 **23 - 29th Cooleman**  
 *Caving in the snowy mountains (but warm this time!)*  
@@ -74,20 +79,20 @@ Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)
 **27 - 30th Yagby**  
 Trip Organiser: Rowena Larkins (rowena1234@hotmail.com)  
 
-### Jenolan Trip Dates 2022  
+### Jenolan Trip Dates 2023  
 
-- 8-9 Jan
-- 5-6 Feb
-- 5-6 March
-- 9-10 April
-- 7-8 May
-- 4-5 June
-- 2-10 July
-- 6-7 August
-- 10-11 September
-- 8-9 October
-- 5-6 November
-- 3-11 December
+- 14-15 January
+- 11-12 February
+- 11-12 March
+- 1-2 April
+- 13-14 May
+- 10-11 June
+- 1-9 July
+- 12-13 August
+- 9-10 September
+- 14-15 October
+- 11-12 November
+- 2-10 December
 
 ### Wombeyan Trip Dates 2022
 
