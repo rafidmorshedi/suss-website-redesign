@@ -32,29 +32,7 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
 
-**SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**
-
-## October Trips  
-
-**1 - 3rd Borenore**  
-*Come for the caves, stay for the food and wine*  
-Trip Organiser: Lily (lil233.lg@gmail.com)  
-
-**8 - 9th Jenolan - Cancelled due to weather**  
-
-**16th Vertical traning**  
-*Time to learn the ropes*    
-Trip Organiser: Lily (lil233.lg@gmail.com) 
-
-**22 - 33rd Borenore - cancelled due to trip leader availability change**   
-
-## November Trips  
-
-**5 - 6th Jenolan - cancelled due to lack of trip lead and road conditions**  
-
-**12 - 13th Wyanbene**  
-*One of the spiritual homes of SUSS*    
-Trip Organiser: Lily (lil233.lg@gmail.com)   
+**SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
 ## December Trips  
 
@@ -67,10 +45,7 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ## January Trips  
   
-**14 - 15th Jenolan - pending Jenolan precinct re-opening**  
-*One of the spiritual homes of SUSS*  
-Trip Organiser: Rowena (rowena1234@hotmail.com)  
-
+**14 - 15th Jenolan - cancelled due to rejected access from authority**   
 
 **23 - 29th Cooleman**  
 *Caving in the snowy mountains (but warm this time!)*  
