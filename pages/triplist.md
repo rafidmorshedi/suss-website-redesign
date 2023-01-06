@@ -39,7 +39,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **14 - 15th Jenolan - cancelled due to rejected access from authority**   
 
 **15th - Canyoning trip**  
-*tis the season to get wet!*
+*tis the season to get wet!*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com )
 
 **23 - 29th Cooleman**  
