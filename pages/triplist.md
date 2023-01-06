@@ -34,18 +34,13 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## December Trips  
-
-**3 - 11 Jenolan (Weeklong + Christmas party) - cancelled due to road access conditions**  
-
-**10 - 11 Bungonia - SUSS Christmas Party (10th night)**  
-*Final trip for the year with both vertical and horizontal caving to expierence!*  
-Trip Organiser: Lily (lil233.lg@gmail.com)  
-
-
 ## January Trips  
   
 **14 - 15th Jenolan - cancelled due to rejected access from authority**   
+
+**15th - Canyoning trip**  
+*tis the season to get wet!*
+Trip Organiser: Phil Maynard (philm8544177@gmail.com )
 
 **23 - 29th Cooleman**  
 *Caving in the snowy mountains (but warm this time!)*  
