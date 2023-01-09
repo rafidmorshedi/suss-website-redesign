@@ -42,7 +42,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 *tis the season to get wet!*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
-**21st - 22nd Cricey and Fortitude Overnight Canyoning - experienced only**
+**21st - 22nd Cricey and Fortitude Overnight Canyoning - experienced only**  
 *making the most out of the canyoning season - this one for the more experienced gang*  
 Trip Organiser: Glen Ellis (glenellis2011@hotmail.com)
 
