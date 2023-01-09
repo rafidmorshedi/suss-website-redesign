@@ -51,6 +51,7 @@ Trip Organiser: Glen Ellis (glenellis2011@hotmail.com)
 Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
 
 **26 - 29th Yagby**  
+*caving in some of the prettiest caves in NSW, as well as taking in the high country*  
 Trip Organiser: Rowena Larkins (rowena1234@hotmail.com)  
 
 ### Jenolan Trip Dates 2023  
