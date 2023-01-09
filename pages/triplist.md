@@ -38,9 +38,13 @@ For more information, please read through our [Beginners Handbook](/assets/handb
   
 **14 - 15th Jenolan - cancelled due to rejected access from authority**   
 
-**15th - Canyoning trip**  
+**15th Fortress Creek Canyoning**  
 *tis the season to get wet!*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com )
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)
+
+**21st - 22nd Cricey and Fortitude Overnight Canyoning - experienced only**
+*making the most out of the canyoning season - this one for the more experienced gang*  
+Trip Organiser: Glen Ellis (glenellis2011@hotmail.com)
 
 **23 - 29th Cooleman**  
 *Caving in the snowy mountains (but warm this time!)*  
