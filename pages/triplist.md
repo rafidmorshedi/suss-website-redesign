@@ -54,6 +54,26 @@ Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)
 *caving in some of the prettiest caves in NSW, as well as taking in the high country*  
 Trip Organiser: Rowena Larkins (rowena1234@hotmail.com)  
 
+## February Trips  
+  
+**11 - 12th Jenolan - experienced only**  
+*One of the common SUSS caving locations appears to be opening up and we're trying out luck to see if we can get in. Please aim to sign up by Jan 27th for Permit needs*  
+Trip Organiser: Rowena Larkin (rowena1234@hotmail.com)  
+
+**19th Canyoning**  
+*It is the season for canyons so why not make the most out of it with some fun in water.*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
+
+## March
+
+**11-12 Jenolan - subject to confirmation of trip leader**  
+*SUSS's usual caving base, this time for everyone*  
+Trip Organiser: Lily Guo (lil233.lg@gmail.com) -> for waiting list purpose only till confirmation of trip leader
+
+**18 – 19 Tuglow**  
+*A great caving area that's finally opening up again, so why not check it out. Known to be very wet for any wet cave lovers :)*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
+
 ### Jenolan Trip Dates 2023  
 
 - 14-15 January
