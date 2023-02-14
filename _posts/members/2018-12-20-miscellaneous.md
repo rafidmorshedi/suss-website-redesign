@@ -21,3 +21,4 @@ categories:
 - [NSW NPWS Trip report](/assets/suss_trip_report.pdf)
 - [Trip Leader form](/assets/tripleader.pdf)
 - [SUSS First Aider list](https://drive.google.com/drive/folders/1CyJwBOjTCAOrPz4VAKy6E-BpgBJT2ocj?usp=sharing)
+- [Gear Audit](https://docs.google.com/spreadsheets/d/1uoEjM_yLM4OrTR-Re7ItCbbedJEmRCYu/edit?usp=sharing&ouid=101118315389035259623&rtpof=true&sd=true)
