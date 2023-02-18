@@ -34,25 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## January Trips  
-  
-**14 - 15th Jenolan - cancelled due to rejected access from authority**   
-
-**15th Fortress Creek Canyoning**  
-*tis the season to get wet!*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)
-
-**21st - 22nd Crikey and Fortitude Overnight Canyoning - experienced only**  
-*making the most out of the canyoning season - this one for the more experienced gang*  
-Trip Organiser: Glen Ellis (glenellis2011@hotmail.com)
-
-**23 - 29th Cooleman**  
-*Caving in the snowy mountains (but warm this time!)*  
-Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
-
-**26 - 29th Yagby**  
-*caving in some of the prettiest caves in NSW, as well as taking in the high country*  
-Trip Organiser: Rowena Larkins (rowena1234@hotmail.com)  
 
 ## February Trips  
   
@@ -66,9 +47,9 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
 ## March
 
-**11-12 Jenolan - subject to confirmation of trip leader**  
-*SUSS's usual caving base, this time for everyone*  
-Trip Organiser: Lily Guo (lil233.lg@gmail.com) -> for waiting list purpose only till confirmation of trip leader
+**11-12 Jenolan**  
+*SUSS's usual caving base that's opened after a long wait*  
+Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
 **18 – 19 Tuglow**  
 *A great caving area that's finally opening up again, so why not check it out. Known to be very wet for any wet cave lovers :)*  
@@ -95,20 +76,3 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 - 26-27 Mar
 - 30 Apr-1 May
 - 28-29 May
-
-### SUSS The Rock Climbing Centre Booked Dates
-
-*Enjoy a dscounted $7 hire fee if climbing at the Ledge Climbing Centre on these dates (subject to mentioning climbing with SUSS)*
-
-**SUSS Coordinated climb events:**
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-- 13 September
-- 20 September
-
-**Available self climb dates:**
-- 4 October
-- 11 October
-- 18 October
-- 25 October
-- 1 November
-
