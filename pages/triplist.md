@@ -55,6 +55,30 @@ Trip Organiser: Lily Guo (lil233.lg@gmail.com)
 *A great caving area that's finally opening up again, so why not check it out. Known to be very wet for any wet cave lovers :)*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
 
+## April
+
+**1-2 Jenolan**  
+*SUSS's usual caving base that's opened after a long wait*  
+Trip Organiser: TBC  
+
+**15 or 16 SRT Training day**  
+*Time to learn the ropes*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
+
+**29 - 30 Wombeyan (subject to area opening)**  
+*Kangaroos and marble caves in the southern highlands, spectacular*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
+
+## May
+
+**6-7 Colong**  
+*Rarely visited, but a great cave*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)    
+
+**13-14 Jenolan**  
+*SUSS's usual caving base that's opened after a long wait*  
+Trip Organiser: TBC    
+
 ### Jenolan Trip Dates 2023  
 
 - 14-15 January
