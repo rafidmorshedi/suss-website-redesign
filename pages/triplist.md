@@ -65,6 +65,10 @@ Trip Organiser: TBC
 *Time to learn the ropes*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
 
+**17 - 29 ASF conference Ceduna**  
+*Join Us For 5 Days Of Speleological Fun During A Conference Which Will Focus On Australia's Largest Karst Region - The World-Renowned Nullarbor Plain.*  
+[Register here](https://asfconference2023.com/)  
+
 **29 - 30 Wombeyan (subject to area opening)**  
 *Kangaroos and marble caves in the southern highlands, spectacular*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
