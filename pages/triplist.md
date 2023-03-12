@@ -35,16 +35,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
 
-## February Trips  
-  
-**11 - 12th Jenolan - experienced only**  
-*One of the common SUSS caving locations appears to be opening up and we're trying out luck to see if we can get in. Please aim to sign up by Jan 27th for Permit needs*  
-Trip Organiser: Rowena Larkin (rowena1234@hotmail.com)  
-
-**19th Canyoning**  
-*It is the season for canyons so why not make the most out of it with some fun in water.*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
-
 ## March
 
 **11-12 Jenolan**  
@@ -57,9 +47,9 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
 ## April
 
-**1-2 Jenolan**  
+**1-2 Jenolan - priority for attendees that can drive**  
 *SUSS's usual caving base that's opened after a long wait*  
-Trip Organiser: TBC  
+Trip Organiser: Lily Guo (lil233.lg@gmail.com) - sign up email to be sent before 5pm 15/03/2023, trip occurring with dependence on overcoming logistical issues
 
 **15 or 16 SRT Training day**  
 *Time to learn the ropes*  
