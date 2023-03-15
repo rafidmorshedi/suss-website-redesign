@@ -47,9 +47,7 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
 ## April
 
-**1-2 Jenolan - priority for attendees that can drive**  
-*SUSS's usual caving base that's opened after a long wait*  
-Trip Organiser: Lily Guo (lil233.lg@gmail.com) - sign up email to be sent before 5pm 15/03/2023, trip occurring with dependence on overcoming logistical issues
+**1-2 Jenolan - cancelled due to logistics issues**  
 
 **15 or 16 SRT Training day**  
 *Time to learn the ropes*  
