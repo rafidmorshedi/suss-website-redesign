@@ -53,12 +53,16 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 *Time to learn the ropes*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
 
+**22 Canyoning**  
+*Get a few more in before the cold sets in*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
+
 **17 - 29 ASF conference Ceduna**  
 *Join Us For 5 Days Of Speleological Fun During A Conference Which Will Focus On Australia's Largest Karst Region - The World-Renowned Nullarbor Plain.*  
 [Register here](https://asfconference2023.com/)  
 
-**29 - 30 Wombeyan (subject to area opening)**  
-*Kangaroos and marble caves in the southern highlands, spectacular*  
+**29 - 30 Colong**  
+*Spectacular caves in a slightly more remote area*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
 
 ## May
@@ -69,7 +73,21 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
 **13-14 Jenolan**  
 *SUSS's usual caving base that's opened after a long wait*  
-Trip Organiser: TBC    
+Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
+
+**27-28 Tuglow**  
+*Definetely one of the best river caves in NSW*  
+Trip Organiser: Rod (constructiondiver@bigpond.com)  
+
+## June
+
+**3-4 Kempsey**  
+*Time to head north*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)    
+
+**9-11 Jenolan**  
+*SUSS's usual caving base that's opened after a long wait*  
+Trip Organiser: Rowena (rowena1234@hotmail.com)  
 
 ### Jenolan Trip Dates 2023  
 
