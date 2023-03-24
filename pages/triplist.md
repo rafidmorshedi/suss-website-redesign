@@ -67,10 +67,6 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
 ## May
 
-**6-7 Colong**  
-*Rarely visited, but a great cave*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)    
-
 **13-14 Jenolan**  
 *SUSS's usual caving base that's opened after a long wait*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
