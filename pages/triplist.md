@@ -100,9 +100,6 @@ Trip Organiser: Rowena (rowena1234@hotmail.com)
 - 11-12 November
 - 2-10 December
 
-### Wombeyan Trip Dates 2022
+### Wombeyan Trip Dates 2023
 
-- 26-27 Feb
-- 26-27 Mar
-- 30 Apr-1 May
-- 28-29 May
+tbc - current estimted Womebyan opening date 01/07/2023
