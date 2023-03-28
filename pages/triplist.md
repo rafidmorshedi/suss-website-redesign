@@ -49,7 +49,7 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
 **1-2 Jenolan - cancelled due to logistics issues**  
 
-**15 or 16 SRT Training day**  
+**15 SRT Training day**  
 *Time to learn the ropes*  
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
 
