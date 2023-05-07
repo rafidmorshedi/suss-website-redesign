@@ -85,6 +85,10 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 *SUSS's usual caving base that's opened after a long wait*  
 Trip Organiser: Rowena (rowena1234@hotmail.com)  
 
+**24-24 Colong**  
+*Time for some camping*  
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)   
+
 ### Jenolan Trip Dates 2023  
 
 - 14-15 January
