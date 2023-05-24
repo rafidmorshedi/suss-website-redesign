@@ -29,10 +29,10 @@
   image: '/images/comm-lily.jpg'
 
 - position: Safety Officer
-  name: Gabe Maylor
+  name: Gabe Naylor
   role_desc: "The safety officer is responsible for monitoring and managing the safety of club members."
   email: gabenaylor21@gmail.com
-  image: '/images/comm-caver.jpg'
+  image: '/images/comm-gabe.jpg'
 
 - position: BULL Editor
   name: Phil Maynard
@@ -50,7 +50,7 @@
   name: Karl Tam
   role_desc: "The minutes secretary records the minutes and actions from society meetings."
   email: karl.tam2013@gmail.com
-  image: '/images/comm-caver.jpg'
+  image: '/images/comm-karl.jpg'
 
 - position: Dive Representative
   name: Greg Ryan
