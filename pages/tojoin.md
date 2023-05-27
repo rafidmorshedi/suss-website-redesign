@@ -21,7 +21,7 @@ You can sign up via the form **[here](https://docs.google.com/forms/d/e/1FAIpQLS
 ### Option 1:
 
 {% assign treasurer = site.data.committee | where: "position", "Treasurer" | first %}
-Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer {{treasurer.name}} at {{treasurer.email}} including your payment reference.
+Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer {{treasurer.name}} at **{{treasurer.email}}** including your payment reference.
 
 **EFT details:**
 - BSB: 062284
