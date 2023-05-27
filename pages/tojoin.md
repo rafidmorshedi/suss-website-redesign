@@ -20,11 +20,8 @@ You can sign up via the form **[here](https://docs.google.com/forms/d/e/1FAIpQLS
 ## Alternative sign up options 
 ### Option 1:
 
-{% for role in site.data.committee %}
-   {% if role.position == 'Treasurer' %}
-      Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer {{role.name}} at {{role.email}} including your payment reference.
-   {% endif %}
-{% endfor %}
+{% assign treasurer = site.data.committee | where: "position", "Treasurer" | first %}
+Pay by EFT to Sydney University Speleological Society, then fill out the form online and email it to the treasurer {{treasurer.name}} at {{treasurer.email}} including your payment reference.
 
 **EFT details:**
 - BSB: 062284
