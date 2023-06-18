@@ -34,60 +34,27 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-
-## March
-
-**11-12 Jenolan**  
-*SUSS's usual caving base that's opened after a long wait*  
-Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
-
-**18 – 19 Tuglow**  
-*A great caving area that's finally opening up again, so why not check it out. Known to be very wet for any wet cave lovers :)*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
-
-## April
-
-**1-2 Jenolan - cancelled due to logistics issues**  
-
-**15 SRT Training day**  
-*Time to learn the ropes*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
-
-**22 Canyoning**  
-*Get a few more in before the cold sets in*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
-
-**17 - 29 ASF conference Ceduna**  
-*Join Us For 5 Days Of Speleological Fun During A Conference Which Will Focus On Australia's Largest Karst Region - The World-Renowned Nullarbor Plain.*  
-[Register here](https://asfconference2023.com/)  
-
-**29 - 30 Colong**  
-*Spectacular caves in a slightly more remote area*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
-
-## May
-
-**13-14 Jenolan**  
-*SUSS's usual caving base that's opened after a long wait*  
-Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
-
-**27-28 Tuglow**  
-*Definetely one of the best river caves in NSW*  
-Trip Organiser: Rod (constructiondiver@bigpond.com)  
-
 ## June
-
-**3-4 Kempsey**  
-*Time to head north*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)    
-
-**9-11 Jenolan**  
-*SUSS's usual caving base that's opened after a long wait*  
-Trip Organiser: Rowena (rowena1234@hotmail.com)  
 
 **23-24 Colong**  
 *Time for some camping*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)   
+Trip Organiser: Phil Maynard (philm8544177@gmail.com) 
+
+## July
+
+**1-9 Jenolan weeklong**  
+*SUSS's usual caving base. This will be the first weeklong in a while*  
+Trip Organiser: TBA    
+
+## August
+
+**12-13 Jenolan**  
+*SUSS's usual caving base. This will be the first weeklong in a while*  
+Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
+
+**19-20 Wombeyan**  
+*Brilliant marble caves in the Southern Highlands*  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
 ### Jenolan Trip Dates 2023  
 
