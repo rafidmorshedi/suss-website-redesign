@@ -42,9 +42,9 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 
 ## July
 
-**1-9 Jenolan weeklong**  
+**7-10 Jenolan weeklong**  
 *SUSS's usual caving base. This will be the first weeklong in a while*  
-Trip Organiser: TBA    
+Trip Organiser: Phil Maynard (philm8544177@gmail.com) 
 
 ## August
 
