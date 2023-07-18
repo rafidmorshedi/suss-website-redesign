@@ -49,12 +49,46 @@ Trip Organiser: Simon Murphy (caver.murf@gmail.com)
 ## August
 
 **12-13 Jenolan**  
-*SUSS's usual caving base. This will be the first weeklong in a while*  
+*SUSS's usual caving base.*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
 **19-20 Wombeyan**  
 *Brilliant marble caves in the Southern Highlands*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
+
+**26-27 Bungonia**  
+*Enjoy some of the best vertical caving in NSW*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
+## September
+
+**2-3 Mt Etna**  
+*A multi-club trip to Rockhampton*  
+Trip Organiser: Rod (constructiondiver@bigpond.com)  
+
+**14-15 Jenolan, Chevalier (EXPERIENCED ONLY)**  
+*One of the most spectacular caves at Jenolan*  
+Trip Organiser: Alan Green (alan@meridianpost.com.au)  
+
+**19-20 Wombeyan**  
+*Brilliant marble caves in the Southern Highlands*  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
+
+## October
+
+**7-8 Mt Fairy**  
+*A multi-club trip with NUCC to Mt Fairy near Canberra*  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
+
+**14-15 Jenolan**  
+*SUSS's usual caving base.*  
+Trip Organiser: TBC  
+
+## November
+
+**4-5 Colong**  
+*Time for some camping*  
+Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
 ### Jenolan Trip Dates 2023  
 
