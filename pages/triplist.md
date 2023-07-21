@@ -52,10 +52,6 @@ Trip Organiser: Simon Murphy (caver.murf@gmail.com)
 *SUSS's usual caving base.*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
-**19-20 Wombeyan**  
-*Brilliant marble caves in the Southern Highlands*  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-
 **26-27 Bungonia**  
 *Enjoy some of the best vertical caving in NSW*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
@@ -70,7 +66,7 @@ Trip Organiser: Rod (constructiondiver@bigpond.com)
 *One of the most spectacular caves at Jenolan*  
 Trip Organiser: Alan Green (alan@meridianpost.com.au)  
 
-**19-20 Wombeyan**  
+**16-17 Wombeyan**  
 *Brilliant marble caves in the Southern Highlands*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
