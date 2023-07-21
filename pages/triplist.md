@@ -62,7 +62,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 *A multi-club trip to Rockhampton*  
 Trip Organiser: Rod (constructiondiver@bigpond.com)  
 
-**14-15 Jenolan, Chevalier (EXPERIENCED ONLY- TRIP FULL)**  
+**2-3 Jenolan, Chevalier (EXPERIENCED ONLY- TRIP FULL)**  
 *One of the most spectacular caves at Jenolan*  
 Trip Organiser: Alan Green (alan@meridianpost.com.au)  
 
