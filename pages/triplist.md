@@ -66,10 +66,6 @@ Trip Organiser: Rod (constructiondiver@bigpond.com)
 *One of the most spectacular caves at Jenolan*  
 Trip Organiser: Alan Green (alan@meridianpost.com.au)  
 
-**16-17 Wombeyan**  
-*Brilliant marble caves in the Southern Highlands*  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-
 ## October
 
 **7-8 Mt Fairy**  
