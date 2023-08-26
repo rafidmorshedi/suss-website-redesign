@@ -58,7 +58,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## September
 
-**2-3 Mt Etna**  
+**2-3 Mt Etna (TRIP FULL)**  
 *A multi-club trip to Rockhampton*  
 Trip Organiser: Rod (constructiondiver@bigpond.com)  
 
@@ -68,7 +68,7 @@ Trip Organiser: Alan Green (alan@meridianpost.com.au)
 
 ## October
 
-**7-8 Mt Fairy**  
+**7-8 Mt Fairy (TRIP FULL)**  
 *A multi-club trip with NUCC to Mt Fairy near Canberra*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
