@@ -66,15 +66,24 @@ Trip Organiser: Rod (constructiondiver@bigpond.com)
 *One of the most spectacular caves at Jenolan*  
 Trip Organiser: Alan Green (alan@meridianpost.com.au)  
 
+**17th SRT training**  
+*Come and learn the ropes*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
+Location: TBD  
+
+**30-2 Borenore**  
+*Caving with a side of wine festival*  
+Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
+
 ## October
 
 **7-8 Mt Fairy (TRIP FULL)**  
 *A multi-club trip with NUCC to Mt Fairy near Canberra*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
-**14-15 Jenolan**  
+**14-15 Jenolan (EXPERIENCED ONLY)**  
 *SUSS's usual caving base.*  
-Trip Organiser: TBC  
+Trip Organiser: Rowena  
 
 ## November
 
