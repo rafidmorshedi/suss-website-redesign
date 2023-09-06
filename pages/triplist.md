@@ -91,6 +91,12 @@ Trip Organiser: Rowena
 *Time for some camping*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
+## December
+
+**2-3 Christmas Party and 75th Anniversary - Bungonia**  
+*Stay tuned for details*  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
+
 ### Jenolan Trip Dates 2023  
 
 - 14-15 January
