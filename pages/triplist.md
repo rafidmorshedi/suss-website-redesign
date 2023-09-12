@@ -71,8 +71,8 @@ Trip Organiser: Alan Green (alan@meridianpost.com.au)
 Trip Organiser: Phil (philm8544177@gmail.com)  
 Location: TBD  
 
-**30-2 Borenore**  
-*Caving with a side of wine festival*  
+**23-24 Borenore**  
+*Caving with a side of wine fun in Orange*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
 ## October
