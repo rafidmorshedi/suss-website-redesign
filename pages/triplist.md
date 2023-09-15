@@ -75,6 +75,10 @@ Location: TBD
 *Caving with a side of wine fun in Orange*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
+**30 - Oct 2 Kempsy (KSS Joint trip)**
+*Take the opportunity of the long weekend to see some caves further up north*
+Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
+
 ## October
 
 **7-8 Mt Fairy (TRIP FULL)**  
