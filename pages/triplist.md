@@ -34,18 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## June
-
-**23-24 Colong**  
-*Time for some camping*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com) 
-
-## July
-
-**7-10 Jenolan weeklong**  
-*SUSS's usual caving base. This will be the first weeklong in a while. (EXPERIENCED ONLY)*  
-Trip Organiser: Simon Murphy (caver.murf@gmail.com) 
-
 ## August
 
 **12-13 Jenolan**  
@@ -75,7 +63,7 @@ Location: TBD
 *Caving with a side of wine fun in Orange*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
-**30 - Oct 2 Kempsy (KSS Joint trip)**
+**30 - Oct 2 Kempsey (KSS Joint trip)**
 *Take the opportunity of the long weekend to see some caves further up north*
 Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
 
@@ -85,7 +73,7 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 *A multi-club trip with NUCC to Mt Fairy near Canberra*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
-**14-15 Jenolan (EXPERIENCED ONLY)**  
+**14-15 Jenolan - Barralong (EXPERIENCED ONLY)**  
 *SUSS's usual caving base.*  
 Trip Organiser: Rowena  
 
