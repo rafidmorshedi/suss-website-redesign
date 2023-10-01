@@ -79,6 +79,11 @@ Trip Organiser: Rowena
 
 ## November
 
+**3-5 Glenrock Station**  
+*Camping in the bush, exploring caves. Upper Hunter Valley. Need to be fully self-sufficient.*   
+*Combined trip with NHVSS.*  
+Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
+
 **4-5 Colong**  
 *Time for some camping*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
