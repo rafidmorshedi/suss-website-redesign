@@ -94,6 +94,12 @@ Trip Organiser: Lily Guo (lil233.lg@gmail.com)
 *Stay tuned for details*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
+**2-10 Jenolan Weeklong**  
+*This might just be the best trip of the year*  
+Trip Organiser: Simon Murphy (caver.murf@gmail.com)  
+Sign up for the trip by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLScsJIs5u_EEYzd-OuFJ7aG_vbXaUBlDjMdVw-KbzrRQ52tWeg/viewform?usp=sf_link). 
+
+
 ### Jenolan Trip Dates 2023  
 
 - 14-15 January
