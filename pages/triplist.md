@@ -73,10 +73,6 @@ Trip Organiser: Phil Maynard (philm8544177@gmail.com)
 *A multi-club trip with NUCC to Mt Fairy near Canberra*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
-**14-15 Jenolan - Barralong (EXPERIENCED ONLY)**  
-*SUSS's usual caving base.*  
-Trip Organiser: Rowena  
-
 ## November
 
 **3-5 Glenrock Station**  
