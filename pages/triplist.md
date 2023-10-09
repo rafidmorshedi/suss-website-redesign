@@ -34,16 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## August
-
-**12-13 Jenolan**  
-*SUSS's usual caving base.*  
-Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
-
-**26-27 Bungonia**  
-*Enjoy some of the best vertical caving in NSW*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
 ## September
 
 **2-3 Mt Etna (TRIP FULL)**  
@@ -83,6 +73,10 @@ Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)
 **4-5 Colong**  
 *Time for some camping*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
+
+**25-26 Wee Jasper**  
+*caves are generally large and spacious with some decent formations*  
+Trip Organiser: Keir Vaughan-taylor (keirvt@optusnet.com.au)  
 
 ## December
 
