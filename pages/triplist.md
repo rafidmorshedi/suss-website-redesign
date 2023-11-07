@@ -34,29 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## September
-
-**2-3 Mt Etna (TRIP FULL)**  
-*A multi-club trip to Rockhampton*  
-Trip Organiser: Rod (constructiondiver@bigpond.com)  
-
-**2-3 Jenolan, Chevalier (EXPERIENCED ONLY- TRIP FULL)**  
-*One of the most spectacular caves at Jenolan*  
-Trip Organiser: Alan Green (alan@meridianpost.com.au)  
-
-**17th SRT training**  
-*Come and learn the ropes*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-Location: TBD  
-
-**23-24 Borenore**  
-*Caving with a side of wine fun in Orange*  
-Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
-
-**30 - Oct 2 Kempsey (KSS Joint trip)**  
-*Take the opportunity of the long weekend to see some caves further up north*  
-Trip Organiser: Phil Maynard (philm8544177@gmail.com)  
-
 ## October
 
 **7-8 Mt Fairy (TRIP FULL)**  
@@ -74,9 +51,13 @@ Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)
 *Time for some camping*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
 
-**25-26 Wee Jasper**  
+**25-26 Wee Jasper -  Cacelled**  
 *caves are generally large and spacious with some decent formations*  
 Trip Organiser: Keir Vaughan-taylor (keirvt@optusnet.com.au)  
+
+**25 Canyoning**  
+*With the weather heating up, there is no better time to abseil down some waterfalls*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
 
 ## December
 
@@ -89,6 +70,11 @@ Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
 Trip Organiser: Simon Murphy (caver.murf@gmail.com)  
 Sign up for the trip by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLScsJIs5u_EEYzd-OuFJ7aG_vbXaUBlDjMdVw-KbzrRQ52tWeg/viewform?usp=sf_link). 
 
+## February
+
+**3-11 Mole Creek, Tasmania - expressions of interest**  
+*Visit some of the most well decorated caves in Australia*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
 
 ### Jenolan Trip Dates 2023  
 
