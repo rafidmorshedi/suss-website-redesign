@@ -70,6 +70,10 @@ Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
 Trip Organiser: Simon Murphy (caver.murf@gmail.com)  
 Sign up for the trip by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLScsJIs5u_EEYzd-OuFJ7aG_vbXaUBlDjMdVw-KbzrRQ52tWeg/viewform?usp=sf_link). 
 
+**28-2 Borenore**  
+*Survey trips and cherry orchard raids over new year in some of the best wine country in NSW*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
 ## February
 
 **3-11 Mole Creek, Tasmania - expressions of interest**  
