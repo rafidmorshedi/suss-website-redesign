@@ -34,12 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## October
-
-**7-8 Mt Fairy (TRIP FULL)**  
-*A multi-club trip with NUCC to Mt Fairy near Canberra*  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-
 ## November
 
 **3-5 Glenrock Station**  
@@ -50,6 +44,10 @@ Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)
 **4-5 Colong**  
 *Time for some camping*  
 Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
+
+**18 Canyoning - self sufficient canoyoners only**  
+*With the weather heating up, there is no better time to abseil down some waterfalls*  
+Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)  
 
 **25-26 Wee Jasper -  Cacelled**  
 *caves are generally large and spacious with some decent formations*  
