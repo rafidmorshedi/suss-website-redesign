@@ -72,6 +72,12 @@ Sign up for the trip by filling in [this form](https://docs.google.com/forms/d/e
 *Survey trips and cherry orchard raids over new year in some of the best wine country in NSW*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
+## January
+
+**26-28 Yagby**  
+*Visit some of the best caves on the mainland*  
+Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
+
 ## February
 
 **3-11 Mole Creek, Tasmania - expressions of interest**  
