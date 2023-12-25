@@ -74,7 +74,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## January
 
-**26-28 Yagby**  
+**26-28 Yagby (TRIP FULL)**  
 *Visit some of the best caves on the mainland*  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
 
