@@ -42,6 +42,10 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ## January
 
+**13-14 Jenolan (TRIP FULL)**  
+*The local caving playground*  
+Trip Organiser: Rowena (rowena1234@hotmail.com) 
+
 **26-28 Yagby (TRIP FULL)**  
 *Visit some of the best caves on the mainland*  
 Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
@@ -52,20 +56,20 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 *Visit some of the most well decorated caves in Australia*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
-### Jenolan Trip Dates 2023  
+### DRAFT Jenolan Trip Dates 2024  
 
-- 14-15 January
-- 11-12 February
-- 11-12 March
-- 1-2 April
-- 13-14 May
-- 10-11 June
-- 1-9 July
-- 12-13 August
-- 9-10 September
-- 14-15 October
-- 11-12 November
-- 2-10 December
+- 13-14 January
+- 10-11 February
+- 9-10 March
+- 13-14 April
+- 11-12 May
+- 8-9 June
+- 6-14 July
+- 10-11 August
+- 7-8 September
+- 12-13 October
+- 9-10 November
+- 7-15 December
 
 ### Wombeyan Trip Dates 2023
 
