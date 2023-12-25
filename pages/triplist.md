@@ -34,39 +34,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## November
-
-**3-5 Glenrock Station**  
-*Camping in the bush, exploring caves. Upper Hunter Valley. Need to be fully self-sufficient.*   
-*Combined trip with NHVSS.*  
-Trip Organiser: Rod OBrien (constructiondiver@bigpond.com)  
-
-**4-5 Colong**  
-*Time for some camping*  
-Trip Organiser: Lily Guo (lil233.lg@gmail.com)  
-
-**18 Canyoning - self sufficient canoyoners only**  
-*With the weather heating up, there is no better time to abseil down some waterfalls*  
-Trip Organiser: Em Butcher (emilyrbutcher@outlook.com)  
-
-**25-26 Wee Jasper -  Cacelled**  
-*caves are generally large and spacious with some decent formations*  
-Trip Organiser: Keir Vaughan-taylor (keirvt@optusnet.com.au)  
-
-**25 Canyoning**  
-*With the weather heating up, there is no better time to abseil down some waterfalls*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
 ## December
-
-**2-3 Christmas Party and 75th Anniversary - Bungonia**  
-*Stay tuned for details*  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-
-**2-10 Jenolan Weeklong**  
-*This might just be the best trip of the year*  
-Trip Organiser: Simon Murphy (caver.murf@gmail.com)  
-Sign up for the trip by filling in [this form](https://docs.google.com/forms/d/e/1FAIpQLScsJIs5u_EEYzd-OuFJ7aG_vbXaUBlDjMdVw-KbzrRQ52tWeg/viewform?usp=sf_link). 
 
 **28-2 Borenore**  
 *Survey trips and cherry orchard raids over new year in some of the best wine country in NSW*  
@@ -101,4 +69,4 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 ### Wombeyan Trip Dates 2023
 
-tbc - current estimted Womebyan opening date 01/07/2023
+tbc - current estimted Womebyan opening date is unknown
