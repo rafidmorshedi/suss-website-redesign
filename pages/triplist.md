@@ -56,6 +56,12 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 *Visit some of the most well decorated caves in Australia*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
+## April
+
+**6-7 Borenore**  
+*Caving with a side of cherry orchard raids in food events in some of the best wine country in NSW**  
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
 ### DRAFT Jenolan Trip Dates 2024  
 
 - 13-14 January
