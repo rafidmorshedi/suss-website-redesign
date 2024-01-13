@@ -52,7 +52,7 @@ Trip Organiser: To be determined
 
 **24-25 [Wombeyan](/cavingareas/wombeyan/)**  
 *Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
-Trip Organiser: Lily (lil233.lg@gmail.com)  
+Trip Organiser: To be determined  
 
 ## March
 
@@ -70,7 +70,7 @@ Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
 
 **23-24 [Wombeyan](/cavingareas/wombeyan/)**  
 *Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
-Trip Organiser: To be determined  
+Trip Organiser: Lily (lil233.lg@gmail.com)  
 
 **30-31 Kempsey**  
 *Head north to explore the lesser-visited Kempsey caves.*  
