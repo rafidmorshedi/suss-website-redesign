@@ -34,17 +34,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## December
-
-**28-2 Borenore**  
-*Survey trips and cherry orchard raids over new year in some of the best wine country in NSW*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
 ## January
-
-**13-14 Jenolan (TRIP FULL)**  
-*The local caving playground*  
-Trip Organiser: Rowena (rowena1234@hotmail.com) 
 
 **26-28 Yagby (TRIP FULL)**  
 *Visit some of the best caves on the mainland*  
@@ -56,11 +46,46 @@ Trip Organiser: Rafid (rafid.morshedi@gmail.com)
 *Visit some of the most well decorated caves in Australia*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
+**10-11 [Jenolan](/cavingareas/jenolan/)**  
+*Our local caving playground*  
+Trip Organiser: To be determined  
+
+**24-25 [Wombeyan](/cavingareas/wombeyan/)**  
+*Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
+Trip Organiser: Lily (lil233.lg@gmail.com)  
+
+## March
+
+**2-3 Canyoning**  
+*Beat the heat by abseiling down some waterfalls.*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
+**9-10 [Jenolan](/cavingareas/jenolan/)**  
+*Our local caving playground*  
+Trip Organiser: To be determined  
+
+**16 SRT training**  
+*Whether you're a complete beginner or a seasoned caver, you'll undoubtedly learn something during an SRT training day.*  
+Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
+
+**23-24 [Wombeyan](/cavingareas/wombeyan/)**  
+*Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
+Trip Organiser: To be determined  
+
+**30-31 Kempsey**  
+*Head north to explore the lesser-visited Kempsey caves.*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
 ## April
 
 **6-7 Borenore**  
-*Caving with a side of cherry orchard raids in food events in some of the best wine country in NSW**  
+*Enjoy caving with a side of cherry orchard raids and food events in some of the best wine country in NSW.**  
 Trip Organiser: Phil (philm8544177@gmail.com)  
+
+**27-28 [Wombeyan](/cavingareas/wombeyan/)**  
+*Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
+Trip Organiser: To be determined  
+
 
 ### DRAFT Jenolan Trip Dates 2024  
 
@@ -77,6 +102,6 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 - 9-10 November
 - 7-15 December
 
-### Wombeyan Trip Dates 2023
+### Wombeyan Trip Dates 2024
 
-tbc - current estimted Womebyan opening date is unknown
+**To be updated** - The current estimated Wombeyan opening date is unknown.
