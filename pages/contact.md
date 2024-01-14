@@ -13,7 +13,7 @@ permalink: "/contact/"
 There are many ways to get in touch with the club. If your query is related to a particular trip please reach out to the trip leader named on the [trip list]({{ site.url }}{{ site.baseurl }}/triplist/). Otherwise our contact details are below:
 
 - Got a quick question? Message the [Facebook page](http://www.facebook.com/suss.caves)
-- General Enquiries: suss-enquiry@caves.org.au
+- General Enquiries: usyd.suss@gmail.com
 - Want to interact with other members and see latest expedition updates? Join the [Facebook Group](https://www.facebook.com/groups/4999123669/)
 - Have questions for specific parts of the clup? Reach out to the relevant [committe member]({{ site.url }}{{ site.baseurl }}/about/committee/)
 - Snail mail address:  
