@@ -72,7 +72,7 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 Trip Organiser: To be determined  
 
 
-### DRAFT Jenolan Trip Dates 2024  
+### Jenolan Trip Dates 2024  
 
 - 13-14 January
 - 10-11 February
