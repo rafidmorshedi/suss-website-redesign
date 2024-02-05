@@ -34,25 +34,11 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## January
-
-**26-28 Yagby (TRIP FULL)**  
-*Visit some of the best caves on the mainland*  
-Trip Organiser: Rafid (rafid.morshedi@gmail.com)  
-
 ## February
 
 **3-11 Mole Creek, Tasmania - expressions of interest**  
 *Visit some of the most well decorated caves in Australia*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
-
-**10-11 [Jenolan](/cavingareas/jenolan/)**  
-*Our local caving playground*  
-Trip Organiser: To be determined  
-
-**24-25 [Wombeyan](/cavingareas/wombeyan/)**  
-*Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
-Trip Organiser: To be determined  
 
 ## March
 
@@ -72,7 +58,7 @@ Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)
 *Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
 Trip Organiser: Lily (lil233.lg@gmail.com)  
 
-**30-31 Kempsey**  
+**29-1 Kempsey**  
 *Head north to explore the lesser-visited Kempsey caves.*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
@@ -80,6 +66,10 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 
 **6-7 Borenore**  
 *Enjoy caving with a side of cherry orchard raids and food events in some of the best wine country in NSW.**  
+Trip Organiser: Phil (philm8544177@gmail.com)  
+
+**20-21 Wellington**  
+*Unearth a hidden and ancient landscape home of the first Megafauna discovery in Australia*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
 **27-28 [Wombeyan](/cavingareas/wombeyan/)**  
