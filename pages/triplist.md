@@ -34,11 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## February
-
-**3-11 Mole Creek, Tasmania - expressions of interest**  
-*Visit some of the most well decorated caves in Australia*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
 
 ## March
 
