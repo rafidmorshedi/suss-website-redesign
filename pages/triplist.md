@@ -49,9 +49,9 @@ Trip Organiser: To be determined
 *Whether you're a complete beginner or a seasoned caver, you'll undoubtedly learn something during an SRT training day.*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
-**23-24 [Wombeyan](/cavingareas/wombeyan/)**  
+**23-24 [Wombeyan](/cavingareas/wombeyan/) - NUCC Joint trip**  
 *Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
-Trip Organiser: Lily (lil233.lg@gmail.com)  
+Trip Organiser: Lily (lil233.lg@gmail.com)  - trip full, contact to join waiting list
 
 **29-1 Kempsey**  
 *Head north to explore the lesser-visited Kempsey caves.*  
