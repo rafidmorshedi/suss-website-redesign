@@ -63,13 +63,15 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 *Enjoy caving with a side of cherry orchard raids and food events in some of the best wine country in NSW.**  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
-**20-21 Wellington**  
-*Unearth a hidden and ancient landscape home of the first Megafauna discovery in Australia*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
 **27-28 [Wombeyan](/cavingareas/wombeyan/)**  
 *Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
 Trip Organiser: To be determined  
+
+## May
+
+**10-11 Wellington**  
+*Unearth a hidden and ancient landscape home of the first Megafauna discovery in Australia*  
+Trip Organiser: Phil (philm8544177@gmail.com)  
 
 
 ### Jenolan Trip Dates 2024  
