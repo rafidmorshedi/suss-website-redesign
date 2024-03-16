@@ -37,14 +37,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## March
 
-**2-3 Canyoning**  
-*Beat the heat by abseiling down some waterfalls.*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
-**9-10 [Jenolan](/cavingareas/jenolan/)**  
-*Our local caving playground*  
-Trip Organiser: To be determined  
-
 **16 SRT training**  
 *Whether you're a complete beginner or a seasoned caver, you'll undoubtedly learn something during an SRT training day.*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
@@ -62,6 +54,10 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 **6-7 Borenore**  
 *Enjoy caving with a side of cherry orchard raids and food events in some of the best wine country in NSW.**  
 Trip Organiser: Phil (philm8544177@gmail.com)  
+
+**13-14 [Jenolan](/cavingareas/jenolan/)**  
+*Our local caving playground*  
+Trip Organiser: Julius (jpyz490l@gmail.com)  
 
 **27-28 [Wombeyan](/cavingareas/wombeyan/)**  
 *Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
