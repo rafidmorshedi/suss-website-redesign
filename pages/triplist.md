@@ -55,13 +55,9 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 *Enjoy caving with a side of cherry orchard raids and food events in some of the best wine country in NSW.**  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
-**13-14 [Jenolan](/cavingareas/jenolan/)**  
+**27-28 [Jenolan](/cavingareas/jenolan/)**  
 *Our local caving playground*  
-Trip Organiser: Julius (jpyz490l@gmail.com)  
-
-**27-28 [Wombeyan](/cavingareas/wombeyan/)**  
-*Upgrade from limestone to marble with some beautiful caves in the Southern Highlands.*  
-Trip Organiser: To be determined  
+Trip Organiser: Julius (jpyz490l@gmail.com)    
 
 ## May
 
