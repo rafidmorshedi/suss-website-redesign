@@ -47,6 +47,10 @@ Trip Organiser: Phil (philm8544177@gmail.com)
 *Enjoy caving with a side of cherry orchard raids and food events in some of the best wine country in NSW.**  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
+**14 SRT training**  
+*Learn the ropes**  
+Trip Organiser: Pat (p.larkin@nigelbowen.com.au)  
+
 **20-21 Bungonia**  
 *Some of the best vertical caving on the mainland*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
