@@ -22,3 +22,11 @@ categories:
 - [Trip Leader form](/assets/tripleader.pdf)
 - [SUSS First Aider list](https://drive.google.com/drive/folders/1CyJwBOjTCAOrPz4VAKy6E-BpgBJT2ocj?usp=sharing)
 - [Gear Audit](https://docs.google.com/spreadsheets/d/1uoEjM_yLM4OrTR-Re7ItCbbedJEmRCYu/edit?usp=sharing&ouid=101118315389035259623&rtpof=true&sd=true)
+
+## Sponsors
+
+SUSS is proudly sponsored by:
+
+- [Paddy Pallin](https://www.paddypallin.com.au/)
+- [Outdoor eStore Australia](https://outdoorestore.com.au/)
+- [Climbing Anchors](https://www.climbinganchors.com.au/)
