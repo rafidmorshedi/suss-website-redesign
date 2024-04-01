@@ -11,7 +11,11 @@ permalink: "/tojoin/"
 
 SUSS is a Sydney University student society, our members include students, professionals and experienced cavers. You do not need to be a student or affiliated with Sydney University to join the club. Membership is discounted for students.
 
-Plese note: While you don't need to need to be a student or affiliated with Sydney University to join the club. All SUSS members (student and non-student) are required to hold a current University of Sydney Union (USU) Membership. USU membership is free for current University of Sydney students. Cards for non-students are available for purchase online at the [USU Website](https://usu.edu.au/membership.aspx). Don't forget that your USU Membership entitles you to benefits such as cheap movie tickets, retail discounts and so on, see the website for details.
+Important notes: 
+- While you don't need to need to be a student or affiliated with Sydney University to join the club. All SUSS members (student and non-student) are required to hold a current University of Sydney Union (USU) Membership.
+- USU membership is free for current University of Sydney students. Cards for non-students are available for purchase online at the [USU Website](https://usu.edu.au/membership.aspx). Don't forget that your USU Membership entitles you to benefits such as cheap movie tickets, retail discounts and so on, see the website for details.
+- SUSS membership expires on March 31st each year
+- USU membership expires on December 31st each year
 
 ## How to become a member or renew your membership
 
