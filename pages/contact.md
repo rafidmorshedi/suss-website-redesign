@@ -15,7 +15,7 @@ There are many ways to get in touch with the club. If your query is related to a
 - Got a quick question? Message the [Facebook page](http://www.facebook.com/suss.caves)
 - General Enquiries: usyd.suss@gmail.com
 - Want to interact with other members and see latest expedition updates? Join the [Facebook Group](https://www.facebook.com/groups/4999123669/)
-- Have questions for specific parts of the clup? Reach out to the relevant [committe member]({{ site.url }}{{ site.baseurl }}/about/committee/)
+- Have questions for specific parts of the club? Reach out to the relevant [committee member]({{ site.url }}{{ site.baseurl }}/about/committee/)
 - Snail mail address:  
     Sydney University Speleological Society  
     A23 Manning House  
