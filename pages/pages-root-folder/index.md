@@ -22,7 +22,7 @@ widget3:
   title: "About Us"
   url: '/about/'
   image: vintage_header_square.jpg
-  text: 'SUSS is the oldest caving club on mainland Australia - <a href="/tojoin/">join us</a>. We have an extensive collection of caving literature and a number of caving publications available for purchase. Are you a member of another caving club. Learn more about our collections here. Get in touch with the <a href="/about/committee.html">commitee</a>.'
+  text: 'SUSS is the oldest caving club on mainland Australia - <a href="/tojoin/">join us</a>. We have an extensive collection of caving literature and a number of caving publications available for purchase. Are you a member of another caving club. Learn more about our collections here. Get in touch with the <a href="/about/committee.html">committee</a>.'
 #
 # Use the call for action to show a button on the frontpage
 #
