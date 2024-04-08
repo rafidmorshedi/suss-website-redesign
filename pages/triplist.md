@@ -61,7 +61,7 @@ Trip Organiser: Julius (jpyz490l@gmail.com)
 
 ## May
 
-**10-11 Wellington**  
+**11-12 Wellington**  
 *Unearth a hidden and ancient landscape home of the first Megafauna discovery in Australia*  
 Trip Organiser: Phil (philm8544177@gmail.com)  
 
