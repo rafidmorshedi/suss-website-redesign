@@ -55,7 +55,7 @@ Trip Organiser: Pat (p.larkin@nigelbowen.com.au)
 *Some of the best vertical caving on the mainland*  
 Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
 
-**27-28 [Jenolan](/cavingareas/jenolan/)**  
+**27-28 [Jenolan](/cavingareas/jenolan/) - CANCELLED DUE TO JENOLAN CLOSURES**  
 *Our local caving playground*  
 Trip Organiser: Julius (jpyz490l@gmail.com)    
 
@@ -72,10 +72,8 @@ Trip Organiser: Lily (lil233.lg@gmail.com)
 
 ### Jenolan Trip Dates 2024  
 
-- 13-14 January
-- 10-11 February
-- 9-10 March
-- 13-14 April
+Jenolan is currently closed due to recent weather events. The dates below are tentative.
+
 - 11-12 May
 - 8-9 June
 - 6-14 July
