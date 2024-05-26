@@ -10,12 +10,6 @@
   email: TBA
   image: '/images/comm-caver.jpg'
 
-- position: Gear Officer
-  name: Phil Maynard
-  role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
-  email: philm8544177@gmail.com
-  image: '/images/comm-phil.jpg'
-
 - position: Club Secretary
   name: Arvin Hadlos
   role_desc: "The secretary is responsible for submitting permit requests at the direction of the Trip Organiser."
@@ -27,6 +21,12 @@
   role_desc: "The treasurer manages the society finances and membership fees."
   email: lil233.lg@gmail.com
   image: '/images/comm-lily.jpg'
+
+- position: Gear Officer
+  name: Phil Maynard
+  role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
+  email: philm8544177@gmail.com
+  image: '/images/comm-phil.jpg'
 
 - position: Safety Officer
   name: Gabe Naylor
