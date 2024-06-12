@@ -40,11 +40,11 @@
   email: philm8544177@gmail.com
   image: '/images/comm-phil.jpg'
 
- - position: Publicity Officer
-   name: Jacqui Leather
-   role_desc: "The Publicity Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
-   email: TBA
-   image: '/images/comm-caver.jpg'
+# - position: Publicity Officer
+#   name: Jacqui Leather
+#   role_desc: "The Publicity Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
+ #  email: TBA
+ #  image: '/images/comm-caver.jpg'
    
 
 - position: Minutes Secretary
