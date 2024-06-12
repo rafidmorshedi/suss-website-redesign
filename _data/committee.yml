@@ -7,13 +7,13 @@
 - position: Vice President
   name: Jude Metcalf
   role_desc: "The VP assists the president in running the society, including conducting committee meetings and arranging the trip list."
-  email: TBA
+  email: jmet9477@uni.sydney.edu.au
   image: '/images/comm-caver.jpg'
 
 - position: Club Secretary
   name: Arvin Hadlos
   role_desc: "The secretary is responsible for submitting permit requests at the direction of the Trip Organiser."
-  email: TBA
+  email: ahad6142@uni.syd.edu.au
   image: '/images/comm-caver.jpg'
 
 - position: Treasurer
@@ -23,10 +23,10 @@
   image: '/images/comm-lily.jpg'
 
 - position: Gear Officer
-  name: Phil Maynard
+  name: Rowena Larkins
   role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
-  email: philm8544177@gmail.com
-  image: '/images/comm-phil.jpg'
+  email: rowena1234@hotmail.com
+  image: '/images/comm-caver.jpg'
 
 - position: Safety Officer
   name: Gabe Naylor
@@ -40,11 +40,12 @@
   email: philm8544177@gmail.com
   image: '/images/comm-phil.jpg'
 
-# - position: Publicity Officer
-#   name: Jacqui Leather
-#   role_desc: "The Publicity Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
-#   email: TBA
-#   image: '/images/comm-caver.jpg'
+ - position: Publicity Officer
+   name: Jacqui Leather
+   role_desc: "The Publicity Officer manages the society Facebook page, responding to queries, promoting trips and sharing our love of caves."
+   email: TBA
+   image: '/images/comm-caver.jpg'
+   
 
 - position: Minutes Secretary
   name: Karl Tam
@@ -73,8 +74,8 @@
 - position: Webmaster
   name: Cindy Li
   role_desc: "The webmaster is responsible for looking after the website."
-  email: TBA
-  image: '/images/comm-caver.jpg'
+  email: cindycinders@gmail.com
+  image: '/images/comm-cindy.jpeg'
 
 - position: General
   name: Gabriella Field
@@ -86,4 +87,4 @@
   name: Zenon Platritis
   role_desc: "General committee members provide an extra set of hands in running of the club."
   email:  TBA
-  image: '/images/comm-caver.jpg'
+  image: '/images/comm-zee.jpeg'
