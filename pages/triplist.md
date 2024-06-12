@@ -38,52 +38,51 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## June
 
-**8-10 Timor Caves**
-*Combined trip with Highland Caving Club*
+**8-10 Timor Caves**\
+*Combined trip with Highland Caving Club*\
 Trip Contact: Phil Fleming (0419281291)
 
-**22-23 Wombeyan Caves**
+**22-23 Wombeyan Caves**\
 Trip Contact: Jill Rowling and Phil Maynard (Jillr@speleonics.com.au)
 
 
 ## July
 
-**27-28 Wombeyan Caves**
+**27-28 Wombeyan Caves**\
 Trip Contact: Phil Maynard and Lily Guo, (philm8544177@gmail.com)
 
 
 ## August
 
-**11 Castle Crag SRT Training Abseiling**
+**11 Castle Crag SRT Training Abseiling**\
 Trip Contact: Phil Maynard (philm8544177@gmail.com)
 
-**12 ASF + SUSS Fundraiser Event**
-Register your Attendance Here: https://forms.gle/wehvJmNQfkhjSznw8
-
+**12 ASF + SUSS Fundraiser Event**\
+Register your Attendance Here: https://forms.gle/wehvJmNQfkhjSznw8 \
 *To find out more about the Nullarbor: https://www.abc.net.au/news/2024-04-23/nullarbor-caves-renewable-energy-development-proposal/103758050*
 
-**17-18 Wombeyan Caves**
+**17-18 Wombeyan Caves**\
 Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
 
-**25-31 Mt Etna QLD**
-*Project work included*
+**25-31 Mt Etna QLD**\
+*Project work included*\
 Trip Contact: Rod O’Brien, (constructiondiver@bigpond.com)
 
-**31-1 Kempsey Caves**
+**31-1 Kempsey Caves**\
 Trip Contact: Phil Maynard (philm8544177@gmail.com)
 
 
 ## September
 
-**1-8 Chillagoe QLD**
-*Joint trip with Chillagoe Caving Club. Project work included.*
+**1-8 Chillagoe QLD**\
+*Joint trip with Chillagoe Caving Club. Project work included.*\
 Trip Contact: Rod O’Brien, (constructiondiver@bigpond.com)
 
-**8 The Crag (Near Arncliffe) SRT Training Abseiling**
+**8 The Crag (Near Arncliffe) SRT Training Abseiling**\
 Trip Contact: Phil Maynard (philm8544177@gmail.com)
 
-**14-15 Wombeyan Caves**
+**14-15 Wombeyan Caves**\
 Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
 
-**28-29 Bungonia Caves**
+**28-29 Bungonia Caves**\
 Trip Contact: Phil Maynard (philm8544177@gmail.com)
