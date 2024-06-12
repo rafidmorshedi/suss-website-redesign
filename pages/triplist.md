@@ -35,54 +35,55 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
 
-## March
 
-**29-1 Kempsey**  
-*Head north to explore the lesser-visited Kempsey caves.*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
+## June
 
-## April
+**8-10 Timor Caves**
+*Combined trip with Highland Caving Club*
+Trip Contact: Phil Fleming (0419281291)
 
-**6-7 Borenore**  
-*Enjoy caving with a side of cherry orchard raids and food events in some of the best wine country in NSW.**  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
-**14 SRT training**  
-*Learn the ropes**  
-Trip Organiser: Pat (p.larkin@nigelbowen.com.au)  
-
-**20-21 Bungonia**  
-*Some of the best vertical caving on the mainland*  
-Trip Organiser: Lara (lmun8721@uni.sydney.edu.au)  
-
-**27-28 [Jenolan](/cavingareas/jenolan/) - CANCELLED DUE TO JENOLAN CLOSURES**  
-*Our local caving playground*  
-Trip Organiser: Julius (jpyz490l@gmail.com)    
-
-## May
-
-**11-12 Wellington**  
-*Unearth a hidden and ancient landscape home of the first Megafauna discovery in Australia*  
-Trip Organiser: Phil (philm8544177@gmail.com)  
-
-**18-19 [Wombeyan](/cavingareas/wombeyan/)**  
-*Beautiful marble caves in the Southern Highlands. Excellent formations and lots of kangaroos.*  
-Trip Organiser: Lily (lil233.lg@gmail.com)  
+**22-23 Wombeyan Caves**
+Trip Contact: Jill Rowling and Phil Maynard (Jillr@speleonics.com.au)
 
 
-### Jenolan Trip Dates 2024  
+## July
 
-Jenolan is currently closed due to recent weather events. The dates below are tentative.
+**27-28 Wombeyan Caves**
+Trip Contact: Phil Maynard and Lily Guo, (philm8544177@gmail.com)
 
-- 11-12 May
-- 8-9 June
-- 6-14 July
-- 10-11 August
-- 7-8 September
-- 12-13 October
-- 9-10 November
-- 7-15 December
 
-### Wombeyan Trip Dates 2024
+## August
 
-**To be updated** - The current estimated Wombeyan opening date is unknown.
+**11 Castle Crag SRT Training Abseiling**
+Trip Contact: Phil Maynard (philm8544177@gmail.com)
+
+**12 ASF + SUSS Fundraiser Event**
+Register your Attendance Here: https://forms.gle/wehvJmNQfkhjSznw8
+
+*To find out more about the Nullarbor: https://www.abc.net.au/news/2024-04-23/nullarbor-caves-renewable-energy-development-proposal/103758050*
+
+**17-18 Wombeyan Caves**
+Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
+
+**25-31 Mt Etna QLD**
+*Project work included*
+Trip Contact: Rod O’Brien, (constructiondiver@bigpond.com)
+
+**31-1 Kempsey Caves**
+Trip Contact: Phil Maynard (philm8544177@gmail.com)
+
+
+## September
+
+**1-8 Chillagoe QLD**
+*Joint trip with Chillagoe Caving Club. Project work included.*
+Trip Contact: Rod O’Brien, (constructiondiver@bigpond.com)
+
+**8 The Crag (Near Arncliffe) SRT Training Abseiling**
+Trip Contact: Phil Maynard (philm8544177@gmail.com)
+
+**14-15 Wombeyan Caves**
+Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
+
+**28-29 Bungonia Caves**
+Trip Contact: Phil Maynard (philm8544177@gmail.com)
