@@ -34,18 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-
-
-## June
-
-**8-10 Timor Caves**  
-*Combined trip with Highland Caving Club*   
-Trip Contact: Phil Fleming (0419281291)  
-
-**22-23 Wombeyan Caves**  
-Trip Contact: Jill Rowling and Phil Maynard (Jillr@speleonics.com.au)
-
-
 ## July
 
 **27-28 Wombeyan Caves** CANCELLED  
@@ -54,6 +42,11 @@ Trip Contact: Phil Maynard and Lily Guo, (philm8544177@gmail.com)
 
 
 ## August
+
+**03-04 Katoomba Trail Ride and Geocache Abseiling Adventures**  
+Trip Contact: Emily Butcher (emilyrbutcher@outlook.com)  
+*BYO Mountain bikes and vertical equipment for a adventurous weekend in the mountains*  
+*Weather Permitting*
 
 **11 Castle Crag SRT Training Abseiling**  
 Trip Contact: Phil Maynard (philm8544177@gmail.com)
@@ -87,3 +80,10 @@ Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
 
 **28-29 Bungonia Caves**  
 Trip Contact: Phil Maynard (philm8544177@gmail.com)
+
+
+## Trips to watch out for.  
+
+**April 2025 Tasmania**  
+Trip Contact: Details TBC soon  
+*Come and chase the easter bunny around Tassie with the SUSS team*
