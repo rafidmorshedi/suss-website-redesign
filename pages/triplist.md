@@ -58,6 +58,10 @@ Register your Attendance Here: https://forms.gle/wehvJmNQfkhjSznw8
 **17-18 Wombeyan Caves**   
 Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
 
+**24-25 Wee Jasper**  
+Trip Contact: Emily and Glen (cavinghotline@outlook.com)  
+*Keep out of the tip* 
+
 **25-31 Mt Etna QLD**   
 *Project work included*   
 Trip Contact: Rod O’Brien, (constructiondiver@bigpond.com)
@@ -84,6 +88,9 @@ Trip Contact: Phil Maynard (philm8544177@gmail.com)
 
 ## Trips to watch out for.  
 
-**April 2025 Tasmania**  
-Trip Contact: Details TBC soon  
+**13-25 April 2025 Tasmania**  
+**Caving and SRT experience esential**  
+Planning to apply for permits in the Mole Creek and Junee Florentine areas.  
+Cave options and requests are welcomed.  
+Trip Contact: Emily and Glen (cavinghotline@outlook.com)  
 *Come and chase the easter bunny around Tassie with the SUSS team*
