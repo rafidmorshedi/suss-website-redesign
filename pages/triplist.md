@@ -59,6 +59,7 @@ Register your Attendance Here: https://forms.gle/wehvJmNQfkhjSznw8
 Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
 
 **24-25 Wee Jasper**  
+**SRT Experience Required**  
 Trip Contact: Emily and Glen (cavinghotline@outlook.com)  
 *Keep out of the tip* 
 
