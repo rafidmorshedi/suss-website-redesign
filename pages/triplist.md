@@ -95,3 +95,8 @@ Planning to apply for permits in the Mole Creek and Junee Florentine areas.
 Cave options and requests are welcomed.  
 Trip Contact: Emily and Glen (cavinghotline@outlook.com)  
 *Come and chase the easter bunny around Tassie with the SUSS team*
+
+## Trip Videos 
+
+**August Katoomba Trail Ride**  
+https://youtu.be/NOiHbXr4Nys  
