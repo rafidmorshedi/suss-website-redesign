@@ -92,5 +92,5 @@ Trip Contact: Emily and Glen (cavinghotline@outlook.com)
 
 ## Trip Videos 
 
-**August Katoomba Trail Ride** - [Narrow Neck Trail](https://youtu.be/NOiHbXr4Nys)  
+[Narrow Neck Trail Ride](https://youtu.be/NOiHbXr4Nys)  
 
