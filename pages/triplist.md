@@ -34,13 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## July
-
-**27-28 Wombeyan Caves** CANCELLED  
-Trip Contact: Phil Maynard and Lily Guo, (philm8544177@gmail.com)  
-*Construction works ongoing, trip cancelled. Existing attendees rolled to August
-
-
 ## August
 
 **03-04 Katoomba Trail Ride and Geocache Abseiling Adventures**  
@@ -60,6 +53,7 @@ Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
 
 **24-25 Wee Jasper**  
 **SRT Experience Required**  
+**Trip is Full Waiting list only**  
 Trip Contact: Emily and Glen (cavinghotline@outlook.com)  
 *Keep out of the tip* 
 
@@ -98,5 +92,5 @@ Trip Contact: Emily and Glen (cavinghotline@outlook.com)
 
 ## Trip Videos 
 
-**August Katoomba Trail Ride**  
-[Narrow Neck Trail](https://youtu.be/NOiHbXr4Nys)  
+**August Katoomba Trail Ride** | [Narrow Neck Trail](https://youtu.be/NOiHbXr4Nys)  
+
