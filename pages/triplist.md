@@ -93,4 +93,4 @@ Trip Contact: Emily and Glen (cavinghotline@outlook.com)
 ## Trip Videos 
 
 [Narrow Neck Trail Ride](https://youtu.be/NOiHbXr4Nys)  
-
+[Middle Cove SRT Day](https://youtu.be/PVwuTJvQgo0)  
