@@ -80,6 +80,13 @@ Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
 **28-29 Bungonia Caves**  
 Trip Contact: Phil Maynard (philm8544177@gmail.com)
 
+## October
+
+**5-7 Lithgow Bungleboori canyons**  
+**Canyon Experience Required**  
+**Overnight and canyon gear required**  
+Trip Contact: Emily and Glen [RSPV Here](https://forms.office.com/r/VdPCDiwEqD)  
+*Come and join us in the secret canyons of the bungleboori perhaps we might even tackle the famous crikey canyon* 
 
 ## Trips to watch out for.  
 
