@@ -84,7 +84,7 @@ Trip Contact: Phil Maynard (philm8544177@gmail.com)
 
 **5-7 Lithgow Bungleboori canyons**  
 **Canyon Experience Required**  
-**Overnight and canyon gear required**  
+**Remote Hiking Overnight and canyon gear required**  
 Trip Contact: Emily and Glen [RSPV Here](https://forms.office.com/r/VdPCDiwEqD)  
 *Come and join us in the secret canyons of the bungleboori perhaps we might even tackle the famous crikey canyon* 
 
