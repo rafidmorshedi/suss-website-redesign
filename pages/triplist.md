@@ -34,37 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## August
-
-**03-04 Katoomba Trail Ride and Geocache Abseiling Adventures**  
-Trip Contact: Emily Butcher (emilyrbutcher@outlook.com)  
-*BYO Mountain bikes and vertical equipment for a adventurous weekend in the mountains*  
-*Weather Permitting*
-
-**11 Castle Crag SRT Training Abseiling**  
-Trip Contact: Phil Maynard (philm8544177@gmail.com)
-
-**12 ASF + SUSS Fundraiser Event**   
-Register your Attendance Here: https://forms.gle/wehvJmNQfkhjSznw8   
-*To find out more about the Nullarbor: https://www.abc.net.au/news/2024-04-23/nullarbor-caves-renewable-energy-development-proposal/103758050*
-
-**17-18 Wombeyan Caves**   
-Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
-
-**24-25 Wee Jasper**  
-**SRT Experience Required**  
-**Trip is Full Waiting list only**  
-Trip Contact: Emily and Glen (cavinghotline@outlook.com)  
-*Keep out of the tip* 
-
-**25-31 Mt Etna QLD**   
-*Project work included*   
-Trip Contact: Rod O’Brien, (constructiondiver@bigpond.com)
-
-**31-1 Kempsey Caves**   
-Trip Contact: Phil Maynard (philm8544177@gmail.com)
-
-
 ## September
 
 **1-8 Chillagoe QLD**  
