@@ -91,7 +91,7 @@ Trip Contact: Emily and Glen [RSVP Here](https://forms.office.com/r/VdPCDiwEqD)
 ## Trips to watch out for.  
 
 **5-24 April 2025 Tasmania**  
-**Caving and SRT experience esential**  
+**Caving and SRT experience essential**  
 Planning to apply for permits in the Mole Creek and Junee Florentine areas.  
 Cave options and requests are welcomed.  
 Trip Contact: Emily and Glen [RSVP Here](https://forms.office.com/r/GyiuMhB38Z)   
