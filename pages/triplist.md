@@ -49,27 +49,27 @@ Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au
 **19-20 Wombeyan Caves Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com  
 
-**19-20 Borenore Caves Trip + Wine Fest :D**  
+**26-27 Borenore Caves Trip + Wine Fest :D**  
 Trip Contact: Lily Guo lil233.Ig@gmail.com  
 
 ## November
 
-**9-10 Wyanbene Caves Trip**
-Trip Contact: Phil Maynard philm8544177@gmail.com  
+**9-10 Wyanbene Caves Trip**  
+Trip Contact: Phil Maynard  philm8544177@gmail.com  
 
-**23-24 Wombeyan Caves Trip**
+**23-24 Wombeyan Caves Trip**  
 Trip Contact: TBC  
 
-**29-1 Bungonia Christmas Party with Bushwalkers Society Collab!**
+**29-1 Bungonia Christmas Party with Bushwalkers Society Collab!**  
 Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
 
 
 ## December
 
-**7-8 Canyoning Trip**
+**7-8 Canyoning Trip**  
 Trip Contact: TBC
 
-**Kempsey Caves Trip**
+**Kempsey Caves Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com  
 
 
