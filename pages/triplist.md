@@ -34,20 +34,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 **SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
 
-## September
-
-**1-8 Chillagoe QLD**  
-*Joint trip with Chillagoe Caving Club. Project work included.*  
-Trip Contact: Rod O’Brien, (constructiondiver@bigpond.com)
-
-**8 The Crag (Near Arncliffe) SRT Training Abseiling**  
-Trip Contact: Phil Maynard (philm8544177@gmail.com)
-
-**14-15 Wombeyan Caves**  
-Trip Contact: Jill Rowling (Jillr@speleonics.com.au)
-
-**28-29 Bungonia Caves**  
-Trip Contact: Phil Maynard (philm8544177@gmail.com)
 
 ## October
 
@@ -56,6 +42,36 @@ Trip Contact: Phil Maynard (philm8544177@gmail.com)
 **Remote Hiking Overnight and canyon gear required**  
 Trip Contact: Emily and Glen [RSVP Here](https://forms.office.com/r/VdPCDiwEqD)  
 *Come and join us in the secret canyons of the bungleboori perhaps we might even tackle the famous crikey canyon* 
+
+**5-6 Bungonia Caves Trip with Bouldersoc Collab!**  
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+
+**19-20 Wombeyan Caves Trip**  
+Trip Contact: Phil Maynard philm8544177@gmail.com  
+
+**19-20 Borenore Caves Trip + Wine Fest :D**  
+Trip Contact: Lily Guo lil233.Ig@gmail.com  
+
+## November
+
+**9-10 Wyanbene Caves Trip**
+Trip Contact: Phil Maynard philm8544177@gmail.com  
+
+**23-24 Wombeyan Caves Trip**
+Trip Contact: TBC  
+
+**29-1 Bungonia Christmas Party with Bushwalkers Society Collab!**
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+
+
+## December
+
+**7-8 Canyoning Trip**
+Trip Contact: TBC
+
+**Kempsey Caves Trip**
+Trip Contact: Phil Maynard philm8544177@gmail.com  
+
 
 ## Trips to watch out for.  
 
