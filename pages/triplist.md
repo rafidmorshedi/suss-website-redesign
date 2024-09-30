@@ -86,3 +86,5 @@ Trip Contact: Emily and Glen [RSVP Here](https://forms.office.com/r/GyiuMhB38Z)
 
 [Narrow Neck Trail Ride](https://youtu.be/NOiHbXr4Nys)  
 [Middle Cove SRT Day](https://youtu.be/PVwuTJvQgo0)  
+[Bungonia September Trip](https://youtu.be/tYWzsWetYX8?si=HnQF-SwyjPQbVbld)  
+
