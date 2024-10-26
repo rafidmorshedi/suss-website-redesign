@@ -37,12 +37,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 ## October
 
-**5-7 Lithgow Bungleboori canyons**  
-**Canyon Experience Required**  
-**Remote Hiking Overnight and canyon gear required**  
-Trip Contact: Emily and Glen [RSVP Here](https://forms.office.com/r/VdPCDiwEqD)  
-*Come and join us in the secret canyons of the bungleboori perhaps we might even tackle the famous crikey canyon* 
-
 **5-6 Bungonia Caves Trip with Bouldersoc Collab!**  
 Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
 
@@ -71,16 +65,6 @@ Trip Contact: TBC
 
 **Kempsey Caves Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com  
-
-
-## Trips to watch out for.  
-
-**5-24 April 2025 Tasmania**  
-**Caving and SRT experience essential**  
-Planning to apply for permits in the Mole Creek and Junee Florentine areas.  
-Cave options and requests are welcomed.  
-Trip Contact: Emily and Glen [RSVP Here](https://forms.office.com/r/GyiuMhB38Z)   
-*Come and chase the easter bunny around Tassie with the SUSS team*   
 
 ## Trip Videos 
 
