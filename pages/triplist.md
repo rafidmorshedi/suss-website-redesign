@@ -30,9 +30,7 @@ If you would like to join a trip, please get in touch with the trip leader and l
     -   tents
 - No pets on trips
 
-For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).
-
-**SOCIAL DISTANCING MEASURES WILL BE IN PLACE FOR ALL TRIPS**   
+For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).     
 
 
 ## October
@@ -52,7 +50,7 @@ Trip Contact: Lily Guo lil233.Ig@gmail.com
 Trip Contact: Phil Maynard  philm8544177@gmail.com  
 
 **23-24 Wombeyan Caves Trip**  
-Trip Contact: TBC  
+Trip Contact: Phil Maynard philm8544177@gmail.com  
 
 **29-1 Bungonia Christmas Party with Bushwalkers Society Collab!**  
 Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
