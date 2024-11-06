@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Join Us"
 subheadline: 'Explore. Get fit. Meet adventurous folk. An experience like no other.'
-teaser: "Anyone can become a member of the club. We do not require membership for you to attend club trips, however, two conditions apply.*"
+teaser: "Anyone can become a member of the club, whether you are a complete beginner, or an experienced spelunker! *"
 header:
    image_fullwidth: "bottomless_simon_pbaxter.jpg"
    caption: 'One of the more spectacular caves we visit. Photo: Pete Baxter'
@@ -35,9 +35,6 @@ Pay by EFT to Sydney University Speleological Society, then fill out the form on
 
 Print out the membership form below, fill it out and post it to SUSS at the address listed on the top of the form with a cheque or money made out to Sydney University Speleological Society
 
-​
-## * Why become a member
-​
-Club members have priority on registering for trips, if a trip fills up, non members will be asked to join or forfeit their place. If you have been or intend to come on multiple trips and live in Sydney it is reasonable to expect you to join. We charge $30 per trip for non-members, this can go towards full membership in that calendar year if you decide to do so later (so keep your receipts!).
+
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/assets/membership_form.pdf">Download a membership form now ›</a>
