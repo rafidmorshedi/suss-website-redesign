@@ -61,7 +61,7 @@ Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au
 **7-8 Canyoning Trip**  
 Trip Contact: TBC
 
-**Kempsey Caves Trip**  
+**13-15 Kempsey Caves Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com  
 
 ## Trip Videos 
