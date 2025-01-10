@@ -33,36 +33,33 @@ If you would like to join a trip, please get in touch with the trip leader and l
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).     
 
 
-## October
+## February
 
-**5-6 Bungonia Caves Trip with Bouldersoc Collab!**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+**1-8 Cooleman Trip**  
+Trip Contact: TBA 
 
-**19-20 Wombeyan Caves Trip**  
+**22-23 Wombeyan Caves Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com  
 
-**26-27 Borenore Caves Trip + Wine Fest :D**  
-Trip Contact: Lily Guo lil233.Ig@gmail.com  
+## March
 
-## November
+**1-2 Canyoning Trip (1 day)**  
+Trip Contact: Phil Maynard philm8544177@gmail.com   
 
-**9-10 Wyanbene Caves Trip**  
-Trip Contact: Phil Maynard  philm8544177@gmail.com  
+**15-16 SRT Training BBQ**  
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au
 
-**23-24 Wombeyan Caves Trip**  
-Trip Contact: Phil Maynard philm8544177@gmail.com  
+**22-23 Wombeyan Caves Trip**  
+Trip Contact: Lily Guo
 
-**29-1 Bungonia Christmas Party with Bushwalkers Society Collab!**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+**29-30 Borenore Trip**  
+Trip Contact: Phil Maynard philm8544177@gmail.com 
 
+## April
 
-## December
+**5-6 Canyoning Trip**  
+Trip Contact: Phil Maynard philm8544177@gmail.com 
 
-**7-8 Canyoning Trip**  
-Trip Contact: TBC
-
-**13-15 Kempsey Caves Trip**  
-Trip Contact: Phil Maynard philm8544177@gmail.com  
 
 ## Trip Videos 
 
