@@ -50,7 +50,7 @@ Trip Contact: Phil Maynard philm8544177@gmail.com
 Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au
 
 **22-23 Wombeyan Caves Trip**  
-Trip Contact: Lily Guo
+Trip Contact: Lily Guo lil233.lg@gmail.com
 
 **29-30 Borenore Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com 
