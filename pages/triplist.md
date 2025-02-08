@@ -38,7 +38,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 **1-8 Cooleman Trip**  
 Trip Contact: TBA 
 
-**22-23 Wombeyan Caves Trip**  
+~~ **22-23 Wombeyan Caves Trip** ~~ CANCELLED
 Trip Contact: Phil Maynard philm8544177@gmail.com  
 
 ## March
