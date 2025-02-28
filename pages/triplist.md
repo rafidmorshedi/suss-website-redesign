@@ -46,6 +46,11 @@ Trip Contact: Phil Maynard philm8544177@gmail.com
 **15-16 SRT Training BBQ**  
 Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au
 
+
+**21st:  Monthly Bouldering Evening: 6:00pm-8:30pm**  
+Come for some bouldering fun at Nomad Bouldering Gym Annandale (and hone your cave climbing skills).  
+Trip Contact: Julius Pucci:  jpyz490l@gmail.com  
+
 **22-23 Wombeyan Caves Trip**  
 Trip Contact: Lily Guo lil233.lg@gmail.com
 
