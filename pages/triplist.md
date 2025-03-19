@@ -49,6 +49,7 @@ Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au
 
 **21st:  Monthly Bouldering Evening: 6:00pm-8:30pm**  
 Come for some bouldering fun at Nomad Bouldering Gym Annandale (and hone your cave climbing skills).  
+Cost: Students $14.  Non-students $24.  
 Trip Contact: Julius Pucci:  jpyz490l@gmail.com  
 
 **22-23 Wombeyan Caves Trip**  
