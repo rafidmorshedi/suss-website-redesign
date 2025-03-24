@@ -65,8 +65,7 @@ Trip Contact: Phil Maynard philm8544177@gmail.com
 
 
 ## Trip Videos 
-
-[Narrow Neck Trail Ride](https://youtu.be/NOiHbXr4Nys)  
+ 
 [Middle Cove SRT Day](https://youtu.be/PVwuTJvQgo0)  
 [Bungonia September Trip](https://youtu.be/tYWzsWetYX8?si=HnQF-SwyjPQbVbld)  
 
