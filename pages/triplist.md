@@ -33,41 +33,47 @@ If you would like to join a trip, please get in touch with the trip leader and l
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).     
 
 
-## February
-
-**1-8 Cooleman Trip**  
-Trip Contact: TBA 
-
-## March
-
-**1-2 Canyoning Trip (1 day)**  
-Trip Contact: Phil Maynard philm8544177@gmail.com   
-
-**15-16 SRT Training BBQ**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au
-
-
-**21st:  Monthly Bouldering Evening: 6:00pm-8:30pm**  
-Come for some bouldering fun at Nomad Bouldering Gym Annandale (and hone your cave climbing skills).  
-Cost: Students $14.  Non-students $24.  
-Trip Contact: Julius Pucci:  jpyz490l@gmail.com  
-
-**22-23 Wombeyan Caves Trip**  
-Trip Contact: Lily Guo lil233.lg@gmail.com
-
-**29-30 Borenore Trip**  
-Trip Contact: Phil Maynard philm8544177@gmail.com 
-
 ## April
 
 **5-6 Canyoning Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com 
 
-
 **18-27 Nullarbor caves, WA**  
 Trip leader Deborah Johnston (birinxi@gmail.com)  
 Required: Own transportation and equipment, SRT skills, advanced caving skills  
 
+## May  
+
+**3-4 Wombeyan Caves Trip**  
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+
+**3-4 Wee Jasper Caves Trip**  
+Trip Contact: Phil Maynard philm8544177@gmail.com  
+
+**15 Thursday Monthly Climbing at The Ledge: 6pm - 9am**  
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+
+**16-18 Remote Area First Aid Course**  
+Trip Contact: Cindy Li cindycinders@gmail.com  
+Please reach out by 19th of April if you are interested in attending this first aid course!  
+
+**31-1 Wombeyan Caves Trip**  
+Trip Contact: Phil Maynard philm8544177@gmail.com  
+
+## June  
+
+**6 International Cave Day!**  
+
+**7-9 Bouldersoc Collab? Location: TBD**  
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+
+**21-22 Wombeyan Caves Trip**  
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+
+**12 Thursday Monthly Climbing at The Ledge: 6pm - 9am**  
+Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
+
+ 
 
 ## Trip Videos 
  
