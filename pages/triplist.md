@@ -47,7 +47,7 @@ Required: Own transportation and equipment, SRT skills, advanced caving skills
 **3-4 Wombeyan Caves Trip**  
 Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
 
-**3-4 Wee Jasper Caves Trip**  
+**10-11 Wee Jasper Caves Trip**  
 Trip Contact: Phil Maynard philm8544177@gmail.com  
 
 **15 Thursday Monthly Climbing at The Ledge: 6pm - 9am**  
