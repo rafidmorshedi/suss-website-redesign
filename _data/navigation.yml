@@ -107,6 +107,12 @@
 #   url: "/search/"
 #   side: right
 
+- title: "Instagram"
+  url: https://www.instagram.com/usyd_speleological_society/
+  class: icon-instagram
+  side: right
+ 
+
 - title: "Contact"
   url: "/contact/"
   side: right
