@@ -1,4 +1,4 @@
-<div class="small-12 large-3 columns frontpage-widget">
+<div class="small-12 medium-5 large-3 columns frontpage-widget">
 	{% capture widget_url %}{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}{% endcapture %}
 	{% if include.widget.video %}
 		{{ include.widget.video }}
@@ -16,7 +16,7 @@
 	{% endif %}
 </div>
 
-<div class="small-12 large-9 columns frontpage-widget">
+<div class="small-12 medium-7 large-9 columns frontpage-widget">
 	<h2 class="font-size-h3 t10">{{ include.widget.title }}</h2>
 	<p>{{ include.widget.text }}</p>
 	<p><a class="button tiny radius" href="{% if include.widget.url contains 'http' %}{{ include.widget.url }}{% else %}{{ site.url }}{{ site.baseurl }}{{ include.widget.url }}{% endif %}">{{ site.data.language.more }}</a></p>
