@@ -17,7 +17,7 @@ widget2:
   title: "New to caving?"
   url: '/learn/'
   text: 'Never been caving before? All of our trips are beginner friendly unless stated otherwise. Trips are catered to all abilities and members can borrow equipment for free from the club. Caving is a great way to do something different with your weekend; you will explore new places, meet new people and learn a lot of new skills. If you are lucky you may even go where no person has ever gone before.'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/start-video-P5120065.jpg" width="506" height="506" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/start-video-P5120065.jpg" width="100%" height="100%" alt=""/></a>'
 widget3:
   title: "About Us"
   url: '/about/'
