@@ -11,15 +11,19 @@ categories:
     - members
 ---
 
-## University of Sydney documents
+## University of Sydney Documents
 
 - [SUSS Constitution](/assets/constitution.pdf)
 - [SUSS By-Laws](/assets/bylaws.pdf)
 
+## Becoming a Trip Leader Documents
+- [Trip Leader form (old)](/assets/tripleader.pdf)
+- [Trip Leader SRT SKills Matrix Checklist](/assets/SRT_matrix_checklist.pdf)
+- [Trip Leader SRT SKills Matrix Details](/assets/SRT_matrix_details.pdf)
+
 ## Other Documents
 
 - [NSW NPWS Trip report](/assets/suss_trip_report.pdf)
-- [Trip Leader form](/assets/tripleader.pdf)
 - [SUSS First Aider list](https://drive.google.com/drive/folders/1CyJwBOjTCAOrPz4VAKy6E-BpgBJT2ocj?usp=sharing)
 - [Gear Audit](https://docs.google.com/spreadsheets/d/1uoEjM_yLM4OrTR-Re7ItCbbedJEmRCYu/edit?usp=sharing&ouid=101118315389035259623&rtpof=true&sd=true)
 
