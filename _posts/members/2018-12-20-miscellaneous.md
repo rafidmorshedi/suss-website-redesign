@@ -18,8 +18,8 @@ categories:
 
 ## Becoming a Trip Leader Documents
 - [Trip Leader form (old)](/assets/tripleader.pdf)
-- [Trip Leader SRT SKills Matrix Checklist](/assets/SRT_matrix_checklist.xlsx)
-- [Trip Leader SRT SKills Matrix Details](/assets/Skill_matrix_details.pdf)
+- [Trip Leader SRT Skills Matrix Checklist](/assets/SRT_matrix_checklist.xlsx)
+- [Trip Leader SRT Skills Matrix Details](/assets/Skill_matrix_details.pdf)
 
 ## Other Documents
 
