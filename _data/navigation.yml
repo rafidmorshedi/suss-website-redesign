@@ -107,9 +107,12 @@
 #   url: "/search/"
 #   side: right
 
-- title: "Instagram"
-  url: https://www.instagram.com/usyd_speleological_society/
+- url: https://www.instagram.com/usyd_speleological_society/
   class: icon-instagram
+  side: right
+
+- url: http://www.facebook.com/suss.caves/
+  class: icon-facebook
   side: right
  
 
