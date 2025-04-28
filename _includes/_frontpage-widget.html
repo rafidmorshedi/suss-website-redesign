@@ -10,7 +10,7 @@
 					{%comment%}<img class="lazy" data-src="{% if include.widget.image contains='http://' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}" alt="" />{%endcomment%}
 					{%comment%}<noscript>{%endcomment%}
 					{% capture widget_image %}{% if include.widget.image contains 'http' %}{{ include.widget.image }}{% else %}{{ site.urlimg }}{{ include.widget.image }}{% endif %}{% endcapture %}
-					<img src="{{widget_image}}" alt="" />
+					<center><img src="{{widget_image}}" alt="" /></center>
 					{%comment%}</noscript>{%endcomment%}
 				{% endif %}
 			</a>
