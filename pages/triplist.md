@@ -58,5 +58,6 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 ## Trip Videos 
  
 [Middle Cove SRT Day](https://youtu.be/PVwuTJvQgo0)  
-[Bungonia September Trip](https://youtu.be/tYWzsWetYX8?si=HnQF-SwyjPQbVbld)  
+[Bungonia September Trip](https://youtu.be/tYWzsWetYX8?si=HnQF-SwyjPQbVbld)
+[Check out our instagram for more!](https://www.instagram.com/usyd_speleological_society/)
 
