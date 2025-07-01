@@ -32,46 +32,26 @@ If you would like to join a trip, please get in touch with the trip leader and l
 
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).     
 
+## Trip Calendar
 
-## April
+| **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
+| :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- |
+| 17th July             | Evening        | MONTHLY CLIMBING & SRT AT THE LEDGE!            | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
+| 26th - 27th July      | Weekend        | Wombeyan Caves                                  | TBD - Contact Mark for now ([mluo0455@uni.sydney.edu.au](mailto:mluo0455@uni.sydney.edu.au)) |
+| 7th August            | Evening        | MONTHLY CLIMBING & SRT AT THE LEDGE!            | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
+| 9th - 10th August     | Weekend        | Kempsey Caves with KSS                          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
+| 23rd August           | Day Trip       | SRT Training & BBQ Day @ Browns Road, Wahroonga | Mark ([mluo0455@uni.sydney.edu.au](mailto:mluo0455@uni.sydney.edu.au))<br><br>               |
+| 30th - 31st August    | Weekend        | Wombeyan Caves                                  | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
+| 6th - 7th September   | Weekend        | Bungonia                                        | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
+| 13th - 14th September | Weekend        | Wombeyan Caves                                  | TBD - Contact Mark for now ([mluo0455@uni.sydney.edu.au](mailto:mluo0455@uni.sydney.edu.au)) |
+| 18th September        | Evening        | MONTHLY CLIMBING & SRT AT THE LEDGE!            | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
+| 27th September        | Weekend        | SRT Training Day @ Blaxland (and BBQ?)          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
+| 4th-6th October       | (Long) Weekend | Colong Caves with NUCC                          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
+| 16th October          | Evening        | MONTHLY CLIMBING & SRT AT THE LEDGE!            | TBD - Contact Mark for now ([mluo0455@uni.sydney.edu.au](mailto:mluo0455@uni.sydney.edu.au)) |
+| 25th - 26th October   | Weekend        | Wombeyan Caves                                  | Lara Munahe (lmun8721@uni.sydney.edu.au)
 
-**5-6 Canyoning Trip**  
-Trip Contact: Phil Maynard philm8544177@gmail.com 
 
-**18-27 Nullarbor caves, WA**  
-Trip leader Deborah Johnston (birinxi@gmail.com)  
-Required: Own transportation and equipment, SRT skills, advanced caving skills  
 
-## May  
-
-**3-4 Wombeyan Caves Trip**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
-
-**10-11 Wee Jasper Caves Trip**  
-Trip Contact: Phil Maynard philm8544177@gmail.com  
-
-**15 Thursday Monthly Climbing at The Ledge: 6pm - 9am**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
-
-**16-18 Remote Area First Aid Course**  
-Trip Contact: Cindy Li cindycinders@gmail.com  
-Please reach out by 19th of April if you are interested in attending this first aid course!  
-
-**31-1 Wombeyan Caves Trip**  
-Trip Contact: Phil Maynard philm8544177@gmail.com  
-
-## June  
-
-**6 International Cave Day!**  
-
-**7-9 Bouldersoc Collab? Location: TBD**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
-
-**21-22 Wombeyan Caves Trip**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
-
-**12 Thursday Monthly Climbing at The Ledge: 6pm - 9am**  
-Trip Contact: Lara Munahe lmun8721@uni.sydney.edu.au  
 
  
 
