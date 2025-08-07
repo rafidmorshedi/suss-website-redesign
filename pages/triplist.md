@@ -39,7 +39,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 17th July             | Evening        | MONTHLY CLIMBING & SRT AT THE LEDGE!            | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
 | ~~26th - 27th July~~      | ~~Weekend~~        | ~~Wombeyan Caves~~                                  | CANCELLED |
 | ~~7th August~~         | ~~Evening~~        | ~~MONTHLY CLIMBING & SRT AT THE LEDGE!~~        | Unfortunately, SRT practice will NOT be available due to some renovations at The Ledge this month. Feel free to come for a climb instead!)                       |
-| 9th - 10th August     | Weekend        | Kempsey Caves with KSS                          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
+| ~~9th - 10th August~~     | ~~Weekend~~        | ~~Kempsey Caves with KSS~~                          | CANCELLED Due to Weather                      |
 | 23rd August           | Day Trip       | SRT Training & BBQ Day @ Browns Road, Wahroonga | Mark ([mluo0455@uni.sydney.edu.au](mailto:mluo0455@uni.sydney.edu.au))<br><br>               |
 | 30th - 31st August    | Weekend        | Wombeyan Caves                                  | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
 | 6th - 7th September   | Weekend        | Bungonia                                        | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
