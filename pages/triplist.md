@@ -43,7 +43,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 23rd August           | Day Trip       | SRT Training & BBQ Day @ Browns Road, Wahroonga | Mark ([mluo0455@uni.sydney.edu.au](mailto:mluo0455@uni.sydney.edu.au))<br><br>               |
 | 30th - 31st August    | Weekend        | Wombeyan Caves                                  | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
 | 6th - 7th September   | Weekend        | Bungonia                                        | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
-| ~~13th - 14th September~~ | ~~Weekend~~        | ~~Wombeyan Caves~~                                  |  CANCELLED |
+| 13th - 14th September | Weekend        | Borenore                                |  Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))  |
 | 18th September        | Evening        | MONTHLY CLIMBING & SRT AT THE LEDGE!            | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
 | 27th September        | Weekend        | SRT Training Day @ Blaxland (and BBQ?)          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
 | 4th-6th October       | (Long) Weekend | Colong Caves with NUCC                          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
