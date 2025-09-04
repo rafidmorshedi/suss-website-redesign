@@ -34,6 +34,13 @@
   nonmember_price: 10
   thumbnail: /images/pub-mammothbook.jpg
 
+- name: AUSTRALIAN CAVE DIVING New South Wales
+  yesr: 2018
+  description: "A full colour 288 page book containing diving history, trip reports and maps. Illustrated with 254 photos including 58 historical photos from the 1950’s." 
+  member_price: "$60 + $18 postage and packaging"
+  nonmember_price: "$60 + $18 postage and packaging"
+  thumbnail: /images/pub-cavediving.jpg
+
 - name: Northern Limestone (Out of stock/print)
   year: 1976
   description: "Description, maps for the caves of the northern limestone, Jenolan"
