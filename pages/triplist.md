@@ -44,7 +44,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 30th - 31st August    | Weekend        | Wombeyan Caves                                  | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
 | 6th - 7th September   | Weekend        | Bungonia                                        | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
 | 13th - 14th September | Weekend       | Borenore                                |  Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))  |
-| 18th September        | Evening        | MONTHLY CLIMBING & SRT AT THE LEDGE!            | Cindy ([cindycinders@gmail.com](mailto:cindycinders@gmail.com))                              |
+| ~~18th~~ 25th September        | Evening (~6pm)       | MONTHLY CLIMBING & SRT AT THE LEDGE!    - This has been postponed to 25th September  | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                               |
 | 26th-28th September        | Weekend        | Yarrangobilly          | Deborah Johnson ([birinxi@gmail.com](mailto:birinxi@gmail.com))                       |
 |  27th September        | Weekend        | SRT Training Day @ Blaxland (and BBQ?)          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
 | 4th-6th October       | (Long) Weekend | Colong Caves with NUCC                          | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))                       |
