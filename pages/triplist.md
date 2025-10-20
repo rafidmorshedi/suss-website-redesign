@@ -37,7 +37,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- |
 | 25th - 26th October       | Weekend (Departing Friday night)        | Wombeyan Caves           | Lara Munahe (lmun8721@uni.sydney.edu.au)                          |
-| 15th - 16th November | Weekend (Departing Friday night)       | Borenore Caves - Tentative                  |  TBD - Contact Mark for now (mluo0455@uni.sydney.edu.au)  |
+
 | 20th November        | Evening (~6pm)       | Monthly Climbing & SRT Night at The Ledge, USYD | Cindy ([usyd.suss@gmail.com](mailto:usyd.suss@gmail.com))              |
 | 29th - 30th November        | Weekend (Departing Friday night) | Wombeyan Caves           | Phil Maynard ([philm8544177@gmail.com](mailto:philm8544177@gmail.com))        |
 | 6th - 7th December        | Weekend (Departing Friday night)        | SUSS Christmas Party At Bungonia Caves!           |Lara Munahe (lmun8721@uni.sydney.edu.au)  |
