@@ -43,12 +43,10 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 20th - 21st December   | Weekend        | Canyoning in the Blue Mountains                                 | [Phil M ](mailto:philm8544177@gmail.com)
 
 
-
- 
-
 ## Trip Videos 
  
 [Middle Cove SRT Day](https://youtu.be/PVwuTJvQgo0)  
 [Bungonia September Trip](https://youtu.be/tYWzsWetYX8?si=HnQF-SwyjPQbVbld)  
 [Check out our instagram for more!](https://www.instagram.com/usyd_speleological_society/)
 
+{% include instagram %}
