@@ -7,16 +7,44 @@ This is the repository for the Sydney Univeristy Speleological Society(SUSS).
 ![Build and deploy to ASF server](https://github.com/rafidmorshedi/suss-website-redesign/actions/workflows/push-to-asf.yml/badge.svg)
 
 ## Documentation TO DO
-- How to update the trip list
 - How travis CI works
 - The structure of the website
 - how to mainitain the website
 
+## Updating the Trip List
+- The trip list is a Markdown table in the [triplist.md](./pages/triplist.md) file
+- Changes to this file will update the triplist page.
+- Details about Markdown syntax [here](https://www.markdownguide.org/extended-syntax/).
 
-## You like and use this theme? Then support me. Just [paypal.me/PhlowMedia](https://www.paypal.me/PhlowMedia) :)
+## Build / Maintenance instructions
+- [Clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- Use Ruby v2.5.1 (via [rbenv](https://github.com/rbenv/rbenv) and [ruby-build](https://github.com/rbenv/ruby-build#readme))
+  - Then `rbenv install 2.5.1 && rbenv global 2.5.1`
+  - Note: These specific versions are important.
+- Install `bundler v1.16.1` via `gem install`
+- Run `bundle install` to install dependencies
+- Run `bundler exec jekyll serve` to view the website locally at `http://localhost:4000`.
+- Make any changes to the files and watch them update live.
+- Once happy with your changes, commit your changes to Github.
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Phlow&url=https://github.com/Phlow/feeling-responsive&title=Support%20Feeling%20Responsive%20Jekyll%20Theme&language=en_GB&tags=github,jekyll,theme,webdesign&category=software)
+The website is published using a Github [Action](https://github.com/rafidmorshedi/suss-website-redesign/actions). The Github Pages deployment is no longer in use.
 
+## Website Structure
+- Files within the "_posts" folder will become pages of their own.
+  - For example, the `about` folder has a file called `2018-12-20-committee.html`.
+  - The date will be removed, and the link to the page will be `/about/committee`.
+  - Renaming the file to `2018-12-20-team.html` will move the page to `/about/team`. 
+  - The date is compulsory, but will be ignored. The format must be **exactly** `YYYY-MM-DD-your-title-here.md` or `.html`
+
+- Files within the "pages" folder also become pages of their own, but you can control their link with more power.
+  - See any of the existing pages for examples.
+
+- The "_data" folder contains lots of data to dynamically update information across the website.
+  - For example, changes to the [publications.yml](./_data/publications.yml) file automatically update the entries on the [publications page](https://suss.caves.org.au/about/publications/).
+  - `navigation.yml` controls the navigation bar at the top of the website.
+  
+
+<hr>
 
 # Newsletter: Stay in Touch for Future Updates
 
