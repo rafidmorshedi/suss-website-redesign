@@ -19,3 +19,8 @@
   url: "https://www.flaticon.com/"
   class: "sitemap-link"
   title: "Icons from Flaticon"
+
+- name: "Our Sponsors"
+  url: "/members/miscellaneous/#sponsors"
+  class: "sitemap-link"
+  title: "Our Sponsors"
