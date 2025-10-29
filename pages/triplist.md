@@ -39,7 +39,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 25th - 26th October       | Weekend (Departing Friday night)        | Wombeyan Caves           | [Lara M](mailto:munahelara@gmail.com)            |  
 | 20th November        | Evening (~6pm)       | Monthly Climbing & SRT Night at The Ledge, USYD | Cindy ([usyd.suss@gmail.com](mailto:usyd.suss@gmail.com))              |
 | 29th - 30th November        | Weekend (Departing Friday night) | Wombeyan Caves           | [Phil M ](mailto:philm8544177@gmail.com)      |
-| 6th - 7th December        | Weekend (Departing Friday night)        | SUSS Christmas Party At Bungonia Caves!           |[Lara M](mailto:munahelara@gmail.com) |
+| 6th - 7th December        | Weekend (Departing Friday night)        | SUSS Christmas Party At Bungonia Caves!           |[Mark C](mailto:mluo0455@uni.sydney.edu.au) |
 | 20th - 21st December   | Weekend        | Canyoning in the Blue Mountains                                 | [Phil M ](mailto:philm8544177@gmail.com)
 
 
