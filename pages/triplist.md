@@ -41,7 +41,8 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 29th - 30th November        | Weekend (Departing Friday night) | Wombeyan Caves           | [Phil M ](mailto:philm8544177@gmail.com)      |
 | 6th - 7th December        | Weekend (Departing Friday night)        | SUSS Christmas Party At Bungonia Caves!           |[Mark C](mailto:mluo0455@uni.sydney.edu.au) |
 | ~~20th - 21st December~~ *Updated - Sun 21st - Mon 22nd Dec  | Sunday to Monday     | Canyoning in the Blue Mountains                                 | [Phil M ](mailto:philm8544177@gmail.com). |
-| 28th Dec - 4th Jan | Whole Week | Borenore Caves Surveying |  [Phil M ](mailto:philm8544177@gmail.com). |
+| 27th Dec - 28th Dec | Weekend | Tuglow  (Intermediate) | Cindy ([usyd.suss@gmail.com](mailto:usyd.suss@gmail.com)) |
+| 28th Dec - 4th Jan | Multiday | Borenore (Surveying/Intermediate) |  [Phil M ](mailto:philm8544177@gmail.com). |
 
 
 
