@@ -44,6 +44,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 27th Dec - 28th Dec | Weekend | Tuglow  (Intermediate) | Cindy ([usyd.suss@gmail.com](mailto:usyd.suss@gmail.com)) |
 | 28th Dec - 4th Jan | Multiday | Borenore (Surveying/Intermediate) |  [Phil M ](mailto:philm8544177@gmail.com). |
 
+| 31st Jan - 1st Feb | Weekend | Womebyan |  [Phil M ](mailto:philm8544177@gmail.com). |
 
 
  
