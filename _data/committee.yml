@@ -1,6 +1,6 @@
 - position: President
   name: Jude Metcalf
-  role_desc: The President is the head of the club, they manage the running of the club and ensure it's future.
+  role_desc: The President is the head of the club, they manage the running of the club and ensure its future.
   email: jmet9477@uni.sydney.edu.au
   image: '/images/comm-caver.jpg'
 
@@ -32,7 +32,7 @@
   name: Zenon Platritis 
   role_desc: "The safety officer is responsible for monitoring and managing the safety of club members."
   email: 
-  image: '/images/comm-zee.jpg'
+  image: '/images/comm-zee.jpeg'
 
 - position: BULL Editor
   name: Phil Maynard
@@ -76,4 +76,4 @@
   name: Yinfan Lin
   role_desc: "General committee members provide an extra set of hands in running of the club."
   email:  TBA
-  image: 'images/comm-caver.jpg'
+  image: '/images/comm-caver.jpg'

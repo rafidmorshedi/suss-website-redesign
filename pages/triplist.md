@@ -45,12 +45,10 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 28th Dec - 4th Jan | Multiday | Borenore (Surveying/Intermediate) |  [Phil M ](mailto:philm8544177@gmail.com). |
 | 31st Jan - 1st Feb | Weekend | Wombeyan |  [Phil M ](mailto:philm8544177@gmail.com). |
 
-
- 
-
 ## Trip Videos 
  
 [Middle Cove SRT Day](https://youtu.be/PVwuTJvQgo0)  
 [Bungonia September Trip](https://youtu.be/tYWzsWetYX8?si=HnQF-SwyjPQbVbld)  
 [Check out our instagram for more!](https://www.instagram.com/usyd_speleological_society/)
 
+{% include instagram %}
