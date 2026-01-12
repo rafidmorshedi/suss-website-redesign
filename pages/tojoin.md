@@ -37,4 +37,4 @@ Print out the membership form below, fill it out and post it to SUSS at the addr
 
 
 
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }} /assets/membership_form_Jan2026.pdf"> Download a membership form now (v2) ›</a>
+<a class="radius button small" href="{{ site.url }}{{ site.baseurl }} /assets/membership_join_Jan2026.pdf"> Download a membership form now (v2) ›</a>
