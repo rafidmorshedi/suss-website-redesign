@@ -13,7 +13,7 @@ categories:
 
 ## University of Sydney Documents
 
-- [SUSS Constitution](/assets/constitution_2024.pdf)
+- [SUSS Constitution 2025](/assets/constitution_2025.pdf)
 - [SUSS By-Laws](/assets/bylaws.pdf)
 
 ## Becoming a Trip Leader Documents
