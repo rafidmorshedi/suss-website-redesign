@@ -13,25 +13,25 @@
 - position: Club Secretary
   name: Thomas C
   role_desc: "The secretary is responsible for submitting permit requests at the direction of the Trip Organiser."
-  email: usyd.suss@gmail.com
+  email: usyd.suss+secretary@gmail.com
   image: '/images/comm-caver.jpg'
 
 - position: Treasurer
   name: Gabriella Field 
   role_desc: "The treasurer manages the society finances and membership fees."
-  email: usyd.suss@gmail.com
-  image: '/images/comm-limages/comm-caver.jpgily.jpg'
+  email: usyd.suss+treasurer@gmail.com
+  image: '/images/comm-limages/gaby.jpg'
 
 - position: Gear Officer
   name: Vincent Lai
   role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
-  email: 
+  email: usyd.suss+gear@gmail.com
   image: '/images/comm-caver.jpg'
 
 - position: Safety Officer
   name: Zenon Platritis 
   role_desc: "The safety officer is responsible for monitoring and managing the safety of club members."
-  email: 
+  email: usyd.suss+safety@gmail.com
   image: '/images/comm-zee.jpeg'
 
 - position: BULL Editor
@@ -69,11 +69,11 @@
 - position: Webmaster
   name: Cindy Li
   role_desc: "The webmaster is responsible for looking after the website."
-  email: cindycinders@gmail.com
+  email: usyd.suss+web@gmail.com
   image: '/images/comm-cindy.jpeg'
 
-- position: General
+- position: General & Social Media
   name: Yinfan Lin
   role_desc: "General committee members provide an extra set of hands in running of the club."
-  email:  TBA
+  email:  usyd.suss+general@gmail.com
   image: '/images/comm-caver.jpg'
