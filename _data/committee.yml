@@ -72,8 +72,14 @@
   email: usyd.suss+web@gmail.com
   image: '/images/comm-cindy.jpeg'
 
-- position: General Officer & Social Media
+- position: General Officer - Social Media
   name: Yinfan Lin
-  role_desc: "General committee members provide an extra set of hands in running of the club, including social media!"
+  role_desc: "General committee members provide an extra set of hands in running of the club, such as organising events & looking after our social media!"
+  email:  usyd.suss+media@gmail.com
+  image: '/images/comm-caver.jpg'
+
+- position: General Officer
+  name: Matt Allan
+  role_desc: "General committee members provide an extra set of hands in running of the club, such as organising events & looking after our social media!"
   email:  usyd.suss+media@gmail.com
   image: '/images/comm-caver.jpg'
