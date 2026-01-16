@@ -34,3 +34,21 @@ The Society has various books, maps and Bulletins available for sale. Please con
   <br>
 
 {% endfor %}
+
+
+<br>
+
+{% for oldpublication in site.data.oldpublications %}
+
+  <br>
+  <div class="row align-top">
+    <div class="small-3 columns"><img style="display:inline;" src="{{publication.thumbnail}}"></div>
+    <div class="small-9 columns align-top">
+      <h4>{{publication.name}} ({{publication.year}})</h4>
+      <i>{{publication.description | markdownify}}</i>
+    </div>
+  </div>
+
+  <br>
+
+{% endfor %}
