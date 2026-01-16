@@ -36,9 +36,9 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| 27th Dec - 28th Dec | Intermediate | Tuglow |  ([Cindy](mailto:usyd.suss@gmail.com)) |
-| 28th Dec - 4th Jan | Surveying | Borenore|  [Phil M ](mailto:philm8544177@gmail.com) |
-| 31st Jan - 1st Feb | Surveying / Project | Wombeyan |  [Phil M ](mailto:philm8544177@gmail.com) |
+| 27th Dec - 28th Dec | Intermediate | Tuglow |  [Cindy](mailto:usyd.suss@gmail.com) |
+| 28th Dec - 4th Jan | Surveying | Borenore|  [Phil M](mailto:philm8544177@gmail.com) |
+| 31st Jan - 1st Feb | Surveying / Project | Wombeyan |  [Phil M](mailto:philm8544177@gmail.com) |
 | 19th Apr - 2nd May | Expedition / Surveying | Mt Etna |  [Rod O Brien](constructiondiver@bigpond.com) |
 
 ## Trip Videos 
