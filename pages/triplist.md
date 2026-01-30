@@ -36,10 +36,18 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| 27th Dec - 28th Dec | Intermediate | Tuglow |  [Cindy](mailto:usyd.suss@gmail.com) |
-| 28th Dec - 4th Jan | Surveying | Borenore|  [Phil M](mailto:philm8544177@gmail.com) |
-| 31st Jan - 1st Feb | Surveying / Project | Wombeyan |  [Phil M](mailto:philm8544177@gmail.com) |
-| 19th Apr - 2nd May | Expedition / Surveying | Mt Etna |  [Rod O Brien](constructiondiver@bigpond.com) |
+| 27th Dec - 28th Dec | Intermediate | Tuglow Caves |  [Cindy](mailto:usyd.suss@gmail.com) |
+| 28th Dec - 4th Jan | Surveying | Borenore Caves |  [Phil M](mailto:philm8544177@gmail.com) |
+| 31st Jan - 1st Feb | Surveying | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) |
+| 21st Feb | Beginner - Canyoning | Wollangambe Canyon @ Blue Mountains |  [Phil M](mailto:philm8544177@gmail.com) |
+| 22nd Feb | Beginner - Training  | Sunday SRT Rope Skills Training Workshop & BBQ @ Blaxland |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
+| 7th Mar - 8th Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) |
+| Mid March - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 13th Mar - 15th Mar | Beginner | Glenrock Caves |  [Cathi Humphrey Hood](mailto:cathi@fluffycaver.com) |
+| 20th Mar - 5th April | New Zeland | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
+| 10th Apr - 13th Apr | Beginner | Kempsey Caves |  [Alan Green](mailto:alan@meridianpost.com.au) |
+| Mid April - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 18th Apr - 19th Apr | Beginner / Intermediate | Wee Jasper Caves |  [Cindy L](mailto:usyd.suss@gmail.com) |
 
 ## Trip Videos 
  
