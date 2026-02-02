@@ -36,12 +36,11 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- |
-| 27th Dec - 28th Dec | Intermediate | Tuglow Caves |  [Cindy](mailto:usyd.suss@gmail.com) |
-| 28th Dec - 4th Jan | Surveying | Borenore Caves |  [Phil M](mailto:philm8544177@gmail.com) |
 | 31st Jan - 1st Feb | Surveying | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) |
 | 21st Feb | Beginner - Canyoning | Wollangambe Canyon @ Blue Mountains |  [Phil M](mailto:philm8544177@gmail.com) |
 | 22nd Feb | Beginner - Training  | Sunday SRT Rope Skills Training Workshop & BBQ @ Blaxland |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
-| 7th Mar - 8th Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) |
+| 28th Feb - 1st Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) |
+| 7th Mar - 8th Mar | Beginner | Wyanbene Caves |  [Phil M](mailto:philm8544177@gmail.com) |
 | Mid March - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 13th Mar - 15th Mar | Beginner | Glenrock Caves |  [Cathi HH](mailto:cathi@fluffycaver.com) |
 | 20th Mar - 5th April | New Zeland | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
