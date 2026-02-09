@@ -37,7 +37,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- | 
 | 31st Jan - 1st Feb | Surveying | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
-| 21st Feb | Beginner - Canyoning | Wollangambe Canyon @ Blue Mountains |  [Phil M](mailto:philm8544177@gmail.com) | 
+| 21st Feb | ALMOST FULL! - limited spots remaining | Wollangambe Canyon @ Blue Mountains |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 22nd Feb | Beginner - Training  | Sunday SRT Rope Skills Training Workshop & BBQ @ Blaxland |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
 | 28th Feb - 1st Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 7th Mar - 8th Mar | Beginner | Wyanbene Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
