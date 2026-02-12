@@ -38,7 +38,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- | 
 | 31st Jan - 1st Feb | Surveying | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 21st Feb | ALMOST FULL! - limited spots remaining | Wollangambe Canyon @ Blue Mountains |  [Phil M](mailto:philm8544177@gmail.com) | 
-| 22nd Feb | Beginner - Training  | Sunday SRT Rope Skills Training Workshop & BBQ @ Blaxland |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
+| 22nd Feb | Training/Workshop (Beginner)   | Learn the Ropes! & BBQ at Blaxland Crags. _Join us for a day at Blaxland crags and learn some rope skills for caving! Beginners and old hands welcome!_ |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
 | 28th Feb - 1st Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 7th Mar - 8th Mar | Beginner | Wyanbene Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
 | Mid March - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
