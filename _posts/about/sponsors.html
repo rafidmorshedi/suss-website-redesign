@@ -1,0 +1,37 @@
+---
+layout: page-fullwidth
+title: "Our Sponsors"
+subheadline: #"Reading Experience"
+meta_teaser: #"Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
+teaser: "Check out our sponsors!"
+header:
+    image_fullwidth: stanislav-kondratiev-671841-unsplash.jpg
+    background-color: #"#262930"
+    caption: Photo by Stanislav Kondratiev on Unsplash
+    caption_url: https://unsplash.com/
+categories:
+    - about
+---
+
+Check out our sponsors! Current SUSS member and looking for a discount? Send us an email at <a href="mailto:usyd.suss@gmail.com"> usyd.suss@gmail.com! </a>
+
+
+<br>
+<br>
+
+{% for publication in site.data.publications %}
+
+  <br>
+  <div class="row align-top">
+    <div class="small-3 columns"><img style="display:inline;" src="{{publication.thumbnail}}"></div>
+    <div class="small-9 columns align-top">
+      <h4>{{publication.name}} ({{publication.year}})</h4>
+      <i>{{publication.description | markdownify}}</i>
+      <b>Member Price:</b> ${{publication.member_price}}<br>
+      <b>Non-Member Price:</b> ${{publication.nonmember_price}}
+    </div>
+  </div>
+
+  <br>
+
+{% endfor %}
