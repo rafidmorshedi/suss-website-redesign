@@ -34,3 +34,5 @@ SUSS is proudly sponsored by:
 - [Paddy Pallin](https://www.paddypallin.com.au/)
 - [Outdoor eStore Australia](https://outdoorestore.com.au/)
 - [Climbing Anchors](https://www.climbinganchors.com.au/)
+
+Current SUSS member and looking for a discount? Send us an email at [usyd.suss@gmail.com](mailto:usyd.suss@gmail.com)
