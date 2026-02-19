@@ -44,7 +44,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 7th Mar - 8th Mar | Beginner | Wyanbene Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
 | Mid March - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 13th Mar - 15th Mar | Beginner | Glenrock Caves |  [Cathi HH](mailto:cathi@fluffycaver.com) |
-| 20th Mar - 5th April | Intermediate / Advanced - SRT Experience Required | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
+| 20th Mar - 5th April | Intermediate / Advanced  | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
 | 10th Apr - 13th Apr | Beginner | Kempsey Caves |  [Alan Green](mailto:alan@meridianpost.com.au) |
 | Mid April - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 18th Apr - 19th Apr | Beginner / Intermediate _(Must have attended SRT Ropes Workshop previously)_ | Wee Jasper Caves |  [Cindy L](mailto:usyd.suss@gmail.com) |
