@@ -42,11 +42,11 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 22nd Feb | Training/Workshop (Beginner)   | Learn the Ropes! & BBQ at Blaxland Crags. _Join us for a day at Blaxland crags and learn some rope skills for caving! Beginners and old hands welcome!_ |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
 | 28th Feb - 1st Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 7th Mar - 8th Mar | Beginner | Wyanbene Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
-| Mid March - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 12th March Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 13th Mar - 15th Mar | Beginner | Glenrock Caves |  [Cathi HH](mailto:cathi@fluffycaver.com) |
 | 20th Mar - 5th April | Intermediate / Advanced  | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
 | 10th Apr - 13th Apr | Beginner | Kempsey Caves |  [Alan Green](mailto:alan@meridianpost.com.au) |
-| Mid April - Date TBD | Beginner - Training | Weeknight SRT Practice @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 16th April Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 18th Apr - 19th Apr | Beginner / Intermediate _(Must have attended SRT Ropes Workshop previously)_ | Wee Jasper Caves |  [Cindy L](mailto:usyd.suss@gmail.com) |
 | 19th Apr - 2nd May | Beginner | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
 
