@@ -43,7 +43,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 28th Feb - 1st Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 14th Mar - 15th Mar | Beginner | Wyanbene Caves (Rescheduled) |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 12th March Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
-| 13th Mar - 15th Mar | Beginner | Glenrock Caves _Join us on a joint club trip with NVHSS on some surface exploration!_ |  [Cathi HH](mailto:cathi@fluffycaver.com) |
+| 13th Mar - 15th Mar | Beginner | Glenrock Caves _Join us on a joint club trip with NHVSS on some surface exploration!_ |  [Cathi HH](mailto:cathi@fluffycaver.com) |
 | 20th Mar - 5th April | Intermediate / Advanced  | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
 | 10th Apr - 13th Apr | Beginner | Kempsey Caves |  [Alan Green](mailto:alan@meridianpost.com.au) |
 | 16th April Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
