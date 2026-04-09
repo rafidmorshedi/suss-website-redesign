@@ -46,8 +46,14 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 13th Mar - 15th Mar | Beginner | Glenrock Caves _Join us on a joint club trip with NHVSS on some surface exploration!_ |  [Cathi HH](mailto:cathi@fluffycaver.com) |
 | 20th Mar - 5th April | Intermediate / Advanced  | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
 | 16th April Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
-| 18th Apr - 19th Apr | Beginner / Intermediate _(Must have attended SRT Ropes Workshop previously)_ | Wee Jasper Caves |  [Cindy L](mailto:usyd.suss@gmail.com) |
+| 18th Apr - 19th Apr | Beginner / Intermediate _(Must have attended SRT Ropes Workshop previously)_ | Wee Jasper Caves - TRIP FULL |  [Cindy L](mailto:usyd.suss@gmail.com) |
 | 19th Apr - 2nd May | TRIP FULL | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
+| 30th May - 31st May | Beginner / Intermediate | Wombeyan Caves |   [Jill R](mailto:jillr@speleonics.com.au)  |
+| 27th June - 28th June | Beginner / Intermediate | Wombeyan Caves |   [Jill R](mailto:jillr@speleonics.com.au)  |
+| More trips incoming! | TBD | Watch this space for new trips being added... | TBD |
+
+
+
 
 ## Trip Videos 
  
