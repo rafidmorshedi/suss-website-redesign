@@ -33,6 +33,7 @@ If you would like to join a trip, please get in touch with the trip leader and l
 For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).     
 
 ## Trip Calendar
+*NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people ususal depart Sydney on the night before (eg on the Friday)
 
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- | 
