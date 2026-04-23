@@ -36,20 +36,16 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact**                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- | 
-| 31st Jan - 1st Feb | Surveying | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
-| Fri 20th Feb *5.30-9.30pm*| Interclub Social Night | **O Week Pubgaine x UTSOC x UNSWOC**    _Come join a interclub O week social event and meet like minded outdoorsy people! Pubgaine is sorta like a pubcrawl mixed with a capture the flag / scavenger hunt. (Rogaine at the pubs for those who have rogained before)_ [More info on UTSOC website here](https://utsoac.org.au/activities/26-pubgaine-interclub-pubcrawl/) | Contact [Yinfan](mailto:ylin0058@uni.sydney.edu.au) if youre interested!|
-| 21st Feb | ALMOST FULL! - limited spots remaining | Wollangambe Canyon @ Blue Mountains |  [Phil M](mailto:philm8544177@gmail.com) | 
-| 22nd Feb | Training/Workshop (Beginner)   | Learn the Ropes! & BBQ at Blaxland Crags. _Join us for a day at Blaxland crags and learn some rope skills for caving! Beginners and old hands welcome!_ |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
-| 28th Feb - 1st Mar | Beginner | Wombeyan Caves |  [Phil M](mailto:philm8544177@gmail.com) | 
-| 14th Mar - 15th Mar | Beginner | Wyanbene Caves (Rescheduled) |  [Phil M](mailto:philm8544177@gmail.com) | 
-| 12th March Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
-| 13th Mar - 15th Mar | Beginner | Glenrock Caves _Join us on a joint club trip with NHVSS on some surface exploration!_ |  [Cathi HH](mailto:cathi@fluffycaver.com) |
-| 20th Mar - 5th April | Intermediate / Advanced  | New Zealand North Island Caving |  [Alan Pryke](mailto:a.pryke@gmail.com) |
-| 16th April Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
-| 18th Apr - 19th Apr | Beginner / Intermediate _(Must have attended SRT Ropes Workshop previously)_ | Wee Jasper Caves - TRIP FULL |  [Cindy L](mailto:usyd.suss@gmail.com) |
 | 19th Apr - 2nd May | TRIP FULL | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
+| 14th May Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 14th May - 16th May | Beginner / Intermediate | Bungonia |  [Cindy L](mailto:usyd.suss@gmail.com) |
 | 30th May - 31st May | Beginner / Intermediate | Wombeyan Caves |   [Jill R](mailto:jillr@speleonics.com.au)  |
-| 27th June - 28th June | Beginner / Intermediate | Wombeyan Caves |   [Jill R](mailto:jillr@speleonics.com.au)  |
+| 6th June - 8th June | Intermediate | NUCC x SUSS Trip to Colong Caves (requires Overnight Hike) |  [Phil M](mailto:philm8544177@gmail.com) | 
+| 18th June Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 27th June - 28th June | Beginner / Intermediate | HCG x SUSS trip to Wombeyan Caves |   [Cindy L] (mailto:usyd.suss@gmail.com)  |
+| 9th July Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 19th July | Beginner - Training/Workshop | Learn the Ropes! & BBQ _Join us for a day at a local crag and learn some rope skills for caving! Beginners and old hands welcome! Exact crag location TBD..._  |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
+| 25th July - 26th July | Beginner / Intermediate | Bungonia Caves |  [Phil M](mailto:philm8544177@gmail.com) |
 | More trips incoming! | TBD | Watch this space for new trips being added... | TBD |
 
 
