@@ -41,7 +41,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 14th May Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 16th May - 17th May | Intermediate (SRT Ropes Skills required) | Bungonia  |  [Cindy L](mailto:usyd.suss@gmail.com) |
 | 30th May - 31st May | Beginner / Intermediate | Wombeyan Caves |   [Jill R](mailto:jillr@speleonics.com.au)  |
-| 6th June - 8th June | Intermediate | NUCC x SUSS Trip to Colong Caves (requires Overnight Hike) |  [Phil M](mailto:philm8544177@gmail.com) | 
+| 6th June - 8th June | Intermediate | SUSS x HCG Trip to Colong Caves (requires Overnight Hike) |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 18th June Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 27th June - 28th June | Beginner / Intermediate | HCG x SUSS trip to Wombeyan Caves |   [Cindy L] (mailto:usyd.suss@gmail.com)  |
 | 9th July Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
