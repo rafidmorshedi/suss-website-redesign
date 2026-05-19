@@ -40,6 +40,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 19th Apr - 2nd May | TRIP FULL | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
 | 14th May Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 16th May - 17th May | Intermediate (SRT Ropes Skills required) | Bungonia  |  [Cindy L](mailto:usyd.suss@gmail.com) |
+| 28th May 6.30pm - 8.30pm | AGM | Annual General Meeting & Caving Presentations! | Location: Holme Building Meeting Room 1, University of Sydney;  _If you would like to attend virtually or have any questions, please contact usyd.suss@gmail.com_|
 | 30th May - 31st May | Beginner / Intermediate | Wombeyan Caves |   [Jill R](mailto:jillr@speleonics.com.au)  |
 | 6th June - 8th June | Intermediate | SUSS x HCG Trip to Colong Caves (requires Overnight Hike) |  [Phil M](mailto:philm8544177@gmail.com) | 
 | 18th June Thursday Evening | Beginner - Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
