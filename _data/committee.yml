@@ -23,10 +23,10 @@
   image: '/images/gaby.jpg'
 
 - position: Gear Officer
-  name: Rafferty O'Grady 
+  name: Rafferty OGrady 
   role_desc: "The gear officer manages the equipment the club buys to support our caving trips. They take inventory, hire gear to club members and monitor when gear needs replacing."
   email: usyd.suss+gear@gmail.com
-  image: '/images/comm-caver.jpg'
+  image: '/images/comm-raff.jpg'
 
 - position: Safety Officer
   name: Zenon Platritis 
@@ -82,4 +82,4 @@
   name: Alex Motyka & Rowena Larkins
   role_desc: "General committee members provide an extra set of hands in running of the club, such as organising events & responding to general enquiries!"
   email:  usyd.suss+general@gmail.com
-  image: '/images/comm-caver.jpg'
+  image: '/images/comm-alex.jpeg'
