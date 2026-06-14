@@ -20,12 +20,12 @@
   nonmember_price: NA
   thumbnail: /images/pub-mammoth_compendium.jpg
 
-- name: Tuglow Caves
-  year: 1998
-  description: "Description, history, route guides, maps for Tuglow Cave and surrounds"
-  member_price: 13
-  # nonmember_price: '16 (contact us, we are currently discounting Tuglow books)'
-  thumbnail: /images/pub-tuglowbook.jpg
+#- name: Tuglow Caves
+#  year: 1998
+#  description: "Description, history, route guides, maps for Tuglow Cave and surrounds"
+#  member_price: 13
+#  # nonmember_price: '16 (contact us, we are currently discounting Tuglow books)'
+#  thumbnail: /images/pub-tuglowbook.jpg
 
 # - name: Mammoth Cave (Out of stock/print)
 #   year: 1978
