@@ -46,7 +46,7 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | Thursday 18th June 6pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | 27th June - 28th June | Beginner / Intermediate | HCG x SUSS trip to Wombeyan Caves |   [Cindy L] (mailto: usyd.suss@gmail.com)  |
 | Thursday 16th July 6pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss@gmail.com)  |
-| Sunday 19th July | Social + Training/Workshop | Learn the Ropes! & BBQ _Join us for a day at a local crag and learn some rope skills for caving! Beginners and old hands welcome! Exact crag location TBD..._  |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
+| Saturday 18th July | Social + Training/Workshop | Learn the Ropes! & BBQ _Join us for a day at a local crag and learn some rope skills for caving! Beginners and old hands welcome! Exact crag location TBD..._  |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
 | 25th July - 26th July | Beginner / Intermediate | Bungonia Caves |  POSTPONED |
 | More trips incoming! | TBD | Watch this space for new trips being added... | TBD |
 
