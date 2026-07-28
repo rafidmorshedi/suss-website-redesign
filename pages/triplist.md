@@ -50,10 +50,10 @@ For more information, please read through our [Beginners Handbook](/assets/handb
 | 25th July - 26th July | Beginner / Intermediate | Bungonia Caves |  ~~CANCELLED~~ |
 | Thursday 13th August 6.15pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Raff OG](mailto:usyd.suss@gmail.com)  |
 | 15th - 16th August | Intermediate (SRT Skills Required) | Wee Jasper Caves (Departing Sydney Friday night as its a 4 hour drive) |   [Cindy L](mailto:usyd.suss@gmail.com)  |
-| 29th - 30th August | Beginner / Intermediate | Wombeyan Caves (Departing Sydney Friday night as its a 3 hour drive) |  [Phil M](mailto:philm8544177@gmail.com) | 
-| 5th - 6th September | Beginner / Intermediate | Bungonia Caves (2 hour drive from Sydney) |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 29th - 30th August | Beginner | Wombeyan Caves (Departing Sydney Friday night as its a 3 hour drive) |  [Phil M](mailto:philm8544177@gmail.com) | 
+| 5th - 6th September | Beginner - Intermediate | Bungonia Caves (2 hour drive from Sydney) |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | Thursday 17th September 6.15pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Raff OG](mailto:usyd.suss@gmail.com)  |
-| 19th - 20th September | Beginner / Intermediate | Wombeyan Caves with HCG (Departing Sydney Friday night as its a 3 hour drive) |   [Cindy L](mailto:usyd.suss@gmail.com)  |
+| 19th - 20th September | Beginner - Intermediate | Wombeyan Caves with HCG (Departing Sydney Friday night as its a 3 hour drive) |   [Cindy L](mailto:usyd.suss@gmail.com)  |
 | More trips incoming! | TBD | Watch this space for new trips being added... | TBD |
 
 
