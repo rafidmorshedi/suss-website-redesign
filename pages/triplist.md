@@ -19,21 +19,21 @@ for information on the expected costs, for area-specific information, and genera
 if you still have doubts about how much a trip will cost you.
 
 **PLEASE NOTE:**
-If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers):
+If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip. You will need to provide the following details:
 
 -   Your previous experience with caving (if none, that's okay!)
--   What suburb you are leaving from and if you require a ride or can provide one for others
+-   What suburb you are leaving from and if you require a ride, or can give someone a lift
 -   If you need to borrow SUSS gear. Things you'll need for the trips that can be borrowed from SUSS include:
     -   helmets
     -   head torches (bring your own batteries - 8 x AA)
     -   overalls
-    -   tents
+    -   tents, sleeping bags, sleeping mats
 - No pets on trips
 
-For more information, please read through our [Beginners Handbook](/assets/handbook.pdf).     
+For more information, please read through our [Beginners Handbook (click for link)](/assets/handbook.pdf).     
 
 ## Trip Calendar
-*NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people ususal depart Sydney on the night before (eg on the Friday)
+*NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people ususally depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
 
 | **Date**              | **Trip Type**  | **Trip**                                        | **Contact (Click on the name for contact email) **                                                                                  |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- | 
