@@ -1,0 +1,17 @@
+{% comment %}
+*
+*   This include embeds a Google Calendar iframe. Find the link in Calendar settings -> Public URL to this calendar
+*
+*   Usage:
+*   {% include googlecalendar link="https://calendar.google.com/calendar/embed?src=..." %}
+*
+{% endcomment %}
+
+<iframe
+  src="{{ include.link }}"
+  style="border: 0"
+  width="800"
+  height="600"
+  frameborder="0"
+  scrolling="no">
+</iframe>
