@@ -11,6 +11,13 @@ permalink: "/triplist/"
 ---
 
 <!-- To Do convert this to auto genarage from a yaml file -->
+<style>
+.row {
+    max-width: 80rem; /* for context the default is 65rem */
+}
+</style>
+
+
 
 All trips are suitable for beginners, unless otherwise stated.  It is YOUR responsibility to inform the trip supervisor of any relevant medical
 conditions which may in any way affect your fitness, such as diabetes,
