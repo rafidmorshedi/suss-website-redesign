@@ -55,7 +55,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 *NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people usually depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
 
 | **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name to get the email address)_                                                                                 |
-| :--------------------- | :------------------------- | :--------------------------------------------------- | :---------------------------------------- | 
+| :--------------------- | :------------------------- | :--------------------------------------------------- | :---------------------_------------------- | 
 | Thursday 13th Aug | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym  <br> _The SRT workshop (6.30pm - 8.30pm) itself is FULL. <br> However, you are still welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_   | [Raff O'G](mailto:usyd.suss+SRT@gmail.com)  <br> _Note: Please pay Entry Fee upon arrival at the Climbing Gym_  |
 | 15th - 16th Aug | Intermediate  - SRT Skills Required! <br> _Weekend Trip_| Wee Jasper Caves <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  <br> _Note: This trip is FULL_ |
 | 29th - 30th AUg | Beginner <br> _Weekend Trip_ | Wombeyan Caves <br>  _Departing Sydney on Friday night, ~3 hour drive from Sydney_|  [Phil M](mailto:philm8544177@gmail.com) <br> _Note: This trip is FULL_| 
@@ -69,9 +69,9 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | 24th or 25th Oct <br> _Exact day TBD!_ | Social + Training Day! <br> _Located in Sydney_ | Learn the Ropes! & BBQ  <br> _Join us for a day at a local crag and learn some rope skills for caving! Beginners and old hands welcome!_  |  [Tom C](mailto:usyd.suss+SRT@gmail.com) <br>  _Note: Exact crag location TBD..._|
 | 31st Oct - 1st Nov | Beginner   <br> _Weekend Trip_| Wombeyan Caves with HCG <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
 | 7th - 8th Nov | Advanced - SRT Skills Required! <br> _Weekend Trip_| Tuglow Cave <br> <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_  |   [Alex M](mailto:usyd.suss+alex@gmail.com) <br> _Note: You will need your own wetsuit - this is a wet cave!_  |
-| 21st - 22nd November | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | Wee Jasper Caves  _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Raff OG](mailto:usyd.suss+raff@gmail.com) |
+| 21st - 22nd Npo | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | Wee Jasper Caves  _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Raff OG](mailto:usyd.suss+raff@gmail.com) |
 | 28th - 29th Nov | Beginner  <br> _Weekend Trip_| Wombeyan Caves <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |   [Phil M](mailto:philm8544177@gmail.com)  |
-| More trips incoming! | TBD | Watch this space for new trips being added... | TBD |
+| Future | More Trips Incoming! | Watch this space for new trips being added... | TBD |
 
 <!--
 | 19th Apr - 2nd May | TRIP FULL | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
