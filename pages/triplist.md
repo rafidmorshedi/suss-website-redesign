@@ -13,7 +13,7 @@ permalink: "/triplist/"
 <!-- To Do convert this to auto genarage from a yaml file -->
 <style>
 .row {
-    max-width: 80rem; /* for context the default is 65rem */
+    max-width: 65rem; /* for context the default is 65rem */
 }
 </style>
 
