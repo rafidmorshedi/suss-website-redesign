@@ -15,13 +15,13 @@ permalink: "/triplist/"
 <style>
 /* 1. Force the main wrapper row to fill the entire screen width */
 .row {
-    max-width: 100% !important;
-    width: 100% !important;
+    max-width: 85% !important;
+    width: 85% !important;
 }
 
 /* 2. Force the inner Foundation grid cells to stretch to full width */
 .row > .medium-8.columns {
-    width: 100% !important;
+    width: 85% !important;
     left: 0 !important;
     margin-left: 0 !important;
     float: none !important;
