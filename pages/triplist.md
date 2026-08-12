@@ -15,7 +15,7 @@ permalink: "/triplist/"
 <style>
 /* 1. Force the main wrapper row to fill the entire screen width */
 .row {
-    max-width: 85% !important;
+    max-width: 100% !important;
     width: 85% !important;
 }
 
