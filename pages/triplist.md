@@ -54,8 +54,8 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 ## Trip Calendar
 *NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people usually depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
 
-| **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name to get the email address)_                                                                                 |
-| :--------------------- | :----------------------------- | :--------------------------------------------------- | :----------------------------------------- | 
+| **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
+| :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
 | Thursday 13th Aug | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym  <br> _The SRT workshop (6.30pm - 8.30pm) itself is FULL. <br> However, you are still welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_   | [Raff O'G](mailto:usyd.suss+SRT@gmail.com)  <br> _Note: Please pay Entry Fee upon arrival at the Climbing Gym_  |
 | 15th - 16th Aug | Intermediate  - SRT Skills Required! <br> _Weekend Trip_| Wee Jasper Caves <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  <br> _Note: This trip is FULL_ |
 | 29th - 30th AUg | Beginner <br> _Weekend Trip_ | Wombeyan Caves <br>  _Departing Sydney on Friday night, ~3 hour drive from Sydney_|  [Phil M](mailto:philm8544177@gmail.com) <br> _Note: This trip is FULL_| 
