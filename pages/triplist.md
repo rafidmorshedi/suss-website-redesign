@@ -14,7 +14,7 @@ permalink: "/triplist/"
 <style>
 .row {
     /* max-width: 65rem;  for context the default is 65rem */ 
-    max-width: 100% !important;
+    max-width: 100%;
     width: 100%;
 }
 </style>
@@ -47,7 +47,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 
 | **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name to get the email address)_                                                                                 |
 | :--------------------- | :------------------------- | :--------------------------------------------------- | :---------------------------------------- | 
-| Thursday 13th Aug | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym  <br> _The SRT workshop (6.30pm - 8.30pm) itself is FULL. <br> However, you are still welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_   | [Raff O'G](mailto:usyd.suss+SRT@gmail.com)  <br> _Note: Please pay Entry Fee upon arrival at the Climbing Gym_  |
+| Thursday 13th Aug | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym  <br> _The SRT workshop (6.30pm - 8.30pm) itself is FULL. <br> However, you are still welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_   | [Raff OG](mailto:usyd.suss+SRT@gmail.com)  <br> _Note: Please pay Entry Fee upon arrival at the Climbing Gym_  |
 | 15th - 16th Aug | Intermediate  - SRT Skills Required! <br> _Weekend Trip_| Wee Jasper Caves <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  <br> _Note: This trip is FULL_ |
 | 29th - 30th AUg | Beginner <br> _Weekend Trip_ | Wombeyan Caves <br>  _Departing Sydney on Friday night, ~3 hour drive from Sydney_|  [Phil M](mailto:philm8544177@gmail.com) <br> _Note: This trip is FULL_| 
 | 5th - 6th Sept | Beginner - Intermediate <br> _Weekend Trip_ | Bungonia Caves <br> _~2 hour drive from Sydney_ |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
