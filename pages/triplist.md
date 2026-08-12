@@ -45,6 +45,24 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 
 | **Date**              | **Trip Type**  | **Trip**                                        | **Trip Contact** <br> _Click on the name to get the email address to request joining the trip_                                                                                 |
 | :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- | 
+| Thursday 13th August 6.30pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym   | [Raff OG](mailto:usyd.suss+SRT@gmail.com)  <br> _The SRT workshop itself is FULL. However, you are welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_ |
+| 15th - 16th August | Intermediate  - SRT Skills Required! <br> _Weekend Trip_| Wee Jasper Caves  _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  <br> _Note: This trip is FULL_ |
+| 29th - 30th August | Beginner <br> _Weekend Trip_ | Wombeyan Caves (Departing Sydney Friday night as its a 3 hour drive)|  [Phil M](mailto:philm8544177@gmail.com) <br> _Note: This trip is FULL_| 
+| 5th - 6th Sept | Beginner - Intermediate <br> _Weekend Trip_ | Bungonia Caves <br> _~2 hour drive from Sydney_ |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
+| Thursday 17th Sept |  Training & Social Night! | Weeknight SRT Ropes Workshop & Social Night @ The Ledge Climbing Gym |   [Raff OG](mailto:usyd.suss+SRT@gmail.com)  |
+| 19th - 20th Sept | Beginner - Intermediate <br> _Weekend Trip_ | Wombeyan Caves <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
+| Sunday 27th Sept | Beginner Canyon <br> _Day Trip_ | Tigersnake Canyon @ Blue Mountains <br> _This is a Dry Canyon that requires Abseiling_ |   [Zee P](mailto:usyd.suss+zee@gmail.com)  |
+| 2nd - 5th Oct | Advanced Surveying Trip  <br> _Multiday Trip_ | Kempsey Caves with KSS <br> _This is an advanced trip that involves surveying and requires self sufficiency_ |    [Phil M](mailto:philm8544177@gmail.com) |
+| Thursday 15th Oct  | Training & Social Night! | Weeknight SRT Ropes Workshop & Social Night @ The Ledge Climbing Gym <br> _The SRT Workshop runs from 6.30-8.30pm. You are welcome to come earlier if you would like to climb and/or socialise, and join us for dinner at the Forest Lodge Hotel afterwards_ <br> _Note: Please pay Entry Fee upon arrival at the Climbing Gym_|   [Raff OG](mailto:usyd.suss+SRT@gmail.com)  |
+| 17th - 18th Oct | Beginner  <br> _Weekend Trip_ | Bungonia Caves <br> _~2 hour drive from Sydney_) |  To Be Confirmed!  |
+| 24th or 25th Oct <br> _Exact day TBD!_ | Social + Training Day! <br> _Located in Sydney_ | Learn the Ropes! & BBQ  <br> _Join us for a day at a local crag and learn some rope skills for caving! Beginners and old hands welcome! Exact crag location TBD..._  |  [Tom C](mailto:usyd.suss+SRT@gmail.com) |
+| 31st Oct - 1st Nov | Beginner   <br> _Weekend Trip_| Wombeyan Caves with HCG <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
+| 7th - 8th Nov | Advanced - SRT Skills Required! <br> _Weekend Trip_| Tuglow Cave <br> You will need your own wetsuit - this is a wet cave! <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_  |   [Alex M](mailto:usyd.suss+alex@gmail.com)  |
+| 21st - 22nd November | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | Wee Jasper Caves  _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Raff OG](mailto:usyd.suss+raff@gmail.com) |
+| 28th - 29th Nov | Beginner  <br> _Weekend Trip_| Wombeyan Caves <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |   [Phil M](mailto:philm8544177@gmail.com)  |
+| More trips incoming! | TBD | Watch this space for new trips being added... | TBD |
+
+<!--
 | 19th Apr - 2nd May | TRIP FULL | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
 | 14th May Thursday Evening | Social / Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
 | 16th May - 17th May | Intermediate (SRT Ropes Skills required) | Bungonia  |  [Cindy L](mailto:usyd.suss+cindy@gmail.com) |
@@ -56,15 +74,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | Thursday 16th July 6pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss+SRT@gmail.com)  |
 | Saturday 18th July | Social + Training/Workshop | Learn the Ropes! & BBQ  <br> _Join us for a day at a local crag and learn some rope skills for caving! Beginners and old hands welcome! Exact crag location TBD..._  |  [Mark L](mailto:mluo0455@uni.sydney.edu.au) |
 | 25th July - 26th July | Beginner / Intermediate | Bungonia Caves |  ~~CANCELLED~~ |
-| Thursday 13th August 6.15pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym   | [Raff OG](mailto:usyd.suss+SRT@gmail.com)  <br> _The SRT workshop itself is FULL. However, you are welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_ |
-| 15th - 16th August | Intermediate (SRT Skills Required) | Wee Jasper Caves (Departing Sydney Friday night as its a 4 hour drive)|   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  <br> _Note: This trip is FULL_ |
-| 29th - 30th August | Beginner | Wombeyan Caves (Departing Sydney Friday night as its a 3 hour drive)|  [Phil M](mailto:philm8544177@gmail.com) <br> _Note: This trip is FULL_| 
-| 5th - 6th September | Beginner - Intermediate | Bungonia Caves (2 hour drive from Sydney) |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
-| Thursday 17th September 6.15pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop & Social Night @ The Ledge Climbing Gym |   [Raff OG](mailto:usyd.suss+SRT@gmail.com)  |
-| 19th - 20th September | Beginner - Intermediate | Wombeyan Caves with HCG (Departing Sydney Friday night as its a 3 hour drive) |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
-| More trips incoming! | TBD | Watch this space for new trips being added... | TBD |
-
-
+-->
 
 
 ## Trip Videos 
