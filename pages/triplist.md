@@ -11,14 +11,22 @@ permalink: "/triplist/"
 ---
 
 <!-- To Do convert this to auto genarage from a yaml file -->
+
 <style>
+/* 1. Force the main wrapper row to fill the entire screen width */
 .row {
-    /* max-width: 65rem;  for context the default is 65rem */ 
     max-width: 100% !important;
-    width: 100%;
+    width: 100% !important;
+}
+
+/* 2. Force the inner Foundation grid cells to stretch to full width */
+.row > .medium-8.columns {
+    width: 100% !important;
+    left: 0 !important;
+    margin-left: 0 !important;
+    float: none !important;
 }
 </style>
-
 
 
 All trips are suitable for beginners, unless otherwise stated.  It is YOUR responsibility to inform the trip supervisor of any relevant medical
