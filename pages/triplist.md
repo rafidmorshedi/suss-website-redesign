@@ -13,15 +13,16 @@ permalink: "/triplist/"
 <!-- To Do convert this to auto genarage from a yaml file -->
 
 <style>
-/* 1. Force the main wrapper row to fill the entire screen width */
+/* 1. Scale the main wrapper row down to 85% and center it horizontally */
 .row {
-    max-width: 100% !important;
+    max-width: 85% !important;
     width: 85% !important;
+    margin: 0 auto !important; /* Centers the 85% box on the page */
 }
 
-/* 2. Force the inner Foundation grid cells to stretch to full width */
+/* 2. Keep the inner grid cells stretching completely inside that 85% box */
 .row > .medium-8.columns {
-    width: 85% !important;
+    width: 100% !important;
     left: 0 !important;
     margin-left: 0 !important;
     float: none !important;
