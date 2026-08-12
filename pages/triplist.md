@@ -43,11 +43,11 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 ## Trip Calendar
 *NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people usually depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
 
-| **Date**              | **Trip Type**  | **Trip**                                        | **Trip Contact** <br> _Click on the name to get the email address to request joining the trip_                                                                                 |
-| :-------------------- | :------------- | :---------------------------------------------- | :------------------------------------------------------------------------------------------- | 
-| Thursday 13th August 6.30pm - 8.30pm | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym   | [Raff OG](mailto:usyd.suss+SRT@gmail.com)  <br> _The SRT workshop itself is FULL. However, you are welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_ |
-| 15th - 16th August | Intermediate  - SRT Skills Required! <br> _Weekend Trip_| Wee Jasper Caves  _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  <br> _Note: This trip is FULL_ |
-| 29th - 30th August | Beginner <br> _Weekend Trip_ | Wombeyan Caves (Departing Sydney Friday night as its a 3 hour drive)|  [Phil M](mailto:philm8544177@gmail.com) <br> _Note: This trip is FULL_| 
+| **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Trip Contact** <br> _(Click on the name to get the email address to request joining the trip)_                                                                                 |
+| :------------------ | :------------------------- | :------------------------------------------------- | :------------------------------------------- | 
+| Thursday 13th Aug | Social / Training | Weeknight SRT Ropes Workshop  & Social Night @ The Ledge Climbing Gym   | [Raff OG](mailto:usyd.suss+SRT@gmail.com)  <br> _The SRT workshop (6.30pm - 8.30pm) itself is FULL. However, you are welcome to come to the Ledge for socialising / rock climbing. We will also be heading over to the Forest Lodge Hotel for dinner at 8.30pm_ |
+| 15th - 16th Aug | Intermediate  - SRT Skills Required! <br> _Weekend Trip_| Wee Jasper Caves  _Departing Sydney on Friday night, ~4 hour drive from Sydney_|   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  <br> _Note: This trip is FULL_ |
+| 29th - 30th AUg | Beginner <br> _Weekend Trip_ | Wombeyan Caves (Departing Sydney Friday night as its a 3 hour drive)|  [Phil M](mailto:philm8544177@gmail.com) <br> _Note: This trip is FULL_| 
 | 5th - 6th Sept | Beginner - Intermediate <br> _Weekend Trip_ | Bungonia Caves <br> _~2 hour drive from Sydney_ |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
 | Thursday 17th Sept |  Training & Social Night! | Weeknight SRT Ropes Workshop & Social Night @ The Ledge Climbing Gym |   [Raff OG](mailto:usyd.suss+SRT@gmail.com)  |
 | 19th - 20th Sept | Beginner - Intermediate <br> _Weekend Trip_ | Wombeyan Caves <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
