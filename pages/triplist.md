@@ -14,7 +14,7 @@ permalink: "/triplist/"
 <style>
 .row {
     /* max-width: 65rem;  for context the default is 65rem */ 
-    max-width: 100%;
+    max-width: 100% !important;
     width: 100%;
 }
 </style>
