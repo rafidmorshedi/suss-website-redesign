@@ -16,10 +16,11 @@ categories:
 - [SUSS Constitution 2025](/assets/constitution_2025.pdf)
 - [SUSS By-Laws](/assets/bylaws.pdf)
 
-## Becoming a Trip Leader Documents
-- [Trip Leader form (old)](/assets/tripleader.pdf)
-- [Trip Leader SRT Skills Matrix Checklist](/assets/SRT_matrix_checklist.xlsx)
-- [Trip Leader SRT Skills Matrix Details](/assets/Skill_matrix_details.pdf)
+## Becoming a Trip Leader & SRT Skill Matrices
+- [Trip Leader Checklist Form](/assets/tripleader.pdf)
+  
+- [SRT Skills Matrix Checklist](/assets/SRT_matrix_checklist.xlsx)
+- [SRT Skills Matrix Details](/assets/Skill_matrix_details.pdf)
 
 ## Other Documents
 
