@@ -11,7 +11,7 @@ location: 'Cooleman Plains is in the Kosciuszko National Park which is about a 6
 conditions_underground: 'These caves are mostly wet and very cold. Thermals and long wetsuits are recommended for most trips. Neoprene socks, warm gloves and a balaclava are be recommended for longer trips.'
 facilities: 'There are campsites with pit toilets but you will be required to provide everything else. You must bring your own water or water purifying tablets if you wish to drink from the river.'
 costs: >
-  Petrol money ~$30-40 return
+  Petrol money: Depends on how much the cost of fuel changes these days. Cooleman Caves is about 900km return from USYD. Petrol / Diesel cars tend to be 7-12L/100km these days? 
 
 
   Because of the distance, car pooling is recommended and can be arranged by your Trip Leader.
