@@ -36,7 +36,7 @@ facilities: >
 costs: 'Hut fees ~$8 per person / weekend, $4 per person / weekday regardless of whether you sleep in the cottage, garage or your car.
 
 
-Petrol money ~$15-20 return.'
+Petrol money: Depends on how much the cost of fuel changes these days. Jenolan is about 450km return from USYD. Petrol / Diesel cars tend to be 7-12L/100km these days?  .'
 what_to_bring: >
     All of your Caving Gear PLUS a towel for the shower. You should bring warm gear for outside the caves as it can get quite cool late in the day, even during summer. A roll mat can be a good idea on busier trips if all the mattresses are being used.
 ---
