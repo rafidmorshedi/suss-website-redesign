@@ -17,7 +17,7 @@ conditions_underground: >
   COLD!!! Some of the caves have been known to sport ice formations in winter. The lower section of Eagles Nest is particularly notorious for being around 5 degrees Celsius. Thermals are definitely essential. The caves can get quite muddy too.
 facilities: >
   There is a basic campground with pit toilets and a streamway (not drinkable) but no other facilities. You will need to bring your own camping gear, stove, food and water.
-costs: 'Petrol money: Depends on how much the cost of fuel changes these days. Jenolan is about 1000km return from USYD. Petrol / Diesel cars tend to be 7-12L/100km these days? .'
+costs: 'Petrol money: Depends on how much the cost of fuel changes these days. Yarrangobilly is about 1000km return from USYD. Petrol / Diesel cars tend to be 7-12L/100km these days? .'
 what_to_bring: >
   Check with your Trip Leader as facilities and trips vary.
 
