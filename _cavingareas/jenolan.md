@@ -3,6 +3,7 @@ name: Jenolan
 cavingarea_image: '/images/cavingarea-jenolan.jpg'
 cavingarea_image_caption: "Ascending Bottomless Pit in the Southern Limstone. Photo: Rafid Morshedi"
 short_about: >
+  **Jenolan Caves is currently closed for Major Road Repairs by Transport for NSW**
   SUSS visits Jenolan at least once a month. There is a great range of trips possible; so it is a great destination for beginners and repeat trips!
 about: >
   **Jenolan Caves is currently closed for Major Road Repairs by Transport for NSW**
