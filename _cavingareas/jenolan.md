@@ -5,7 +5,8 @@ cavingarea_image_caption: "Ascending Bottomless Pit in the Southern Limstone. Ph
 short_about: >
   SUSS visits Jenolan at least once a month. There is a great range of trips possible; so it is a great destination for beginners and repeat trips!
 about: >
-  **Unfortunately, the cavers cottage burned down during the 2019-2020 fires. These notes are from before that time. Your trip leader will email you regarding accommodation/camping.**.   There are many great reasons to visit Jenolan Caves. The cottage, the nearby tourist caves and range of activities available mean that it is a great place for beginners. Also, it's relatively close to Sydney. SUSS visits Jenolan at least once a month. It's almost a second home to many of us, and is the location of most of our projects. There is a great range of trips possible; some are quite challenging while others are quite easy, so it is a great destination for beginners and repeat trips!
+  **Jenolan Caves is currently closed for Major Road Repairs by Transport for NSW**
+  _Unfortunately, the cavers cottage burned down during the 2019-2020 fires. These notes are from before that time. Your trip leader will email you regarding accommodation/camping._.   There are many great reasons to visit Jenolan Caves. The cottage, the nearby tourist caves and range of activities available mean that it is a great place for beginners. Also, it's relatively close to Sydney. SUSS visits Jenolan at least once a month. It's almost a second home to many of us, and is the location of most of our projects. There is a great range of trips possible; some are quite challenging while others are quite easy, so it is a great destination for beginners and repeat trips!
 getting_there: >
   Jenolan caves are about 2½-3½ hours west of Sydney in the Blue Mountains, near Oberon​​​​.​​
 
