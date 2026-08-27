@@ -10,6 +10,6 @@ getting_there: >
 location: 'About 4hrs from Sydney and 45minutes from Jenolan Caves. A 4WD is recommended to reach the campsites by the Tuglow River and to get closer to the Tuglow Cave entrance.'
 conditions_underground: 'Tuglow is mostly walk-through passage with some abseiling/ascending or laddering, clambering and some deep wades. Most trips visit the wet section of the cave where a wetsuit is required to stay warm.'
 facilities: 'There are no facilities at Tuglow. There is a river but it is not a reliable source of drinking water.'
-costs: 'Petrol money: Depends on how much the cost of fuel changes these days. Jenolan is about 620km return from USYD. Petrol / Diesel cars tend to be 7-12L/100km these days? .'
+costs: 'Petrol money: Depends on how much the cost of fuel changes these days. Tuglow is about 620km return from USYD. Petrol / Diesel cars tend to be 7-12L/100km these days? .'
 what_to_bring: 'All Caving Gear, all Camping Gear, vertical gear (if abseiling), plus a wetsuit.'
 ---
