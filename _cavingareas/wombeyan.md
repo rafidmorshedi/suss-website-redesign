@@ -9,6 +9,6 @@ getting_there: 'Take the Hume Highway towards Canberra. There are two routes fro
 location: 'About a 3-3.5 hour drive south of Sydney. Access is through Mittagong and along a spectacular winding road through the Wollondilly River Valley.'
 conditions_underground: 'Some of the caves involve wading in cool water (up to chest deep!) but wetsuits are not required. Upper levels can be rather warm, dry and dusty; however thermals are required for all trips as you can cool down rapidly in these caves, particularly when working on projects.'
 facilities: 'Camping ground with hot showers, flush toilets, running water. There is a kitchen with a hot water urn, toaster and pay BBQ plates, as well as a fridge and freezer. There is sometimes a microwave but do not rely on this. Most cavers cook on the campsite fire.'
-costs: 'Petrol money ~$20 return. SUSS members assisting with projects get free camping, otherwise it is $5 per person per night'
+costs: 'Petrol money Depends on how much the cost of fuel changes these days. Wombeyan  is about 520km return from USYD. Petrol / Diesel cars tend to be 7-12L/100km these days? . Camping fee is about $20 per person per night per National Parks'
 what_to_bring: 'All the Caving Gear PLUS Camping Gear including a camp chair.'
 ---
