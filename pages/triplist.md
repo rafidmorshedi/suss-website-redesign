@@ -64,8 +64,8 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | 24th Oct | Social + Training Day! <br> _Wahroonga Crag_ | **Learn the Ropes & BBQ Day!**  <br> _Join us for a day at a local crag and learn some rope skills for caving! Beginners and old hands welcome!_  |  [Tom C](mailto:usyd.suss+SRT@gmail.com) <br>  |
 | 31st Oct - 1st Nov | Beginner   <br> _Weekend Trip_| **Wombeyan Caves** <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |  [Raff](mailto:usyd.suss+raff@gmail.com)  |
 | ~~7th - 8th Nov~~ <br> 12th - 13th Dec | Advanced - SRT Skills Required! <br> _Weekend Trip_| **Tuglow Cave** <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_  |  [Alex M](mailto:usyd.suss+alex@gmail.com)  _Note: You will need your own wetsuit - this is a wet cave!_  |
-| 21st - 22nd Nov | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | **Wee Jasper Caves**  <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_| TBD - will be released in October <!--  [Raff O'G](mailto:usyd.suss+raff@gmail.com) --> |
-| 28th - 29th Nov | Beginner  <br> _Weekend Trip_| **Wombeyan Caves** <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ | TBD - will be released in October <!--   [Phil M](mailto:philm8544177@gmail.com) --> |
+| 21st - 22nd Nov | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | **Wee Jasper Caves**  <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_|  [Raff O'G](mailto:usyd.suss+raff@gmail.com)  |
+| 28th - 29th Nov | Beginner  <br> _Weekend Trip_| **Wombeyan Caves** <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ | [Cindy](mailto:usyd.suss+cindy@gmail.com) |
 | Future | More Trips Incoming! | Watch this space for new trips being added... | TBD |
 
 <!--
