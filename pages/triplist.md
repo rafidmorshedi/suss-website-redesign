@@ -69,7 +69,9 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | Thursday 19th Nov  | Training & Social Night! | **Weeknight SRT Ropeskills Workshop & Social Night @ The Ledge Climbing Gym** <br> _The Caving SRT Ropes Workshop runs from 6.30-8.30pm. You are welcome to come earlier if you would like to climb and/or socialise, and join us for dinner at the Forest Lodge Hotel afterwards_ |   [Tom C](mailto:usyd.suss+SRT@gmail.com) <br> _Note: Please pay Entry Fee upon arrival at the Climbing Gym_ | 
 | 21st - 22nd Nov | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | **Wee Jasper Caves**  <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_| [Raff O'G](mailto:usyd.suss+raff@gmail.com)  |
 | 28th - 29th Nov | Intermediate <br> _Weekend Trip_| **Wombeyan Caves** <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ | [Cindy](mailto:usyd.suss+cindy@gmail.com) |
+| 5th - 6th Dec | Everyone! <br> _Weekend Trip_ | **Christmas Party @ Bungonia** <br> Come enjoy a weekend of caving and socializing at our annual Christmas party! Please let us know if you have any dietary requirements. <br> _Departing Sydney on Friday night, ~2 hour drive from Sydney_| [TBD](mailto:usyd.suss+XMAS@gmail.com) |
 | 12th - 13th Dec | Advanced - SRT Skills Required! <br> _Weekend Trip_| **Tuglow Cave** <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_  |  [Alex M](mailto:usyd.suss+alex@gmail.com)  <br> You will need to be very experienced with SRT in order to join this trip. <br>  _Note: You will also need your own wetsuit and be able to swim - this is a wet cave!_  |
+
 | Future | More Trips Incoming! | Watch this space for new trips being added... | TBD |
 
 <!--
