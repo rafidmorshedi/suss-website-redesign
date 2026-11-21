@@ -71,6 +71,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | 28th - 29th Nov | Intermediate <br> _Weekend Trip_| **Wombeyan Caves** <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ | [Cindy](mailto:usyd.suss+cindy@gmail.com) |
 | 5th - 6th Dec | Everyone! <br> _Weekend Trip_ | **Christmas Party @ Bungonia** <br> Come enjoy a weekend of caving and socializing at our annual Christmas party! Please let us know if you have any dietary requirements. <br> _Departing Sydney on Friday night, ~2 hour drive from Sydney_| [TBD](mailto:usyd.suss+XMAS@gmail.com) |
 | 12th - 13th Dec | Advanced - SRT Skills Required! <br> _Weekend Trip_| **Tuglow Cave** <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_  |  [Alex M](mailto:usyd.suss+alex@gmail.com)  <br> You will need to be very experienced with SRT in order to join this trip. <br>  _Note: You will also need your own wetsuit and be able to swim - this is a wet cave!_  |
+| 6th - 21st Feb | Advanced - SRT Skills Required! <br> _Surveying Trip_ | **Mole Creek Caves**  <br> _Surveying Trip to Mole Creek, Tasmania. You will need to be very experienced with SRT, and have your own wetsuit to join this trip. Tassie caves are 9°C year round, and wet!_| [Phil M](mailto:philm8544177@gmail.com)  |
 
 | Future | More Trips Incoming! | Watch this space for new trips being added... | TBD |
 
