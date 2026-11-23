@@ -38,7 +38,8 @@ if you still have doubts about how much a trip will cost you._
 
 
 > **PLEASE NOTE:**  
-> If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip.  
+> If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip.
+> 
 > You will need to provide the following details:  
 > - Your previous experience with caving (if none, that's okay!)
 > - What suburb you are leaving from and if you need to carpool. If you are able to give people a lift, please also include the number of passengers you can take
