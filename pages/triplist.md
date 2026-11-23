@@ -52,8 +52,10 @@ _You will need to provide the following details:_
 
 If this is your first trip, please ensure you read through our [Beginners Handbook (click for link)](/assets/handbook.pdf).     
 
-## Trip Calendar
+# Trip Calendar
 *NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people usually depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
+
+## 2026
 
 | **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
 | :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
@@ -71,8 +73,19 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | 28th - 29th Nov | Intermediate <br> _Weekend Trip_| **Wombeyan Caves with HCG** <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ | [Cindy](mailto:usyd.suss+cindy@gmail.com) |
 | 5th - 6th Dec | Everyone! <br> _Weekend Trip_ | **Christmas Party @ Bungonia** <br> Come enjoy a weekend of caving and socializing at our annual Christmas party! Please let us know if you have any dietary requirements. <br> _Departing Sydney on Friday night, ~2 hour drive from Sydney_| [TBD](mailto:usyd.suss+XMAS@gmail.com) |
 | 12th - 13th Dec | Advanced - SRT Skills Required! <br> _Weekend Trip_| **Tuglow Cave** <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_  |  [Alex M](mailto:usyd.suss+alex@gmail.com)  <br> You will need to be very experienced with SRT in order to join this trip. <br>  _Note: You will also need your own wetsuit and be able to swim - this is a wet cave!_  |
-| 6th - 21st Feb | Advanced - SRT Skills Required! <br> _Surveying Trip_ | **Mole Creek Caves**  <br> _Surveying Trip to Mole Creek, Tasmania. You will need to be very experienced with SRT, and have your own wetsuit to join this trip. Tassie caves are 9°C year round, and wet!_| [Phil M](mailto:philm8544177@gmail.com)  |
+| 19 OR 20 Dec |  Canyon <br> _Single Day Trip_ | **Canyoning Trip** <br> _Exact Canyon and Date TBD. You may need SRT kit and/or wetsuit, depending on Canyon_ |   [Phil M](mailto:philm8544177@gmail.com) |
 
+
+
+## 2027
+
+| **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
+| :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
+| 9th - 10th Jan | Begiiner <br> _Weekend Trip_ | **Wyanbene Caves**  _Departing Sydney on Friday night, ~4 hours drive from Sydney_| [Cindy](mailto:usyd.suss+cindy@gmail.com)  |
+| 23th - 24th Jan | Advanced <br> _Training_ | **Surveying Workshop @ Bungonia**  <br> Want to learn how we survey and map out caves? Come join our workshop at Bungonia! <br> _You will need: pencils, protractor, ruler, Grid paper_ | [Phil M](mailto:philm8544177@gmail.com) |
+| 30st - 31st Jan | Beginner  <br> _Weekend Trip_| **Wombeyan Caves** <br> _Departing Sydney on Friday night, ~3 hour drive from Sydney_ |  [Phil M](mailto:philm8544177@gmail.com) |
+| 6th - 21st Feb | Advanced - SRT Skills Required! <br> _Surveying Trip_ | **Mole Creek Caves**  <br> _Surveying Trip to Mole Creek, Tasmania. You will need to be very experienced with SRT, and have your own wetsuit to join this trip. Tassie caves are 9°C year round, and wet!_| [Phil M](mailto:philm8544177@gmail.com)  |
+| 20th - 21st Feb | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | **Wee Jasper Caves**  <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_| [Aaron J](mailto:usyd.suss+aaron@gmail.com)  |
 | Future | More Trips Incoming! | Watch this space for new trips being added... | TBD |
 
 <!--
@@ -96,6 +109,14 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | Thursday 24th Sept |  Training & Social Night! | **Weeknight SRT Ropes Workshop & Social Night @ The Ledge Climbing Gym** <br> _The SRT Workshop runs from 6.30-8.30pm. You are welcome to come earlier if you would like to climb and/or socialise, and join us for dinner at the Forest Lodge Hotel afterwards_   |   [Raff O'G](mailto:usyd.suss+SRT@gmail.com)   <br> _Note: Please pay Entry Fee upon arrival at the Climbing Gym_  |
 
 -->
+
+# 34th Australian Speleological Federation Conference (June 2027)
+_Escape the cold and head to Chillagoe for the 34th Australian Speleological Federation Conference in June 2027. Blue skies, warm days, and some of Australia's most extraordinary karst caves. Early Bird tickets end 10th December 2026!_
+- **Conference Dates:** 20-26th June 2027. There will be pre & post conference caving trips, as well as a bunch of competitions! 
+- **Location:** Chillagoe
+- **Find out more & book tickets at [https://asfconference2027.com.au/](https://asfconference2027.com.au/)**.
+
+
 
 
 ## Trip Videos 
