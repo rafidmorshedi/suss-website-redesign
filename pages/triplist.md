@@ -55,7 +55,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 # Trip Calendar
 *NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people usually depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
 
-<!-- ## 2026 -->
+## 2026
 
 | **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
 | :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
