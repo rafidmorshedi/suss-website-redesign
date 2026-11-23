@@ -55,7 +55,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 # Trip Calendar
 *NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people usually depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
 
-## 2026
+<!-- ## 2026 -->
 
 | **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
 | :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
@@ -87,7 +87,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | 6th - 21st Feb | Advanced - SRT Skills Required! <br> _Surveying Trip_ | **Mole Creek Caves**  <br> _Surveying Trip to Mole Creek, Tasmania. You will need to be very experienced with SRT, and have your own wetsuit to join this trip. Tassie caves are 9°C year round, and wet!_| [Phil M](mailto:philm8544177@gmail.com)  |
 | 20th - 21st Feb | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | **Wee Jasper Caves**  <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_| [Aaron J](mailto:usyd.suss+aaron@gmail.com)  |
 | Future | More Trips Incoming! | Watch this space for new trips being added... | TBD |
-
+-->
 <!--
 | 19th Apr - 2nd May | TRIP FULL | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
 | 14th May Thursday Evening | Social / Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
