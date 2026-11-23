@@ -196,7 +196,14 @@ code {
 ul, ol {
     margin-left: 20px;
     padding: 0;
+    margin-top: 0;
 }
+
+/* Removes the bottom gap from the paragraph right above a list */
+p + ul, p + ol {
+    margin-top: -1rem; /* Adjust if your theme uses a different paragraph margin, e.g. -1.25rem */
+}
+
 li {
     margin-left: 0;
 }
