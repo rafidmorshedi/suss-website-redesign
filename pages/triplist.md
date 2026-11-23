@@ -51,7 +51,7 @@ if you still have doubts about how much a trip will cost you._
 >- Please also include the Location / Trip Name and date in your subject line to make it easier for our trip leaders, or your email might get missed!
 
 
-### **If this is your first trip, please ensure you read through our [Beginners Handbook (click for link)](/assets/handbook.pdf).**
+#### **If this is your first trip, please ensure you read through our [Beginners Handbook (click for link)](/assets/handbook.pdf).**
 
 <br>
 
