@@ -38,7 +38,8 @@ if you still have doubts about how much a trip will cost you._
 
 
 > **PLEASE NOTE:**
-If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip.
+>
+> If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip.
 >
 > You will need to provide the following details:
 > - Your previous experience with caving (if none, that's okay!)
@@ -49,7 +50,8 @@ If you would like to join a trip, please get in touch with the trip leader and l
 >     - Overalls
 >     - Tents, sleeping bags, and sleeping mats
 > - No pets on trips
-> - Please also include the Location / Trip Name and date in your subject line to make it easier for our trip leaders, or your email might get missed!
+>
+> Please also include the Location / Trip Name and date in your subject line to make it easier for our trip leaders, or your email might get missed!
 
 
 #### **If this is your first trip, please ensure you read through our [Beginners Handbook (click for link)](/assets/handbook.pdf).**
