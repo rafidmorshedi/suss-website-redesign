@@ -60,7 +60,7 @@ if you still have doubts about how much a trip will cost you._
 
 ## 2026
 
-| **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
+| **Date**       <br>       | **Category** <br>  | **Description**     <br>                                   | **Trip Organiser** <br> _(Click on name for email address)_                                                                                 |
 | :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
 | 7th - 8th Nov | Beginner <br> _Weekend Trip_| **Timor Caves (NSW)** <br> _Departing Sydney on Friday night, ~5 hour drive from Sydney (near Scone)_ <br>  _Note: You will be bush camping. There are no amenities at the campsite (no toilets, kitchen, electricity etc_ |  [Raff OG](mailto:usyd.suss+raff@gmail.com)  |
 | Thursday 19th Nov  | Training & Social Night! | **Weeknight SRT Ropeskills Workshop & Social Night @ The Ledge Climbing Gym** <br> _The Caving SRT Ropes Workshop runs from 6.30-8.30pm. You are welcome to come earlier if you would like to climb and/or socialise, and join us for dinner at the Forest Lodge Hotel afterwards_  <br> Note: Please pay Entry Fee upon arrival at the Climbing Gym |   [Tom C](mailto:usyd.suss+SRT@gmail.com) | 
@@ -74,7 +74,7 @@ if you still have doubts about how much a trip will cost you._
 
 ## 2027
 
-| **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
+| **Date**       <br>       | **Category** <br>  | **Description**     <br>                                   | **Trip Organiser** <br> _(Click on name for email address)_                                                                                 |
 | :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
 | 9th - 10th Jan | Beginner <br> _Weekend Trip_ | **Wyanbene Caves**  <br> _Departing Sydney on Friday night, ~4 hours drive from Sydney_| [Cindy](mailto:usyd.suss+cindy@gmail.com)  |
 | 23th - 24th Jan | Advanced <br> _Training_ | **Surveying Workshop @ Bungonia**  <br> _Want to learn how we survey and map out caves? Come join our workshop at Bungonia! Please BYO pencils, protractor, ruler, Grid paper_ | [Phil M](mailto:philm8544177@gmail.com) |
