@@ -253,7 +253,15 @@ blockquote {
     padding: 1rem 1.25rem;
     margin: 1.5rem 0;
 }
-  
+
+article blockquote p {
+    margin-bottom: 0;
+}
+
+article blockquote ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
 
 
     blockquote p {font-style: italic; color: $grey-10; }
