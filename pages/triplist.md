@@ -30,30 +30,32 @@ permalink: "/triplist/"
 </style>
 
 
-All trips are suitable for beginners, unless otherwise stated.  It is YOUR responsibility to inform the trip supervisor of any relevant medical
+_All trips are suitable for beginners, unless otherwise stated.  It is YOUR responsibility to inform the trip supervisor of any relevant medical
 conditions which may in any way affect your fitness, such as diabetes,
 asthma and the like. There will usually be costs involved when going on any trip. Check the <a href="/assets/handbook.pdf">Beginner's Handbook</a>
 for information on the expected costs, for area-specific information, and general info about caving. Alternatively, ask the trip coordinator or your driver
-if you still have doubts about how much a trip will cost you.
+if you still have doubts about how much a trip will cost you._
 
-**PLEASE NOTE:**
-If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip. 
 
-_You will need to provide the following details:_
--   Your previous experience with caving (if none, that's okay!)
--   What suburb you are leaving from and if you require a ride, or can give someone a lift
--   If you need to borrow SUSS gear. Things you'll need for the trips that can be borrowed from SUSS include:
-    -   helmets
-    -   head torches (bring your own batteries - 8 x AA)
-    -   overalls
-    -   tents, sleeping bags, sleeping mats
-- No pets on trips
-- Please also include the Location / Trip Name and date in your subject line to make it easier for our trip leaders, or your email might get missed!
+>**PLEASE NOTE:**
+>If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip. 
+>_You will need to provide the following details:_
+>-   Your previous experience with caving (if none, that's okay!)
+>-   What suburb you are leaving from and if you require a ride, or can give someone a lift
+>-   If you need to borrow SUSS gear. Things you'll need for the trips that can be borrowed from SUSS include:
+>    -   helmets
+>    -   head torches (bring your own batteries - 8 x AA)
+>    -   overalls
+>    -   tents, sleeping bags, sleeping mats
+>- No pets on trips
+>- Please also include the Location / Trip Name and date in your subject line to make it easier for our trip leaders, or your email might get missed!
 
-If this is your first trip, please ensure you read through our [Beginners Handbook (click for link)](/assets/handbook.pdf).     
+
+### **If this is your first trip, please ensure you read through our [Beginners Handbook (click for link)](/assets/handbook.pdf).**
+
+<br>
 
 # Trip Calendar
-*NB: For Multiday trips (eg a weekend trip that is from Saturday to Sunday), most people usually depart the night before (eg on the Friday) as the caves are a few hour's drive away from Sydney
 
 ## 2026
 
@@ -110,6 +112,9 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 
 -->
 
+<br>
+<br>
+
 
 # 34th Australian Speleological Federation Conference (June 2027)
 _Escape the cold and head to Chillagoe for the 34th Australian Speleological Federation Conference in June 2027. Blue skies, warm days, and some of Australia's most extraordinary karst caves. Early Bird tickets end 10th December 2026!_
@@ -119,7 +124,7 @@ _Escape the cold and head to Chillagoe for the 34th Australian Speleological Fed
 
 
 
-
+<br>
 ## Trip Videos 
  
 [Middle Cove SRT Day](https://youtu.be/PVwuTJvQgo0)  
