@@ -36,19 +36,18 @@ asthma and the like. There will usually be costs involved when going on any trip
 for information on the expected costs, for area-specific information, and general info about caving. Alternatively, ask the trip coordinator or your driver
 if you still have doubts about how much a trip will cost you._
 
-
-> **PLEASE NOTE:**  
+**PLEASE NOTE:**  
 > If you would like to join a trip, please get in touch with the trip leader and let them know 2 weeks prior to the trip (you may be able to sign up closer to the time but this is dependent on numbers). Trip leaders will usually reach out with the trip details and request confirmation of your attendance a week before the trip.
 > 
-> You will need to provide the following details:  
-> - Your previous experience with caving (if none, that's okay!)
-> - What suburb you are leaving from and if you need to carpool. If you are able to give people a lift, please also include the number of passengers you can take
-> - Whether you need to borrow SUSS gear (available equipment includes):
->     - Helmets
->     - Head torches (You must bring your own batteries: 8 x AA)
->     - Overalls
->     - Tents, sleeping bags, and sleeping mats
-> - No pets on trips    
+> **You will need to provide the following details:**  
+> - _Your previous experience with caving (if none, that's okay!)_
+> - _What suburb you are leaving from and if you need to carpool. If you are able to give people a lift, please also include the number of passengers you can take
+> - _Whether you need to borrow SUSS gear (available equipment includes):_
+>     - _Helmets_
+>     - _Head torches (You must bring your own batteries: 8 x AA)_
+>     - _Overalls_
+>     - _Tents, sleeping bags, and sleeping mats_
+> - _No pets on trips_    
 >
 > Please also include the Location / Trip Name and date in your subject line to make it easier for our trip leaders, or your email might get missed!
 
