@@ -76,7 +76,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | 19 OR 20 Dec |  Canyon <br> _Single Day Trip_ | **Canyoning Trip** <br> _Exact Canyon and Date TBD. You may need SRT kit and/or wetsuit, depending on Canyon_ |   [Phil M](mailto:philm8544177@gmail.com) |
 
 
-<!--
+
 ## 2027
 
 | **Date**       <br>       | **Trip Type** <br>  | **Trip**     <br>                                   | **Contact to join Trip** <br> _(Click on name for email address)_                                                                                 |
@@ -87,7 +87,7 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 | 6th - 21st Feb | Advanced - SRT Skills Required! <br> _Surveying Trip_ | **Mole Creek Caves**  <br> _Surveying Trip to Mole Creek, Tasmania. You will need to be very experienced with SRT, and have your own wetsuit to join this trip. Tassie caves are 9°C year round, and wet!_| [Phil M](mailto:philm8544177@gmail.com)  |
 | 20th - 21st Feb | Intermediate  - SRT Skills Required! <br> _Weekend Trip_ | **Wee Jasper Caves**  <br> _Departing Sydney on Friday night, ~4 hour drive from Sydney_| [Aaron J](mailto:usyd.suss+aaron@gmail.com)  |
 | Future | More Trips Incoming! | Watch this space for new trips being added... | TBD |
--->
+
 <!--
 | 19th Apr - 2nd May | TRIP FULL | Mt Etna Caves (QLD) |   [Rod OB](mailto:constructiondiver@bigpond.com)  |
 | 14th May Thursday Evening | Social / Training | Weeknight SRT Ropes Workshop @ The Ledge Climbing Gym |   [Cindy L](mailto:usyd.suss+cindy@gmail.com)  |
@@ -110,13 +110,13 @@ If this is your first trip, please ensure you read through our [Beginners Handbo
 
 -->
 
-<!--
+
 # 34th Australian Speleological Federation Conference (June 2027)
 _Escape the cold and head to Chillagoe for the 34th Australian Speleological Federation Conference in June 2027. Blue skies, warm days, and some of Australia's most extraordinary karst caves. Early Bird tickets end 10th December 2026!_
 - **Conference Dates:** 20-26th June 2027. There will be pre & post conference caving trips, as well as a bunch of competitions! 
 - **Location:** Chillagoe
 - **Find out more & book tickets at [https://asfconference2027.com.au/](https://asfconference2027.com.au/)**.
--->
+
 
 
 
