@@ -56,6 +56,7 @@ if you still have doubts about how much a trip will cost you._
 <br>
 
 # Trip Calendar
+---
 
 ## 2026
 
