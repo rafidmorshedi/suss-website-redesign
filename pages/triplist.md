@@ -59,7 +59,7 @@ If you would like to join a trip, please get in touch with the trip leader and l
 # Trip Calendar
 ---
 
-## 2026!
+## 2026
 
 | **Date**       <br>       | **Category** <br>  | **Activity**     <br>                                   | **Trip Organiser** <br> _(Click on name for email address)_                                                                                 |
 | :--------------------- | :------------------------------- | :------------------------------------------------ | :----------------------------------------- | 
